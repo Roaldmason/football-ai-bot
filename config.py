@@ -1,11 +1,7 @@
-# config.py  —  football-data.org v4
-API_FOOTBALL_KEY    = "e0afc3e5ec334d44bc3d207811fbc764"
-API_FOOTBALL_BASE   = "https://api.football-data.org/v4"
-API_FOOTBALL_SEASON = 2025   # 2025 = 2025/26 season on football-data.org
+import os
 
-TELEGRAM_BOT_TOKEN  = "8573812227:AAGyn4ab2tkWxhG8Kn5W7DbhYQoLGaDIlnI"
-TELEGRAM_CHANNEL_ID = " 8573812227"
-
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+API_KEY = os.getenv("API_KEY")
 # football-data.org competition codes
 LEAGUES = {
     "Premier League":    {"id": "PL",   "flag": "PL"},
