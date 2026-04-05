@@ -1,0 +1,381 @@
+fixture_id,date,home_team,home_id,away_team,away_id,home_goals,away_goals,home_win,draw,away_win
+1208021,2024-08-16,Manchester United,33,Fulham,36,1,0,1,0,0
+1208022,2024-08-17,Ipswich,57,Liverpool,40,0,2,0,0,1
+1208025,2024-08-17,Newcastle,34,Southampton,41,1,0,1,0,0
+1208023,2024-08-17,Arsenal,42,Wolves,39,2,0,1,0,0
+1208024,2024-08-17,Everton,45,Brighton,51,0,3,0,0,1
+1208026,2024-08-17,Nottingham Forest,65,Bournemouth,35,1,1,0,1,0
+1208027,2024-08-17,West Ham,48,Aston Villa,66,1,2,0,0,1
+1208028,2024-08-18,Brentford,55,Crystal Palace,52,2,1,1,0,0
+1208029,2024-08-18,Chelsea,49,Manchester City,50,0,2,0,0,1
+1208030,2024-08-19,Leicester,46,Tottenham,47,1,1,0,1,0
+1208033,2024-08-24,Brighton,51,Manchester United,33,2,1,1,0,0
+1208035,2024-08-24,Fulham,36,Leicester,46,2,1,1,0,0
+1208038,2024-08-24,Southampton,41,Nottingham Forest,65,0,1,0,0,1
+1208039,2024-08-24,Tottenham,47,Everton,45,4,0,1,0,0
+1208037,2024-08-24,Manchester City,50,Ipswich,57,4,1,1,0,0
+1208034,2024-08-24,Crystal Palace,52,West Ham,48,0,2,0,0,1
+1208032,2024-08-24,Aston Villa,66,Arsenal,42,0,2,0,0,1
+1208031,2024-08-25,Bournemouth,35,Newcastle,34,1,1,0,1,0
+1208040,2024-08-25,Wolves,39,Chelsea,49,2,6,0,0,1
+1208036,2024-08-25,Liverpool,40,Brentford,55,2,0,1,0,0
+1208041,2024-08-31,Arsenal,42,Brighton,51,1,1,0,1,0
+1208044,2024-08-31,Everton,45,Bournemouth,35,2,3,0,0,1
+1208046,2024-08-31,Leicester,46,Aston Villa,66,1,2,0,0,1
+1208042,2024-08-31,Brentford,55,Southampton,41,3,1,1,0,0
+1208045,2024-08-31,Ipswich,57,Fulham,36,1,1,0,1,0
+1208049,2024-08-31,Nottingham Forest,65,Wolves,39,1,1,0,1,0
+1208050,2024-08-31,West Ham,48,Manchester City,50,1,3,0,0,1
+1208048,2024-09-01,Newcastle,34,Tottenham,47,2,1,1,0,0
+1208043,2024-09-01,Chelsea,49,Crystal Palace,52,1,1,0,1,0
+1208047,2024-09-01,Manchester United,33,Liverpool,40,0,3,0,0,1
+1208058,2024-09-14,Southampton,41,Manchester United,33,0,3,0,0,1
+1208055,2024-09-14,Fulham,36,West Ham,48,1,1,0,1,0
+1208056,2024-09-14,Liverpool,40,Nottingham Forest,65,0,1,0,0,1
+1208057,2024-09-14,Manchester City,50,Brentford,55,2,1,1,0,0
+1208053,2024-09-14,Brighton,51,Ipswich,57,0,0,0,1,0
+1208054,2024-09-14,Crystal Palace,52,Leicester,46,2,2,0,1,0
+1208052,2024-09-14,Aston Villa,66,Everton,45,3,2,1,0,0
+1208051,2024-09-14,Bournemouth,35,Chelsea,49,0,1,0,0,1
+1208059,2024-09-15,Tottenham,47,Arsenal,42,0,1,0,0,1
+1208060,2024-09-15,Wolves,39,Newcastle,34,1,2,0,0,1
+1208070,2024-09-21,West Ham,48,Chelsea,49,0,3,0,0,1
+1208064,2024-09-21,Fulham,36,Newcastle,34,3,1,1,0,0
+1208066,2024-09-21,Liverpool,40,Bournemouth,35,3,0,1,0,0
+1208068,2024-09-21,Southampton,41,Ipswich,57,1,1,0,1,0
+1208065,2024-09-21,Leicester,46,Everton,45,1,1,0,1,0
+1208069,2024-09-21,Tottenham,47,Brentford,55,3,1,1,0,0
+1208061,2024-09-21,Aston Villa,66,Wolves,39,3,1,1,0,0
+1208063,2024-09-21,Crystal Palace,52,Manchester United,33,0,0,0,1,0
+1208062,2024-09-22,Brighton,51,Nottingham Forest,65,2,2,0,1,0
+1208067,2024-09-22,Manchester City,50,Arsenal,42,2,2,0,1,0
+1208078,2024-09-28,Newcastle,34,Manchester City,50,1,1,0,1,0
+1208072,2024-09-28,Arsenal,42,Leicester,46,4,2,1,0,0
+1208075,2024-09-28,Everton,45,Crystal Palace,52,2,1,1,0,0
+1208074,2024-09-28,Chelsea,49,Brighton,51,4,2,1,0,0
+1208073,2024-09-28,Brentford,55,West Ham,48,1,1,0,1,0
+1208079,2024-09-28,Nottingham Forest,65,Fulham,36,0,1,0,0,1
+1208080,2024-09-28,Wolves,39,Liverpool,40,1,2,0,0,1
+1208076,2024-09-29,Ipswich,57,Aston Villa,66,2,2,0,1,0
+1208077,2024-09-29,Manchester United,33,Tottenham,47,0,3,0,0,1
+1208071,2024-09-30,Bournemouth,35,Southampton,41,3,1,1,0,0
+1208086,2024-10-05,Crystal Palace,52,Liverpool,40,0,1,0,0,1
+1208081,2024-10-05,Arsenal,42,Southampton,41,3,1,1,0,0
+1208088,2024-10-05,Leicester,46,Bournemouth,35,1,0,1,0,0
+1208090,2024-10-05,West Ham,48,Ipswich,57,4,1,1,0,0
+1208089,2024-10-05,Manchester City,50,Fulham,36,3,2,1,0,0
+1208083,2024-10-05,Brentford,55,Wolves,39,5,3,1,0,0
+1208087,2024-10-05,Everton,45,Newcastle,34,0,0,0,1,0
+1208085,2024-10-06,Chelsea,49,Nottingham Forest,65,1,1,0,1,0
+1208082,2024-10-06,Aston Villa,66,Manchester United,33,0,0,0,1,0
+1208084,2024-10-06,Brighton,51,Tottenham,47,3,2,1,0,0
+1208099,2024-10-19,Tottenham,47,West Ham,48,4,1,1,0,0
+1208095,2024-10-19,Manchester United,33,Brentford,55,2,1,1,0,0
+1208096,2024-10-19,Newcastle,34,Brighton,51,0,1,0,0,1
+1208092,2024-10-19,Fulham,36,Aston Villa,66,1,3,0,0,1
+1208098,2024-10-19,Southampton,41,Leicester,46,2,3,0,0,1
+1208093,2024-10-19,Ipswich,57,Everton,45,0,2,0,0,1
+1208091,2024-10-19,Bournemouth,35,Arsenal,42,2,0,1,0,0
+1208100,2024-10-20,Wolves,39,Manchester City,50,1,2,0,0,1
+1208094,2024-10-20,Liverpool,40,Chelsea,49,2,1,1,0,0
+1208097,2024-10-21,Nottingham Forest,65,Crystal Palace,52,1,0,1,0,0
+1208110,2024-10-25,Leicester,46,Nottingham Forest,65,1,3,0,0,1
+1208111,2024-10-26,Manchester City,50,Southampton,41,1,0,1,0,0
+1208106,2024-10-26,Brighton,51,Wolves,39,2,2,0,1,0
+1208105,2024-10-26,Brentford,55,Ipswich,57,4,3,1,0,0
+1208104,2024-10-26,Aston Villa,66,Bournemouth,35,1,1,0,1,0
+1208109,2024-10-26,Everton,45,Fulham,36,1,1,0,1,0
+1208112,2024-10-27,West Ham,48,Manchester United,33,2,1,1,0,0
+1208107,2024-10-27,Chelsea,49,Newcastle,34,2,1,1,0,0
+1208108,2024-10-27,Crystal Palace,52,Tottenham,47,1,0,1,0,0
+1208103,2024-10-27,Arsenal,42,Liverpool,40,2,2,0,1,0
+1208118,2024-11-02,Newcastle,34,Arsenal,42,1,0,1,0,0
+1208113,2024-11-02,Bournemouth,35,Manchester City,50,2,1,1,0,0
+1208116,2024-11-02,Liverpool,40,Brighton,51,2,1,1,0,0
+1208120,2024-11-02,Southampton,41,Everton,45,1,0,1,0,0
+1208115,2024-11-02,Ipswich,57,Leicester,46,1,1,0,1,0
+1208119,2024-11-02,Nottingham Forest,65,West Ham,48,3,0,1,0,0
+1208122,2024-11-02,Wolves,39,Crystal Palace,52,2,2,0,1,0
+1208121,2024-11-03,Tottenham,47,Aston Villa,66,4,1,1,0,0
+1208117,2024-11-03,Manchester United,33,Chelsea,49,1,1,0,1,0
+1208114,2024-11-04,Fulham,36,Brentford,55,2,1,1,0,0
+1208132,2024-11-09,Wolves,39,Southampton,41,2,0,1,0,0
+1208131,2024-11-09,West Ham,48,Everton,45,0,0,0,1,0
+1208126,2024-11-09,Crystal Palace,52,Fulham,36,0,2,0,0,1
+1208123,2024-11-09,Brentford,55,Bournemouth,35,3,2,1,0,0
+1208124,2024-11-09,Brighton,51,Manchester City,50,2,1,1,0,0
+1208127,2024-11-09,Liverpool,40,Aston Villa,66,2,0,1,0,0
+1208128,2024-11-10,Manchester United,33,Leicester,46,3,0,1,0,0
+1208130,2024-11-10,Tottenham,47,Ipswich,57,1,2,0,0,1
+1208129,2024-11-10,Nottingham Forest,65,Newcastle,34,1,3,0,0,1
+1208125,2024-11-10,Chelsea,49,Arsenal,42,1,1,0,1,0
+1208139,2024-11-23,Leicester,46,Chelsea,49,1,2,0,0,1
+1208133,2024-11-23,Bournemouth,35,Brighton,51,1,2,0,0,1
+1208137,2024-11-23,Fulham,36,Wolves,39,1,4,0,0,1
+1208134,2024-11-23,Arsenal,42,Nottingham Forest,65,3,0,1,0,0
+1208136,2024-11-23,Everton,45,Brentford,55,0,0,0,1,0
+1208135,2024-11-23,Aston Villa,66,Crystal Palace,52,2,2,0,1,0
+1208140,2024-11-23,Manchester City,50,Tottenham,47,0,4,0,0,1
+1208142,2024-11-24,Southampton,41,Liverpool,40,2,3,0,0,1
+1208138,2024-11-24,Ipswich,57,Manchester United,33,1,1,0,1,0
+1208141,2024-11-25,Newcastle,34,West Ham,48,0,2,0,0,1
+1208144,2024-11-29,Brighton,51,Southampton,41,1,1,0,1,0
+1208152,2024-11-30,Wolves,39,Bournemouth,35,2,4,0,0,1
+1208146,2024-11-30,Crystal Palace,52,Newcastle,34,1,1,0,1,0
+1208143,2024-11-30,Brentford,55,Leicester,46,4,1,1,0,0
+1208149,2024-11-30,Nottingham Forest,65,Ipswich,57,1,0,1,0,0
+1208151,2024-11-30,West Ham,48,Arsenal,42,2,5,0,0,1
+1208148,2024-12-01,Manchester United,33,Everton,45,4,0,1,0,0
+1208150,2024-12-01,Tottenham,47,Fulham,36,1,1,0,1,0
+1208145,2024-12-01,Chelsea,49,Aston Villa,66,3,0,1,0,0
+1208147,2024-12-01,Liverpool,40,Manchester City,50,2,0,1,0,0
+1208158,2024-12-03,Ipswich,57,Crystal Palace,52,0,1,0,0,1
+1208159,2024-12-03,Leicester,46,West Ham,48,3,1,1,0,0
+1208161,2024-12-04,Newcastle,34,Liverpool,40,3,3,0,1,0
+1208162,2024-12-04,Southampton,41,Chelsea,49,1,5,0,0,1
+1208156,2024-12-04,Everton,45,Wolves,39,4,0,1,0,0
+1208160,2024-12-04,Manchester City,50,Nottingham Forest,65,3,0,1,0,0
+1208154,2024-12-04,Arsenal,42,Manchester United,33,2,0,1,0,0
+1208155,2024-12-04,Aston Villa,66,Brentford,55,3,1,1,0,0
+1208157,2024-12-05,Fulham,36,Brighton,51,3,1,1,0,0
+1208153,2024-12-05,Bournemouth,35,Tottenham,47,1,0,1,0,0
+1208165,2024-12-07,Crystal Palace,52,Manchester City,50,2,2,0,1,0
+1208164,2024-12-07,Brentford,55,Newcastle,34,4,2,1,0,0
+1208163,2024-12-07,Aston Villa,66,Southampton,41,1,0,1,0,0
+1208170,2024-12-07,Manchester United,33,Nottingham Forest,65,2,3,0,0,1
+1208167,2024-12-08,Fulham,36,Arsenal,42,1,1,0,1,0
+1208169,2024-12-08,Leicester,46,Brighton,51,2,2,0,1,0
+1208168,2024-12-08,Ipswich,57,Bournemouth,35,1,2,0,0,1
+1208171,2024-12-08,Tottenham,47,Chelsea,49,3,4,0,0,1
+1208172,2024-12-09,West Ham,48,Wolves,39,2,1,1,0,0
+1208179,2024-12-14,Newcastle,34,Leicester,46,4,0,1,0,0
+1208182,2024-12-14,Wolves,39,Ipswich,57,1,2,0,0,1
+1208177,2024-12-14,Liverpool,40,Fulham,36,2,2,0,1,0
+1208174,2024-12-14,Arsenal,42,Everton,45,0,0,0,1,0
+1208180,2024-12-14,Nottingham Forest,65,Aston Villa,66,2,1,1,0,0
+1208175,2024-12-15,Brighton,51,Crystal Palace,52,1,3,0,0,1
+1208178,2024-12-15,Manchester City,50,Manchester United,33,1,2,0,0,1
+1208181,2024-12-15,Southampton,41,Tottenham,47,0,5,0,0,1
+1208176,2024-12-15,Chelsea,49,Brentford,55,2,1,1,0,0
+1208173,2024-12-16,Bournemouth,35,West Ham,48,1,1,0,1,0
+1208183,2024-12-21,Aston Villa,66,Manchester City,50,2,1,1,0,0
+1208192,2024-12-21,West Ham,48,Brighton,51,1,1,0,1,0
+1208184,2024-12-21,Brentford,55,Nottingham Forest,65,0,2,0,0,1
+1208188,2024-12-21,Ipswich,57,Newcastle,34,0,4,0,0,1
+1208185,2024-12-21,Crystal Palace,52,Arsenal,42,1,5,0,0,1
+1208190,2024-12-22,Manchester United,33,Bournemouth,35,0,3,0,0,1
+1208187,2024-12-22,Fulham,36,Southampton,41,0,0,0,1,0
+1208186,2024-12-22,Everton,45,Chelsea,49,0,0,0,1,0
+1208189,2024-12-22,Leicester,46,Wolves,39,0,3,0,0,1
+1208191,2024-12-22,Tottenham,47,Liverpool,40,3,6,0,0,1
+1208198,2024-12-26,Manchester City,50,Everton,45,1,1,0,1,0
+1208199,2024-12-26,Newcastle,34,Aston Villa,66,3,0,1,0,0
+1208193,2024-12-26,Bournemouth,35,Crystal Palace,52,0,0,0,1,0
+1208201,2024-12-26,Southampton,41,West Ham,48,0,1,0,0,1
+1208196,2024-12-26,Chelsea,49,Fulham,36,1,2,0,0,1
+1208200,2024-12-26,Nottingham Forest,65,Tottenham,47,1,0,1,0,0
+1208202,2024-12-26,Wolves,39,Manchester United,33,2,0,1,0,0
+1208197,2024-12-26,Liverpool,40,Leicester,46,3,1,1,0,0
+1208195,2024-12-27,Brighton,51,Brentford,55,0,0,0,1,0
+1208194,2024-12-27,Arsenal,42,Ipswich,57,1,0,1,0,0
+1208209,2024-12-29,Leicester,46,Manchester City,50,0,2,0,0,1
+1208207,2024-12-29,Fulham,36,Bournemouth,35,2,2,0,1,0
+1208206,2024-12-29,Everton,45,Nottingham Forest,65,0,2,0,0,1
+1208211,2024-12-29,Tottenham,47,Wolves,39,2,2,0,1,0
+1208205,2024-12-29,Crystal Palace,52,Southampton,41,2,1,1,0,0
+1208212,2024-12-29,West Ham,48,Liverpool,40,0,5,0,0,1
+1208208,2024-12-30,Ipswich,57,Chelsea,49,2,0,1,0,0
+1208203,2024-12-30,Aston Villa,66,Brighton,51,2,2,0,1,0
+1208210,2024-12-30,Manchester United,33,Newcastle,34,0,2,0,0,1
+1208204,2025-01-01,Brentford,55,Arsenal,42,1,3,0,0,1
+1208221,2025-01-04,Tottenham,47,Newcastle,34,1,2,0,0,1
+1208213,2025-01-04,Bournemouth,35,Everton,45,1,0,1,0,0
+1208220,2025-01-04,Southampton,41,Brentford,55,0,5,0,0,1
+1208219,2025-01-04,Manchester City,50,West Ham,48,4,1,1,0,0
+1208216,2025-01-04,Crystal Palace,52,Chelsea,49,1,1,0,1,0
+1208214,2025-01-04,Aston Villa,66,Leicester,46,2,1,1,0,0
+1208215,2025-01-04,Brighton,51,Arsenal,42,1,1,0,1,0
+1208217,2025-01-05,Fulham,36,Ipswich,57,2,2,0,1,0
+1208218,2025-01-05,Liverpool,40,Manchester United,33,2,2,0,1,0
+1208222,2025-01-06,Wolves,39,Nottingham Forest,65,0,3,0,0,1
+1208229,2025-01-14,West Ham,48,Fulham,36,3,2,1,0,0
+1208230,2025-01-14,Chelsea,49,Bournemouth,35,2,2,0,1,0
+1208224,2025-01-14,Brentford,55,Manchester City,50,2,2,0,1,0
+1208228,2025-01-14,Nottingham Forest,65,Liverpool,40,1,1,0,1,0
+1208231,2025-01-15,Newcastle,34,Wolves,39,3,0,1,0,0
+1208225,2025-01-15,Everton,45,Aston Villa,66,0,1,0,0,1
+1208227,2025-01-15,Leicester,46,Crystal Palace,52,0,2,0,0,1
+1208223,2025-01-15,Arsenal,42,Tottenham,47,2,1,1,0,0
+1208226,2025-01-16,Ipswich,57,Brighton,51,0,2,0,0,1
+1208232,2025-01-16,Manchester United,33,Southampton,41,3,1,1,0,0
+1208240,2025-01-18,Newcastle,34,Bournemouth,35,1,4,0,0,1
+1208238,2025-01-18,Leicester,46,Fulham,36,0,2,0,0,1
+1208242,2025-01-18,West Ham,48,Crystal Palace,52,0,2,0,0,1
+1208234,2025-01-18,Brentford,55,Liverpool,40,0,2,0,0,1
+1208233,2025-01-18,Arsenal,42,Aston Villa,66,2,2,0,1,0
+1208239,2025-01-19,Manchester United,33,Brighton,51,1,3,0,0,1
+1208236,2025-01-19,Everton,45,Tottenham,47,3,2,1,0,0
+1208241,2025-01-19,Nottingham Forest,65,Southampton,41,3,2,1,0,0
+1208237,2025-01-19,Ipswich,57,Manchester City,50,0,6,0,0,1
+1208235,2025-01-20,Chelsea,49,Wolves,39,3,1,1,0,0
+1208243,2025-01-25,Bournemouth,35,Nottingham Forest,65,5,0,1,0,0
+1208252,2025-01-25,Wolves,39,Arsenal,42,0,1,0,0,1
+1208248,2025-01-25,Liverpool,40,Ipswich,57,4,1,1,0,0
+1208250,2025-01-25,Southampton,41,Newcastle,34,1,3,0,0,1
+1208245,2025-01-25,Brighton,51,Everton,45,0,1,0,0,1
+1208249,2025-01-25,Manchester City,50,Chelsea,49,3,1,1,0,0
+1208251,2025-01-26,Tottenham,47,Leicester,46,1,2,0,0,1
+1208246,2025-01-26,Crystal Palace,52,Brentford,55,1,2,0,0,1
+1208244,2025-01-26,Aston Villa,66,West Ham,48,1,1,0,1,0
+1208247,2025-01-26,Fulham,36,Manchester United,33,0,1,0,0,1
+1208261,2025-02-01,Nottingham Forest,65,Brighton,51,7,0,1,0,0
+1208260,2025-02-01,Newcastle,34,Fulham,36,1,2,0,0,1
+1208253,2025-02-01,Bournemouth,35,Liverpool,40,0,2,0,0,1
+1208257,2025-02-01,Everton,45,Leicester,46,4,0,1,0,0
+1208258,2025-02-01,Ipswich,57,Southampton,41,1,2,0,0,1
+1208262,2025-02-01,Wolves,39,Aston Villa,66,2,0,1,0,0
+1208259,2025-02-02,Manchester United,33,Crystal Palace,52,0,2,0,0,1
+1208255,2025-02-02,Brentford,55,Tottenham,47,0,2,0,0,1
+1208254,2025-02-02,Arsenal,42,Manchester City,50,5,1,1,0,0
+1208256,2025-02-03,Chelsea,49,West Ham,48,2,1,1,0,0
+1208166,2025-02-12,Everton,45,Liverpool,40,2,2,0,1,0
+1208264,2025-02-14,Brighton,51,Chelsea,49,3,0,1,0,0
+1208267,2025-02-15,Leicester,46,Arsenal,42,0,2,0,0,1
+1208266,2025-02-15,Fulham,36,Nottingham Forest,65,2,1,1,0,0
+1208270,2025-02-15,Southampton,41,Bournemouth,35,1,3,0,0,1
+1208272,2025-02-15,West Ham,48,Brentford,55,0,1,0,0,1
+1208269,2025-02-15,Manchester City,50,Newcastle,34,4,0,1,0,0
+1208263,2025-02-15,Aston Villa,66,Ipswich,57,1,1,0,1,0
+1208265,2025-02-15,Crystal Palace,52,Everton,45,1,2,0,0,1
+1208268,2025-02-16,Liverpool,40,Wolves,39,2,1,1,0,0
+1208271,2025-02-16,Tottenham,47,Manchester United,33,1,0,1,0,0
+1208305,2025-02-19,Aston Villa,66,Liverpool,40,2,2,0,1,0
+1208279,2025-02-21,Leicester,46,Brentford,55,0,4,0,0,1
+1208276,2025-02-22,Everton,45,Manchester United,33,2,2,0,1,0
+1208273,2025-02-22,Bournemouth,35,Wolves,39,0,1,0,0,1
+1208277,2025-02-22,Fulham,36,Crystal Palace,52,0,2,0,0,1
+1208282,2025-02-22,Southampton,41,Brighton,51,0,4,0,0,1
+1208274,2025-02-22,Arsenal,42,West Ham,48,0,1,0,0,1
+1208278,2025-02-22,Ipswich,57,Tottenham,47,1,4,0,0,1
+1208275,2025-02-22,Aston Villa,66,Chelsea,49,2,1,1,0,0
+1208281,2025-02-23,Newcastle,34,Nottingham Forest,65,4,3,1,0,0
+1208280,2025-02-23,Manchester City,50,Liverpool,40,0,2,0,0,1
+1208288,2025-02-25,Wolves,39,Fulham,36,1,2,0,0,1
+1208284,2025-02-25,Brighton,51,Bournemouth,35,2,1,1,0,0
+1208289,2025-02-25,Crystal Palace,52,Aston Villa,66,4,1,1,0,0
+1208290,2025-02-25,Chelsea,49,Southampton,41,4,0,1,0,0
+1208292,2025-02-26,Manchester United,33,Ipswich,57,3,2,1,0,0
+1208286,2025-02-26,Tottenham,47,Manchester City,50,0,1,0,0,1
+1208283,2025-02-26,Brentford,55,Everton,45,1,1,0,1,0
+1208285,2025-02-26,Nottingham Forest,65,Arsenal,42,0,0,0,1,0
+1208291,2025-02-26,Liverpool,40,Newcastle,34,2,0,1,0,0
+1208287,2025-02-27,West Ham,48,Leicester,46,2,0,1,0,0
+1208299,2025-03-08,Nottingham Forest,65,Manchester City,50,1,0,1,0,0
+1208297,2025-03-08,Liverpool,40,Southampton,41,3,1,1,0,0
+1208294,2025-03-08,Brighton,51,Fulham,36,2,1,1,0,0
+1208296,2025-03-08,Crystal Palace,52,Ipswich,57,1,0,1,0,0
+1208293,2025-03-08,Brentford,55,Aston Villa,66,0,1,0,0,1
+1208302,2025-03-08,Wolves,39,Everton,45,1,1,0,1,0
+1208300,2025-03-09,Tottenham,47,Bournemouth,35,2,2,0,1,0
+1208295,2025-03-09,Chelsea,49,Leicester,46,1,0,1,0,0
+1208298,2025-03-09,Manchester United,33,Arsenal,42,1,1,0,1,0
+1208301,2025-03-10,West Ham,48,Newcastle,34,0,1,0,0,1
+1208312,2025-03-15,Southampton,41,Wolves,39,1,2,0,0,1
+1208306,2025-03-15,Everton,45,West Ham,48,1,1,0,1,0
+1208310,2025-03-15,Manchester City,50,Brighton,51,2,2,0,1,0
+1208308,2025-03-15,Ipswich,57,Nottingham Forest,65,2,4,0,0,1
+1208303,2025-03-15,Bournemouth,35,Brentford,55,1,2,0,0,1
+1208307,2025-03-16,Fulham,36,Tottenham,47,2,0,1,0,0
+1208304,2025-03-16,Arsenal,42,Chelsea,49,1,0,1,0,0
+1208309,2025-03-16,Leicester,46,Manchester United,33,0,3,0,0,1
+1208317,2025-04-01,Wolves,39,West Ham,48,1,0,1,0,0
+1208314,2025-04-01,Arsenal,42,Fulham,36,2,1,1,0,0
+1208316,2025-04-01,Nottingham Forest,65,Manchester United,33,1,0,1,0,0
+1208320,2025-04-02,Newcastle,34,Brentford,55,2,1,1,0,0
+1208313,2025-04-02,Bournemouth,35,Ipswich,57,1,2,0,0,1
+1208321,2025-04-02,Southampton,41,Crystal Palace,52,1,1,0,1,0
+1208319,2025-04-02,Manchester City,50,Leicester,46,2,0,1,0,0
+1208315,2025-04-02,Brighton,51,Aston Villa,66,0,3,0,0,1
+1208322,2025-04-02,Liverpool,40,Everton,45,1,0,1,0,0
+1208318,2025-04-03,Chelsea,49,Tottenham,47,1,0,1,0,0
+1208326,2025-04-05,Everton,45,Arsenal,42,1,1,0,1,0
+1208332,2025-04-05,West Ham,48,Bournemouth,35,2,2,0,1,0
+1208325,2025-04-05,Crystal Palace,52,Brighton,51,2,1,1,0,0
+1208328,2025-04-05,Ipswich,57,Wolves,39,1,2,0,0,1
+1208323,2025-04-05,Aston Villa,66,Nottingham Forest,65,2,1,1,0,0
+1208327,2025-04-06,Fulham,36,Liverpool,40,3,2,1,0,0
+1208331,2025-04-06,Tottenham,47,Southampton,41,3,1,1,0,0
+1208324,2025-04-06,Brentford,55,Chelsea,49,0,0,0,1,0
+1208330,2025-04-06,Manchester United,33,Manchester City,50,0,0,0,1,0
+1208329,2025-04-07,Leicester,46,Newcastle,34,0,3,0,0,1
+1208338,2025-04-12,Manchester City,50,Crystal Palace,52,5,2,1,0,0
+1208341,2025-04-12,Southampton,41,Aston Villa,66,0,3,0,0,1
+1208335,2025-04-12,Brighton,51,Leicester,46,2,2,0,1,0
+1208340,2025-04-12,Nottingham Forest,65,Everton,45,0,1,0,0,1
+1208334,2025-04-12,Arsenal,42,Brentford,55,1,1,0,1,0
+1208342,2025-04-13,Wolves,39,Tottenham,47,4,2,1,0,0
+1208337,2025-04-13,Liverpool,40,West Ham,48,2,1,1,0,0
+1208336,2025-04-13,Chelsea,49,Ipswich,57,2,2,0,1,0
+1208339,2025-04-13,Newcastle,34,Manchester United,33,4,1,1,0,0
+1208333,2025-04-14,Bournemouth,35,Fulham,36,1,0,1,0,0
+1208311,2025-04-16,Newcastle,34,Crystal Palace,52,5,0,1,0,0
+1208346,2025-04-19,Everton,45,Manchester City,50,0,2,0,0,1
+1208352,2025-04-19,West Ham,48,Southampton,41,1,1,0,1,0
+1208345,2025-04-19,Crystal Palace,52,Bournemouth,35,0,0,0,1,0
+1208344,2025-04-19,Brentford,55,Brighton,51,4,2,1,0,0
+1208343,2025-04-19,Aston Villa,66,Newcastle,34,4,1,1,0,0
+1208350,2025-04-20,Manchester United,33,Wolves,39,0,1,0,0,1
+1208347,2025-04-20,Fulham,36,Chelsea,49,1,2,0,0,1
+1208348,2025-04-20,Ipswich,57,Arsenal,42,0,4,0,0,1
+1208349,2025-04-20,Leicester,46,Liverpool,40,0,1,0,0,1
+1208351,2025-04-21,Tottenham,47,Nottingham Forest,65,1,2,0,0,1
+1208358,2025-04-22,Manchester City,50,Aston Villa,66,2,1,1,0,0
+1208354,2025-04-23,Arsenal,42,Crystal Palace,52,2,2,0,1,0
+1208356,2025-04-26,Chelsea,49,Everton,45,1,0,1,0,0
+1208359,2025-04-26,Newcastle,34,Ipswich,57,3,0,1,0,0
+1208362,2025-04-26,Wolves,39,Leicester,46,3,0,1,0,0
+1208361,2025-04-26,Southampton,41,Fulham,36,1,2,0,0,1
+1208355,2025-04-26,Brighton,51,West Ham,48,3,2,1,0,0
+1208353,2025-04-27,Bournemouth,35,Manchester United,33,1,1,0,1,0
+1208357,2025-04-27,Liverpool,40,Tottenham,47,5,1,1,0,0
+1208360,2025-05-01,Nottingham Forest,65,Brentford,55,0,2,0,0,1
+1208371,2025-05-02,Manchester City,50,Wolves,39,1,0,1,0,0
+1208364,2025-05-03,Aston Villa,66,Fulham,36,1,0,1,0,0
+1208369,2025-05-03,Everton,45,Ipswich,57,2,2,0,1,0
+1208370,2025-05-03,Leicester,46,Southampton,41,2,0,1,0,0
+1208363,2025-05-03,Arsenal,42,Bournemouth,35,1,2,0,0,1
+1208372,2025-05-04,West Ham,48,Tottenham,47,1,1,0,1,0
+1208366,2025-05-04,Brighton,51,Newcastle,34,1,1,0,1,0
+1208365,2025-05-04,Brentford,55,Manchester United,33,4,3,1,0,0
+1208367,2025-05-04,Chelsea,49,Liverpool,40,3,1,1,0,0
+1208368,2025-05-05,Crystal Palace,52,Nottingham Forest,65,1,1,0,1,0
+1208374,2025-05-10,Fulham,36,Everton,45,1,3,0,0,1
+1208382,2025-05-10,Wolves,39,Brighton,51,0,2,0,0,1
+1208380,2025-05-10,Southampton,41,Manchester City,50,0,0,0,1,0
+1208375,2025-05-10,Ipswich,57,Brentford,55,0,1,0,0,1
+1208373,2025-05-10,Bournemouth,35,Aston Villa,66,0,1,0,0,1
+1208378,2025-05-11,Newcastle,34,Chelsea,49,2,0,1,0,0
+1208377,2025-05-11,Manchester United,33,West Ham,48,0,2,0,0,1
+1208381,2025-05-11,Tottenham,47,Crystal Palace,52,0,2,0,0,1
+1208379,2025-05-11,Nottingham Forest,65,Leicester,46,2,2,0,1,0
+1208376,2025-05-11,Liverpool,40,Arsenal,42,2,2,0,1,0
+1208384,2025-05-16,Aston Villa,66,Tottenham,47,2,0,1,0,0
+1208387,2025-05-16,Chelsea,49,Manchester United,33,1,0,1,0,0
+1208389,2025-05-18,Everton,45,Southampton,41,2,0,1,0,0
+1208392,2025-05-18,West Ham,48,Nottingham Forest,65,1,2,0,0,1
+1208390,2025-05-18,Leicester,46,Ipswich,57,2,0,1,0,0
+1208385,2025-05-18,Brentford,55,Fulham,36,2,3,0,0,1
+1208383,2025-05-18,Arsenal,42,Newcastle,34,1,0,1,0,0
+1208386,2025-05-19,Brighton,51,Liverpool,40,3,2,1,0,0
+1208391,2025-05-20,Manchester City,50,Bournemouth,35,3,1,1,0,0
+1208388,2025-05-20,Crystal Palace,52,Wolves,39,4,2,1,0,0
+1208397,2025-05-25,Manchester United,33,Aston Villa,66,2,0,1,0,0
+1208398,2025-05-25,Newcastle,34,Everton,45,0,1,0,0,1
+1208393,2025-05-25,Bournemouth,35,Leicester,46,2,0,1,0,0
+1208394,2025-05-25,Fulham,36,Manchester City,50,0,2,0,0,1
+1208402,2025-05-25,Wolves,39,Brentford,55,1,1,0,1,0
+1208396,2025-05-25,Liverpool,40,Crystal Palace,52,1,1,0,1,0
+1208400,2025-05-25,Southampton,41,Arsenal,42,1,2,0,0,1
+1208401,2025-05-25,Tottenham,47,Brighton,51,1,4,0,0,1
+1208395,2025-05-25,Ipswich,57,West Ham,48,1,3,0,0,1
+1208399,2025-05-25,Nottingham Forest,65,Chelsea,49,0,1,0,0,1

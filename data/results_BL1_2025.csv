@@ -1,0 +1,232 @@
+fixture_id,date,home_team,home_id,away_team,away_id,home_goals,away_goals,home_win,draw,away_win
+540406,2025-08-22,FC Bayern München,5,RB Leipzig,721,6,0,1,0,0
+540407,2025-08-23,Eintracht Frankfurt,19,SV Werder Bremen,12,4,1,1,0,0
+540408,2025-08-23,Bayer 04 Leverkusen,3,TSG 1899 Hoffenheim,2,1,2,0,0,1
+540409,2025-08-23,SC Freiburg,17,FC Augsburg,16,1,3,0,0,1
+540412,2025-08-23,1. FC Union Berlin,28,VfB Stuttgart,10,2,1,1,0,0
+540414,2025-08-23,1. FC Heidenheim 1846,44,VfL Wolfsburg,11,1,3,0,0,1
+540413,2025-08-23,FC St. Pauli 1910,20,Borussia Dortmund,4,3,3,0,1,0
+540410,2025-08-24,1. FSV Mainz 05,15,1. FC Köln,1,0,1,0,0,1
+540411,2025-08-24,Borussia Mönchengladbach,18,Hamburger SV,7,0,0,0,1,0
+540423,2025-08-29,Hamburger SV,7,FC St. Pauli 1910,20,0,2,0,0,1
+540416,2025-08-30,RB Leipzig,721,1. FC Heidenheim 1846,44,2,0,1,0,0
+540417,2025-08-30,SV Werder Bremen,12,Bayer 04 Leverkusen,3,3,3,0,1,0
+540418,2025-08-30,VfB Stuttgart,10,Borussia Mönchengladbach,18,1,0,1,0,0
+540421,2025-08-30,TSG 1899 Hoffenheim,2,Eintracht Frankfurt,19,1,3,0,0,1
+540420,2025-08-30,FC Augsburg,16,FC Bayern München,5,2,3,0,0,1
+540419,2025-08-31,VfL Wolfsburg,11,1. FSV Mainz 05,15,1,1,0,1,0
+540415,2025-08-31,Borussia Dortmund,4,1. FC Union Berlin,28,3,0,1,0,0
+540422,2025-08-31,1. FC Köln,1,SC Freiburg,17,4,1,1,0,0
+540425,2025-09-12,Bayer 04 Leverkusen,3,Eintracht Frankfurt,19,3,1,1,0,0
+540426,2025-09-13,SC Freiburg,17,VfB Stuttgart,10,3,1,1,0,0
+540427,2025-09-13,1. FSV Mainz 05,15,RB Leipzig,721,0,1,0,0,1
+540429,2025-09-13,VfL Wolfsburg,11,1. FC Köln,1,3,3,0,1,0
+540430,2025-09-13,1. FC Union Berlin,28,TSG 1899 Hoffenheim,2,2,4,0,0,1
+540432,2025-09-13,1. FC Heidenheim 1846,44,Borussia Dortmund,4,0,2,0,0,1
+540424,2025-09-13,FC Bayern München,5,Hamburger SV,7,5,0,1,0,0
+540431,2025-09-14,FC St. Pauli 1910,20,FC Augsburg,16,2,1,1,0,0
+540428,2025-09-14,Borussia Mönchengladbach,18,SV Werder Bremen,12,0,4,0,0,1
+540438,2025-09-19,VfB Stuttgart,10,FC St. Pauli 1910,20,2,0,1,0,0
+540437,2025-09-20,SV Werder Bremen,12,SC Freiburg,17,0,3,0,0,1
+540439,2025-09-20,FC Augsburg,16,1. FSV Mainz 05,15,1,4,0,0,1
+540440,2025-09-20,TSG 1899 Hoffenheim,2,FC Bayern München,5,1,4,0,0,1
+540441,2025-09-20,Hamburger SV,7,1. FC Heidenheim 1846,44,2,1,1,0,0
+540436,2025-09-20,RB Leipzig,721,1. FC Köln,1,3,1,1,0,0
+540434,2025-09-21,Eintracht Frankfurt,19,1. FC Union Berlin,28,3,4,0,0,1
+540433,2025-09-21,Bayer 04 Leverkusen,3,Borussia Mönchengladbach,18,1,1,0,1,0
+540435,2025-09-21,Borussia Dortmund,4,VfL Wolfsburg,11,1,0,1,0,0
+540442,2025-09-26,FC Bayern München,5,SV Werder Bremen,12,4,0,1,0,0
+540444,2025-09-27,1. FSV Mainz 05,15,Borussia Dortmund,4,0,2,0,0,1
+540446,2025-09-27,VfL Wolfsburg,11,RB Leipzig,721,0,1,0,0,1
+540448,2025-09-27,FC St. Pauli 1910,20,Bayer 04 Leverkusen,3,1,2,0,0,1
+540449,2025-09-27,1. FC Heidenheim 1846,44,FC Augsburg,16,2,1,1,0,0
+540445,2025-09-27,Borussia Mönchengladbach,18,Eintracht Frankfurt,19,4,6,0,0,1
+540443,2025-09-28,SC Freiburg,17,TSG 1899 Hoffenheim,2,1,1,0,1,0
+540450,2025-09-28,1. FC Köln,1,VfB Stuttgart,10,1,2,0,0,1
+540447,2025-09-28,1. FC Union Berlin,28,Hamburger SV,7,0,0,0,1,0
+540458,2025-10-03,TSG 1899 Hoffenheim,2,1. FC Köln,1,0,1,0,0,1
+540451,2025-10-04,Bayer 04 Leverkusen,3,1. FC Union Berlin,28,2,0,1,0,0
+540453,2025-10-04,Borussia Dortmund,4,RB Leipzig,721,1,1,0,1,0
+540454,2025-10-04,SV Werder Bremen,12,FC St. Pauli 1910,20,1,0,1,0,0
+540457,2025-10-04,FC Augsburg,16,VfL Wolfsburg,11,3,1,1,0,0
+540452,2025-10-04,Eintracht Frankfurt,19,FC Bayern München,5,0,3,0,0,1
+540455,2025-10-05,VfB Stuttgart,10,1. FC Heidenheim 1846,44,1,0,1,0,0
+540459,2025-10-05,Hamburger SV,7,1. FSV Mainz 05,15,4,0,1,0,0
+540456,2025-10-05,Borussia Mönchengladbach,18,SC Freiburg,17,0,0,0,1,0
+540465,2025-10-17,1. FC Union Berlin,28,Borussia Mönchengladbach,18,3,1,1,0,0
+540462,2025-10-18,1. FSV Mainz 05,15,Bayer 04 Leverkusen,3,3,4,0,0,1
+540463,2025-10-18,RB Leipzig,721,Hamburger SV,7,2,1,1,0,0
+540464,2025-10-18,VfL Wolfsburg,11,VfB Stuttgart,10,0,3,0,0,1
+540467,2025-10-18,1. FC Heidenheim 1846,44,SV Werder Bremen,12,2,2,0,1,0
+540468,2025-10-18,1. FC Köln,1,FC Augsburg,16,1,1,0,1,0
+540460,2025-10-18,FC Bayern München,5,Borussia Dortmund,4,2,1,1,0,0
+540461,2025-10-19,SC Freiburg,17,Eintracht Frankfurt,19,2,2,0,1,0
+540466,2025-10-19,FC St. Pauli 1910,20,TSG 1899 Hoffenheim,2,0,3,0,0,1
+540472,2025-10-24,SV Werder Bremen,12,1. FC Union Berlin,28,1,0,1,0,0
+540470,2025-10-25,Eintracht Frankfurt,19,FC St. Pauli 1910,20,2,0,1,0,0
+540475,2025-10-25,FC Augsburg,16,RB Leipzig,721,0,6,0,0,1
+540476,2025-10-25,TSG 1899 Hoffenheim,2,1. FC Heidenheim 1846,44,3,1,1,0,0
+540477,2025-10-25,Hamburger SV,7,VfL Wolfsburg,11,0,1,0,0,1
+540474,2025-10-25,Borussia Mönchengladbach,18,FC Bayern München,5,0,3,0,0,1
+540471,2025-10-25,Borussia Dortmund,4,1. FC Köln,1,1,0,1,0,0
+540469,2025-10-26,Bayer 04 Leverkusen,3,SC Freiburg,17,2,0,1,0,0
+540473,2025-10-26,VfB Stuttgart,10,1. FSV Mainz 05,15,2,1,1,0,0
+540482,2025-10-31,FC Augsburg,16,Borussia Dortmund,4,0,1,0,0,1
+540479,2025-11-01,1. FSV Mainz 05,15,SV Werder Bremen,12,1,1,0,1,0
+540480,2025-11-01,RB Leipzig,721,VfB Stuttgart,10,3,1,1,0,0
+540483,2025-11-01,1. FC Union Berlin,28,SC Freiburg,17,0,0,0,1,0
+540484,2025-11-01,FC St. Pauli 1910,20,Borussia Mönchengladbach,18,0,4,0,0,1
+540485,2025-11-01,1. FC Heidenheim 1846,44,Eintracht Frankfurt,19,1,1,0,1,0
+540478,2025-11-01,FC Bayern München,5,Bayer 04 Leverkusen,3,3,0,1,0,0
+540486,2025-11-02,1. FC Köln,1,Hamburger SV,7,4,1,1,0,0
+540481,2025-11-02,VfL Wolfsburg,11,TSG 1899 Hoffenheim,2,2,3,0,0,1
+540490,2025-11-07,SV Werder Bremen,12,VfL Wolfsburg,11,2,1,1,0,0
+540487,2025-11-08,Bayer 04 Leverkusen,3,1. FC Heidenheim 1846,44,6,0,1,0,0
+540493,2025-11-08,1. FC Union Berlin,28,FC Bayern München,5,2,2,0,1,0
+540494,2025-11-08,TSG 1899 Hoffenheim,2,RB Leipzig,721,3,1,1,0,0
+540495,2025-11-08,Hamburger SV,7,Borussia Dortmund,4,1,1,0,1,0
+540492,2025-11-08,Borussia Mönchengladbach,18,1. FC Köln,1,3,1,1,0,0
+540489,2025-11-09,SC Freiburg,17,FC St. Pauli 1910,20,2,1,1,0,0
+540491,2025-11-09,VfB Stuttgart,10,FC Augsburg,16,3,2,1,0,0
+540488,2025-11-09,Eintracht Frankfurt,19,1. FSV Mainz 05,15,1,0,1,0,0
+540498,2025-11-21,1. FSV Mainz 05,15,TSG 1899 Hoffenheim,2,1,1,0,1,0
+540496,2025-11-22,FC Bayern München,5,SC Freiburg,17,6,2,1,0,0
+540497,2025-11-22,Borussia Dortmund,4,VfB Stuttgart,10,3,3,0,1,0
+540500,2025-11-22,VfL Wolfsburg,11,Bayer 04 Leverkusen,3,1,3,0,0,1
+540501,2025-11-22,FC Augsburg,16,Hamburger SV,7,1,0,1,0,0
+540503,2025-11-22,1. FC Heidenheim 1846,44,Borussia Mönchengladbach,18,0,3,0,0,1
+540504,2025-11-22,1. FC Köln,1,Eintracht Frankfurt,19,3,4,0,0,1
+540499,2025-11-23,RB Leipzig,721,SV Werder Bremen,12,2,0,1,0,0
+540502,2025-11-23,FC St. Pauli 1910,20,1. FC Union Berlin,28,0,1,0,0,1
+540510,2025-11-28,Borussia Mönchengladbach,18,RB Leipzig,721,0,0,0,1,0
+540505,2025-11-29,FC Bayern München,5,FC St. Pauli 1910,20,3,1,1,0,0
+540509,2025-11-29,SV Werder Bremen,12,1. FC Köln,1,1,1,0,1,0
+540511,2025-11-29,1. FC Union Berlin,28,1. FC Heidenheim 1846,44,1,2,0,0,1
+540512,2025-11-29,TSG 1899 Hoffenheim,2,FC Augsburg,16,3,0,1,0,0
+540506,2025-11-29,Bayer 04 Leverkusen,3,Borussia Dortmund,4,1,2,0,0,1
+540513,2025-11-30,Hamburger SV,7,VfB Stuttgart,10,2,1,1,0,0
+540507,2025-11-30,Eintracht Frankfurt,19,VfL Wolfsburg,11,1,1,0,1,0
+540508,2025-11-30,SC Freiburg,17,1. FSV Mainz 05,15,4,0,1,0,0
+540515,2025-12-05,1. FSV Mainz 05,15,Borussia Mönchengladbach,18,0,1,0,0,1
+540517,2025-12-06,VfB Stuttgart,10,FC Bayern München,5,0,5,0,0,1
+540518,2025-12-06,VfL Wolfsburg,11,1. FC Union Berlin,28,3,1,1,0,0
+540519,2025-12-06,1. FC Heidenheim 1846,44,SC Freiburg,17,2,1,1,0,0
+540520,2025-12-06,1. FC Köln,1,FC St. Pauli 1910,20,1,1,0,1,0
+540522,2025-12-06,FC Augsburg,16,Bayer 04 Leverkusen,3,2,0,1,0,0
+540516,2025-12-06,RB Leipzig,721,Eintracht Frankfurt,19,6,0,1,0,0
+540521,2025-12-07,Hamburger SV,7,SV Werder Bremen,12,3,2,1,0,0
+540514,2025-12-07,Borussia Dortmund,4,TSG 1899 Hoffenheim,2,2,0,1,0,0
+540529,2025-12-12,1. FC Union Berlin,28,RB Leipzig,721,3,1,1,0,0
+540525,2025-12-13,Eintracht Frankfurt,19,FC Augsburg,16,1,0,1,0,0
+540528,2025-12-13,Borussia Mönchengladbach,18,VfL Wolfsburg,11,1,3,0,0,1
+540530,2025-12-13,FC St. Pauli 1910,20,1. FC Heidenheim 1846,44,2,1,1,0,0
+540531,2025-12-13,TSG 1899 Hoffenheim,2,Hamburger SV,7,4,1,1,0,0
+540524,2025-12-13,Bayer 04 Leverkusen,3,1. FC Köln,1,2,0,1,0,0
+540526,2025-12-14,SC Freiburg,17,Borussia Dortmund,4,1,1,0,1,0
+540523,2025-12-14,FC Bayern München,5,1. FSV Mainz 05,15,2,2,0,1,0
+540527,2025-12-14,SV Werder Bremen,12,VfB Stuttgart,10,0,4,0,0,1
+540532,2025-12-19,Borussia Dortmund,4,Borussia Mönchengladbach,18,2,0,1,0,0
+540535,2025-12-20,VfB Stuttgart,10,TSG 1899 Hoffenheim,2,0,0,0,1,0
+540536,2025-12-20,VfL Wolfsburg,11,SC Freiburg,17,3,4,0,0,1
+540537,2025-12-20,FC Augsburg,16,SV Werder Bremen,12,0,0,0,1,0
+540539,2025-12-20,1. FC Köln,1,1. FC Union Berlin,28,0,1,0,0,1
+540540,2025-12-20,Hamburger SV,7,Eintracht Frankfurt,19,1,1,0,1,0
+540534,2025-12-20,RB Leipzig,721,Bayer 04 Leverkusen,3,1,3,0,0,1
+540533,2025-12-21,1. FSV Mainz 05,15,FC St. Pauli 1910,20,0,0,0,1,0
+540538,2025-12-21,1. FC Heidenheim 1846,44,FC Bayern München,5,0,4,0,0,1
+540543,2026-01-09,Eintracht Frankfurt,19,Borussia Dortmund,4,3,3,0,1,0
+540544,2026-01-10,SC Freiburg,17,Hamburger SV,7,2,1,1,0,0
+540547,2026-01-10,1. FC Union Berlin,28,1. FSV Mainz 05,15,2,2,0,1,0
+540549,2026-01-10,1. FC Heidenheim 1846,44,1. FC Köln,1,2,2,0,1,0
+540542,2026-01-10,Bayer 04 Leverkusen,3,VfB Stuttgart,10,1,4,0,0,1
+540546,2026-01-11,Borussia Mönchengladbach,18,FC Augsburg,16,4,0,1,0,0
+540541,2026-01-11,FC Bayern München,5,VfL Wolfsburg,11,8,1,1,0,0
+540553,2026-01-13,VfB Stuttgart,10,Eintracht Frankfurt,19,3,2,1,0,0
+540550,2026-01-13,Borussia Dortmund,4,SV Werder Bremen,12,3,0,1,0,0
+540551,2026-01-13,1. FSV Mainz 05,15,1. FC Heidenheim 1846,44,2,1,1,0,0
+540554,2026-01-14,VfL Wolfsburg,11,FC St. Pauli 1910,20,2,1,1,0,0
+540552,2026-01-14,RB Leipzig,721,SC Freiburg,17,2,0,1,0,0
+540556,2026-01-14,TSG 1899 Hoffenheim,2,Borussia Mönchengladbach,18,5,1,1,0,0
+540557,2026-01-14,1. FC Köln,1,FC Bayern München,5,1,3,0,0,1
+540555,2026-01-15,FC Augsburg,16,1. FC Union Berlin,28,1,1,0,1,0
+540560,2026-01-16,SV Werder Bremen,12,Eintracht Frankfurt,19,3,3,0,1,0
+540561,2026-01-17,TSG 1899 Hoffenheim,2,Bayer 04 Leverkusen,3,1,0,1,0,0
+540563,2026-01-17,1. FC Köln,1,1. FSV Mainz 05,15,2,1,1,0,0
+540564,2026-01-17,Hamburger SV,7,Borussia Mönchengladbach,18,0,0,0,1,0
+540566,2026-01-17,Borussia Dortmund,4,FC St. Pauli 1910,20,3,2,1,0,0
+540567,2026-01-17,VfL Wolfsburg,11,1. FC Heidenheim 1846,44,1,1,0,1,0
+540559,2026-01-17,RB Leipzig,721,FC Bayern München,5,1,5,0,0,1
+540565,2026-01-18,VfB Stuttgart,10,1. FC Union Berlin,28,1,1,0,1,0
+540562,2026-01-18,FC Augsburg,16,SC Freiburg,17,2,2,0,1,0
+540576,2026-01-23,FC St. Pauli 1910,20,Hamburger SV,7,0,0,0,1,0
+540569,2026-01-24,1. FC Heidenheim 1846,44,RB Leipzig,721,0,3,0,0,1
+540570,2026-01-24,Bayer 04 Leverkusen,3,SV Werder Bremen,12,1,0,1,0,0
+540572,2026-01-24,1. FSV Mainz 05,15,VfL Wolfsburg,11,3,1,1,0,0
+540573,2026-01-24,FC Bayern München,5,FC Augsburg,16,1,2,0,0,1
+540574,2026-01-24,Eintracht Frankfurt,19,TSG 1899 Hoffenheim,2,1,3,0,0,1
+540568,2026-01-24,1. FC Union Berlin,28,Borussia Dortmund,4,0,3,0,0,1
+540571,2026-01-25,Borussia Mönchengladbach,18,VfB Stuttgart,10,0,3,0,0,1
+540575,2026-01-25,SC Freiburg,17,1. FC Köln,1,2,1,1,0,0
+540545,2026-01-27,SV Werder Bremen,12,TSG 1899 Hoffenheim,2,0,2,0,0,1
+540548,2026-01-27,FC St. Pauli 1910,20,RB Leipzig,721,1,1,0,1,0
+540582,2026-01-30,1. FC Köln,1,VfL Wolfsburg,11,1,0,1,0,0
+540578,2026-01-31,Eintracht Frankfurt,19,Bayer 04 Leverkusen,3,1,3,0,0,1
+540580,2026-01-31,RB Leipzig,721,1. FSV Mainz 05,15,1,2,0,0,1
+540581,2026-01-31,SV Werder Bremen,12,Borussia Mönchengladbach,18,1,1,0,1,0
+540583,2026-01-31,TSG 1899 Hoffenheim,2,1. FC Union Berlin,28,3,1,1,0,0
+540584,2026-01-31,FC Augsburg,16,FC St. Pauli 1910,20,2,1,1,0,0
+540577,2026-01-31,Hamburger SV,7,FC Bayern München,5,2,2,0,1,0
+540579,2026-02-01,VfB Stuttgart,10,SC Freiburg,17,1,0,1,0,0
+540585,2026-02-01,Borussia Dortmund,4,1. FC Heidenheim 1846,44,3,2,1,0,0
+540587,2026-02-06,1. FC Union Berlin,28,Eintracht Frankfurt,19,1,1,0,1,0
+540588,2026-02-07,VfL Wolfsburg,11,Borussia Dortmund,4,1,2,0,0,1
+540590,2026-02-07,SC Freiburg,17,SV Werder Bremen,12,1,0,1,0,0
+540591,2026-02-07,FC St. Pauli 1910,20,VfB Stuttgart,10,2,1,1,0,0
+540592,2026-02-07,1. FSV Mainz 05,15,FC Augsburg,16,2,0,1,0,0
+540594,2026-02-07,1. FC Heidenheim 1846,44,Hamburger SV,7,0,2,0,0,1
+540586,2026-02-07,Borussia Mönchengladbach,18,Bayer 04 Leverkusen,3,1,1,0,1,0
+540589,2026-02-08,1. FC Köln,1,RB Leipzig,721,1,2,0,0,1
+540593,2026-02-08,FC Bayern München,5,TSG 1899 Hoffenheim,2,5,1,1,0,0
+540597,2026-02-13,Borussia Dortmund,4,1. FSV Mainz 05,15,4,0,1,0,0
+540595,2026-02-14,SV Werder Bremen,12,FC Bayern München,5,0,3,0,0,1
+540596,2026-02-14,TSG 1899 Hoffenheim,2,SC Freiburg,17,3,0,1,0,0
+540598,2026-02-14,Eintracht Frankfurt,19,Borussia Mönchengladbach,18,3,0,1,0,0
+540600,2026-02-14,Hamburger SV,7,1. FC Union Berlin,28,3,2,1,0,0
+540601,2026-02-14,Bayer 04 Leverkusen,3,FC St. Pauli 1910,20,4,0,1,0,0
+540603,2026-02-14,VfB Stuttgart,10,1. FC Köln,1,3,1,1,0,0
+540602,2026-02-15,FC Augsburg,16,1. FC Heidenheim 1846,44,1,0,1,0,0
+540599,2026-02-15,RB Leipzig,721,VfL Wolfsburg,11,2,2,0,1,0
+540612,2026-02-20,1. FSV Mainz 05,15,Hamburger SV,7,1,1,0,1,0
+540604,2026-02-21,1. FC Union Berlin,28,Bayer 04 Leverkusen,3,1,0,1,0,0
+540605,2026-02-21,FC Bayern München,5,Eintracht Frankfurt,19,3,2,1,0,0
+540610,2026-02-21,VfL Wolfsburg,11,FC Augsburg,16,2,3,0,0,1
+540611,2026-02-21,1. FC Köln,1,TSG 1899 Hoffenheim,2,2,2,0,1,0
+540606,2026-02-21,RB Leipzig,721,Borussia Dortmund,4,2,2,0,1,0
+540609,2026-02-22,SC Freiburg,17,Borussia Mönchengladbach,18,2,1,1,0,0
+540607,2026-02-22,FC St. Pauli 1910,20,SV Werder Bremen,12,2,1,1,0,0
+540608,2026-02-22,1. FC Heidenheim 1846,44,VfB Stuttgart,10,3,3,0,1,0
+540621,2026-02-27,FC Augsburg,16,1. FC Köln,1,2,0,1,0,0
+540615,2026-02-28,Bayer 04 Leverkusen,3,1. FSV Mainz 05,15,1,1,0,1,0
+540618,2026-02-28,Borussia Mönchengladbach,18,1. FC Union Berlin,28,1,0,1,0,0
+540619,2026-02-28,TSG 1899 Hoffenheim,2,FC St. Pauli 1910,20,0,1,0,0,1
+540620,2026-02-28,SV Werder Bremen,12,1. FC Heidenheim 1846,44,2,0,1,0,0
+540613,2026-02-28,Borussia Dortmund,4,FC Bayern München,5,2,3,0,0,1
+540617,2026-03-01,VfB Stuttgart,10,VfL Wolfsburg,11,4,0,1,0,0
+540614,2026-03-01,Eintracht Frankfurt,19,SC Freiburg,17,2,0,1,0,0
+540616,2026-03-01,Hamburger SV,7,RB Leipzig,721,1,2,0,0,1
+540558,2026-03-04,Hamburger SV,7,Bayer 04 Leverkusen,3,0,1,0,0,1
+540627,2026-03-06,FC Bayern München,5,Borussia Mönchengladbach,18,4,1,1,0,0
+540622,2026-03-07,SC Freiburg,17,Bayer 04 Leverkusen,3,3,3,0,1,0
+540626,2026-03-07,1. FSV Mainz 05,15,VfB Stuttgart,10,2,2,0,1,0
+540628,2026-03-07,RB Leipzig,721,FC Augsburg,16,2,1,1,0,0
+540629,2026-03-07,1. FC Heidenheim 1846,44,TSG 1899 Hoffenheim,2,2,4,0,0,1
+540630,2026-03-07,VfL Wolfsburg,11,Hamburger SV,7,1,2,0,0,1
+540624,2026-03-07,1. FC Köln,1,Borussia Dortmund,4,1,2,0,0,1
+540623,2026-03-08,FC St. Pauli 1910,20,Eintracht Frankfurt,19,0,0,0,1,0
+540625,2026-03-08,1. FC Union Berlin,28,SV Werder Bremen,12,1,4,0,0,1
+540637,2026-03-13,Borussia Mönchengladbach,18,FC St. Pauli 1910,20,2,0,1,0,0
+540631,2026-03-14,Bayer 04 Leverkusen,3,FC Bayern München,5,1,1,0,1,0
+540634,2026-03-14,TSG 1899 Hoffenheim,2,VfL Wolfsburg,11,1,1,0,1,0
+540635,2026-03-14,Borussia Dortmund,4,FC Augsburg,16,2,0,1,0,0
+540638,2026-03-14,Eintracht Frankfurt,19,1. FC Heidenheim 1846,44,1,0,1,0,0
+540639,2026-03-14,Hamburger SV,7,1. FC Köln,1,1,1,0,1,0

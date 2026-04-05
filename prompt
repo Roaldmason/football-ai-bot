@@ -1,0 +1,5 @@
+
+cd "C:\Users\Rae Suraj\Desktop\football_ai_bot"
+python main.py bot
+python main.py acca
+python main.py predict

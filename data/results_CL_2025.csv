@@ -1,0 +1,169 @@
+fixture_id,date,home_team,home_id,away_team,away_id,home_goals,away_goals,home_win,draw,away_win
+551981,2025-09-16,Athletic Club,77,Arsenal FC,57,0,2,0,0,1
+552049,2025-09-16,PSV,674,Royale Union Saint-Gilloise,3929,1,3,0,0,1
+551941,2025-09-16,Juventus FC,109,Borussia Dortmund,4,4,4,0,1,0
+551991,2025-09-16,Sport Lisboa e Benfica,1903,Qarabağ Ağdam FK,611,2,3,0,0,1
+552012,2025-09-16,Tottenham Hotspur FC,73,Villarreal CF,94,1,0,1,0,0
+551927,2025-09-16,Real Madrid CF,86,Olympique de Marseille,516,2,1,1,0,0
+552023,2025-09-17,SK Slavia Praha,930,FK Bodø/Glimt,5721,2,2,0,1,0
+552031,2025-09-17,PAE Olympiakos SFP,654,Paphos FC,11034,0,0,0,1,0
+551936,2025-09-17,AFC Ajax,678,FC Internazionale Milano,108,0,2,0,0,1
+551946,2025-09-17,Liverpool FC,64,Club Atlético de Madrid,78,3,2,1,0,0
+551959,2025-09-17,Paris Saint-Germain FC,524,Atalanta BC,102,4,0,1,0,0
+551908,2025-09-17,FC Bayern München,5,Chelsea FC,61,3,1,1,0,0
+551975,2025-09-18,FC København,1876,Bayer 04 Leverkusen,3,2,2,0,1,0
+551995,2025-09-18,Club Brugge KV,851,AS Monaco FC,548,4,1,1,0,0
+551958,2025-09-18,Newcastle United FC,67,FC Barcelona,81,1,2,0,0,1
+551965,2025-09-18,Manchester City FC,65,SSC Napoli,113,2,0,1,0,0
+552000,2025-09-18,Eintracht Frankfurt,19,Galatasaray SK,610,5,1,1,0,0
+552027,2025-09-18,Sporting Clube de Portugal,498,FK Kairat,10601,4,1,1,0,0
+551982,2025-09-30,Atalanta BC,102,Club Brugge KV,851,2,1,1,0,0
+551930,2025-09-30,FK Kairat,10601,Real Madrid CF,86,0,5,0,0,1
+551951,2025-09-30,Galatasaray SK,610,Liverpool FC,64,1,0,1,0,0
+551997,2025-09-30,Club Atlético de Madrid,78,Eintracht Frankfurt,19,5,1,1,0,0
+552015,2025-09-30,Olympique de Marseille,516,AFC Ajax,678,4,0,1,0,0
+552020,2025-09-30,FK Bodø/Glimt,5721,Tottenham Hotspur FC,73,2,2,0,1,0
+551915,2025-09-30,Paphos FC,11034,FC Bayern München,5,1,5,0,0,1
+551917,2025-09-30,Chelsea FC,61,Sport Lisboa e Benfica,1903,1,0,1,0,0
+551935,2025-09-30,FC Internazionale Milano,108,SK Slavia Praha,930,3,0,1,0,0
+552039,2025-10-01,Qarabağ Ağdam FK,611,FC København,1876,2,0,1,0,0
+552044,2025-10-01,Royale Union Saint-Gilloise,3929,Newcastle United FC,67,0,4,0,0,1
+551944,2025-10-01,Borussia Dortmund,4,Athletic Club,77,4,1,1,0,0
+551952,2025-10-01,FC Barcelona,81,Paris Saint-Germain FC,524,1,2,0,0,1
+551968,2025-10-01,AS Monaco FC,548,Manchester City FC,65,2,2,0,1,0
+551972,2025-10-01,Bayer 04 Leverkusen,3,PSV,674,1,1,0,1,0
+551978,2025-10-01,Arsenal FC,57,PAE Olympiakos SFP,654,2,0,1,0,0
+552002,2025-10-01,Villarreal CF,94,Juventus FC,109,2,2,0,1,0
+552026,2025-10-01,SSC Napoli,113,Sporting Clube de Portugal,498,2,1,1,0,0
+551955,2025-10-21,FC Barcelona,81,PAE Olympiakos SFP,654,6,1,1,0,0
+552045,2025-10-21,FK Kairat,10601,Paphos FC,11034,0,0,0,1,0
+551938,2025-10-21,Royale Union Saint-Gilloise,3929,FC Internazionale Milano,108,0,4,0,0,1
+551945,2025-10-21,FC København,1876,Borussia Dortmund,4,2,4,0,0,1
+551960,2025-10-21,Bayer 04 Leverkusen,3,Paris Saint-Germain FC,524,2,7,0,0,1
+551964,2025-10-21,Villarreal CF,94,Manchester City FC,65,0,2,0,0,1
+551976,2025-10-21,Arsenal FC,57,Club Atlético de Madrid,78,4,0,1,0,0
+551992,2025-10-21,Newcastle United FC,67,Sport Lisboa e Benfica,1903,3,0,1,0,0
+552048,2025-10-21,PSV,674,SSC Napoli,113,6,2,1,0,0
+552025,2025-10-22,Galatasaray SK,610,FK Bodø/Glimt,5721,3,1,1,0,0
+552040,2025-10-22,Athletic Club,77,Qarabağ Ağdam FK,611,3,1,1,0,0
+551947,2025-10-22,Eintracht Frankfurt,19,Liverpool FC,64,1,5,0,0,1
+551984,2025-10-22,Atalanta BC,102,SK Slavia Praha,930,0,0,0,1,0
+552016,2025-10-22,Sporting Clube de Portugal,498,Olympique de Marseille,516,2,1,1,0,0
+552022,2025-10-22,AS Monaco FC,548,Tottenham Hotspur FC,73,0,0,0,1,0
+551910,2025-10-22,FC Bayern München,5,Club Brugge KV,851,4,0,1,0,0
+551919,2025-10-22,Chelsea FC,61,AFC Ajax,678,5,1,1,0,0
+551925,2025-10-22,Real Madrid CF,86,Juventus FC,109,1,0,1,0,0
+551979,2025-11-04,SK Slavia Praha,930,Arsenal FC,57,0,3,0,0,1
+551999,2025-11-04,SSC Napoli,113,Eintracht Frankfurt,19,0,0,0,1,0
+552003,2025-11-04,Juventus FC,109,Sporting Clube de Portugal,498,1,1,0,1,0
+552009,2025-11-04,Club Atlético de Madrid,78,Royale Union Saint-Gilloise,3929,3,1,1,0,0
+552021,2025-11-04,Tottenham Hotspur FC,73,FC København,1876,4,0,1,0,0
+552024,2025-11-04,FK Bodø/Glimt,5721,AS Monaco FC,548,0,1,0,0,1
+552029,2025-11-04,PAE Olympiakos SFP,654,PSV,674,1,1,0,1,0
+551909,2025-11-04,Paris Saint-Germain FC,524,FC Bayern München,5,1,2,0,0,1
+551924,2025-11-04,Liverpool FC,64,Real Madrid CF,86,1,0,1,0,0
+552014,2025-11-05,Paphos FC,11034,Villarreal CF,94,1,0,1,0,0
+551922,2025-11-05,Qarabağ Ağdam FK,611,Chelsea FC,61,2,2,0,1,0
+551937,2025-11-05,FC Internazionale Milano,108,FK Kairat,10601,2,1,1,0,0
+551939,2025-11-05,Manchester City FC,65,Borussia Dortmund,4,4,1,1,0,0
+551954,2025-11-05,Club Brugge KV,851,FC Barcelona,81,3,3,0,1,0
+551971,2025-11-05,Sport Lisboa e Benfica,1903,Bayer 04 Leverkusen,3,0,1,0,0,1
+551985,2025-11-05,Olympique de Marseille,516,Atalanta BC,102,0,1,0,0,1
+552033,2025-11-05,AFC Ajax,678,Galatasaray SK,610,0,3,0,0,1
+552047,2025-11-05,Newcastle United FC,67,Athletic Club,77,2,0,1,0,0
+551990,2025-11-25,AFC Ajax,678,Sport Lisboa e Benfica,1903,0,2,0,0,1
+552043,2025-11-25,Galatasaray SK,610,Royale Union Saint-Gilloise,3929,0,1,0,0,1
+551940,2025-11-25,Borussia Dortmund,4,Villarreal CF,94,4,0,1,0,0
+551963,2025-11-25,Manchester City FC,65,Bayer 04 Leverkusen,3,0,2,0,0,1
+552004,2025-11-25,FK Bodø/Glimt,5721,Juventus FC,109,2,3,0,0,1
+552017,2025-11-25,Olympique de Marseille,516,Newcastle United FC,67,2,1,1,0,0
+552035,2025-11-25,SK Slavia Praha,930,Athletic Club,77,0,0,0,1,0
+552037,2025-11-25,SSC Napoli,113,Qarabağ Ağdam FK,611,2,0,1,0,0
+551916,2025-11-25,Chelsea FC,61,FC Barcelona,81,3,0,1,0,0
+552042,2025-11-26,Paphos FC,11034,AS Monaco FC,548,2,2,0,1,0
+552046,2025-11-26,FC København,1876,FK Kairat,10601,3,2,1,0,0
+551948,2025-11-26,Liverpool FC,64,PSV,674,1,4,0,0,1
+551961,2025-11-26,Paris Saint-Germain FC,524,Tottenham Hotspur FC,73,5,3,1,0,0
+551983,2025-11-26,Eintracht Frankfurt,19,Atalanta BC,102,0,3,0,0,1
+551994,2025-11-26,Sporting Clube de Portugal,498,Club Brugge KV,851,3,0,1,0,0
+551911,2025-11-26,Arsenal FC,57,FC Bayern München,5,3,1,1,0,0
+551928,2025-11-26,PAE Olympiakos SFP,654,Real Madrid CF,86,3,4,0,0,1
+551934,2025-11-26,Club Atlético de Madrid,78,FC Internazionale Milano,108,2,1,1,0,0
+552032,2025-12-09,FK Kairat,10601,PAE Olympiakos SFP,654,0,1,0,0,1
+551912,2025-12-09,FC Bayern München,5,Sporting Clube de Portugal,498,3,1,1,0,0
+551953,2025-12-09,FC Barcelona,81,Eintracht Frankfurt,19,2,1,1,0,0
+552008,2025-12-09,PSV,674,Club Atlético de Madrid,78,2,3,0,0,1
+552018,2025-12-09,Royale Union Saint-Gilloise,3929,Olympique de Marseille,516,2,3,0,0,1
+552019,2025-12-09,Tottenham Hotspur FC,73,SK Slavia Praha,930,3,0,1,0,0
+552041,2025-12-09,AS Monaco FC,548,Galatasaray SK,610,1,0,1,0,0
+551918,2025-12-09,Atalanta BC,102,Chelsea FC,61,2,1,1,0,0
+551931,2025-12-09,FC Internazionale Milano,108,Liverpool FC,64,0,1,0,0,1
+552013,2025-12-10,Villarreal CF,94,FC København,1876,2,3,0,0,1
+552034,2025-12-10,Qarabağ Ağdam FK,611,AFC Ajax,678,2,4,0,0,1
+551942,2025-12-10,Borussia Dortmund,4,FK Bodø/Glimt,5721,2,2,0,1,0
+551969,2025-12-10,Athletic Club,77,Paris Saint-Germain FC,524,0,0,0,1,0
+551974,2025-12-10,Bayer 04 Leverkusen,3,Newcastle United FC,67,2,2,0,1,0
+551977,2025-12-10,Club Brugge KV,851,Arsenal FC,57,0,3,0,0,1
+551989,2025-12-10,Sport Lisboa e Benfica,1903,SSC Napoli,113,2,0,1,0,0
+552005,2025-12-10,Juventus FC,109,Paphos FC,11034,2,0,1,0,0
+551923,2025-12-10,Real Madrid CF,86,Manchester City FC,65,1,2,0,0,1
+551996,2026-01-20,FK Kairat,10601,Club Brugge KV,851,1,4,0,0,1
+551966,2026-01-20,FK Bodø/Glimt,5721,Manchester City FC,65,3,1,1,0,0
+551943,2026-01-20,Tottenham Hotspur FC,73,Borussia Dortmund,4,2,0,1,0,0
+551962,2026-01-20,Sporting Clube de Portugal,498,Paris Saint-Germain FC,524,2,1,1,0,0
+551973,2026-01-20,PAE Olympiakos SFP,654,Bayer 04 Leverkusen,3,2,0,1,0,0
+552011,2026-01-20,Villarreal CF,94,AFC Ajax,678,1,2,0,0,1
+552038,2026-01-20,FC København,1876,SSC Napoli,113,1,1,0,1,0
+551929,2026-01-20,Real Madrid CF,86,AS Monaco FC,548,6,1,1,0,0
+551933,2026-01-20,FC Internazionale Milano,108,Arsenal FC,57,1,3,0,0,1
+552001,2026-01-21,Qarabağ Ağdam FK,611,Eintracht Frankfurt,19,3,2,1,0,0
+552010,2026-01-21,Galatasaray SK,610,Club Atlético de Madrid,78,1,1,0,1,0
+551949,2026-01-21,Olympique de Marseille,516,Liverpool FC,64,0,3,0,0,1
+551956,2026-01-21,SK Slavia Praha,930,FC Barcelona,81,2,4,0,0,1
+551986,2026-01-21,Atalanta BC,102,Athletic Club,77,2,3,0,0,1
+551988,2026-01-21,Juventus FC,109,Sport Lisboa e Benfica,1903,2,0,1,0,0
+552036,2026-01-21,Newcastle United FC,67,PSV,674,3,0,1,0,0
+551914,2026-01-21,FC Bayern München,5,Royale Union Saint-Gilloise,3929,2,0,1,0,0
+551921,2026-01-21,Chelsea FC,61,Paphos FC,11034,1,0,1,0,0
+551950,2026-01-28,Liverpool FC,64,Qarabağ Ağdam FK,611,6,0,1,0,0
+551957,2026-01-28,FC Barcelona,81,FC København,1876,4,1,1,0,0
+551967,2026-01-28,Manchester City FC,65,Galatasaray SK,610,2,0,1,0,0
+551970,2026-01-28,Bayer 04 Leverkusen,3,Villarreal CF,94,3,0,1,0,0
+551980,2026-01-28,Arsenal FC,57,FK Kairat,10601,3,2,1,0,0
+551987,2026-01-28,Royale Union Saint-Gilloise,3929,Atalanta BC,102,1,0,1,0,0
+551993,2026-01-28,Club Brugge KV,851,Olympique de Marseille,516,3,0,1,0,0
+551998,2026-01-28,Eintracht Frankfurt,19,Tottenham Hotspur FC,73,0,2,0,0,1
+552006,2026-01-28,AS Monaco FC,548,Juventus FC,109,0,0,0,1,0
+552007,2026-01-28,Club Atlético de Madrid,78,FK Bodø/Glimt,5721,1,2,0,0,1
+552028,2026-01-28,Athletic Club,77,Sporting Clube de Portugal,498,2,3,0,0,1
+552030,2026-01-28,AFC Ajax,678,PAE Olympiakos SFP,654,1,2,0,0,1
+552050,2026-01-28,Paris Saint-Germain FC,524,Newcastle United FC,67,1,1,0,1,0
+552051,2026-01-28,Paphos FC,11034,SK Slavia Praha,930,4,1,1,0,0
+551913,2026-01-28,PSV,674,FC Bayern München,5,1,2,0,0,1
+551920,2026-01-28,SSC Napoli,113,Chelsea FC,61,2,3,0,0,1
+551926,2026-01-28,Sport Lisboa e Benfica,1903,Real Madrid CF,86,4,2,1,0,0
+551932,2026-01-28,Borussia Dortmund,4,FC Internazionale Milano,108,0,2,0,0,1
+552055,2026-02-17,Galatasaray SK,610,Juventus FC,109,5,2,1,0,0
+552052,2026-02-17,Sport Lisboa e Benfica,1903,Real Madrid CF,86,0,1,0,0,1
+552053,2026-02-17,AS Monaco FC,548,Paris Saint-Germain FC,524,2,3,0,0,1
+552057,2026-02-17,Borussia Dortmund,4,Atalanta BC,102,2,0,1,0,0
+552054,2026-02-18,Qarabağ Ağdam FK,611,Newcastle United FC,67,1,6,0,0,1
+552056,2026-02-18,Club Brugge KV,851,Club Atlético de Madrid,78,3,3,0,1,0
+552058,2026-02-18,PAE Olympiakos SFP,654,Bayer 04 Leverkusen,3,0,2,0,0,1
+552059,2026-02-18,FK Bodø/Glimt,5721,FC Internazionale Milano,108,3,1,1,0,0
+552064,2026-02-24,Club Atlético de Madrid,78,Club Brugge KV,851,4,1,1,0,0
+552062,2026-02-24,Newcastle United FC,67,Qarabağ Ağdam FK,611,3,2,1,0,0
+552066,2026-02-24,Bayer 04 Leverkusen,3,PAE Olympiakos SFP,654,0,0,0,1,0
+552067,2026-02-24,FC Internazionale Milano,108,FK Bodø/Glimt,5721,1,2,0,0,1
+552065,2026-02-25,Atalanta BC,102,Borussia Dortmund,4,4,1,1,0,0
+552060,2026-02-25,Real Madrid CF,86,Sport Lisboa e Benfica,1903,2,1,1,0,0
+552061,2026-02-25,Paris Saint-Germain FC,524,AS Monaco FC,548,2,2,0,1,0
+552063,2026-02-25,Juventus FC,109,Galatasaray SK,610,3,2,1,0,0
+552069,2026-03-10,Galatasaray SK,610,Liverpool FC,64,1,0,1,0,0
+552071,2026-03-10,Atalanta BC,102,FC Bayern München,5,1,6,0,0,1
+552072,2026-03-10,Newcastle United FC,67,FC Barcelona,81,1,1,0,1,0
+552073,2026-03-10,Club Atlético de Madrid,78,Tottenham Hotspur FC,73,5,2,1,0,0
+552075,2026-03-11,Bayer 04 Leverkusen,3,Arsenal FC,57,1,1,0,1,0
+552068,2026-03-11,Paris Saint-Germain FC,524,Chelsea FC,61,5,2,1,0,0
+552070,2026-03-11,Real Madrid CF,86,Manchester City FC,65,3,0,1,0,0
+552074,2026-03-11,FK Bodø/Glimt,5721,Sporting Clube de Portugal,498,3,0,1,0,0

@@ -1,0 +1,230 @@
+fixture_id,date,home_team,home_id,away_team,away_id,home_goals,away_goals,home_win,draw,away_win
+542414,2025-08-15,Stade Rennais FC 1901,529,Olympique de Marseille,516,1,0,1,0,0
+542411,2025-08-16,Racing Club de Lens,546,Olympique Lyonnais,523,0,1,0,0,1
+542407,2025-08-16,AS Monaco FC,548,Le Havre AC,533,3,1,1,0,0
+542410,2025-08-16,OGC Nice,522,Toulouse FC,511,0,1,0,0,1
+542413,2025-08-17,Stade Brestois 29,512,Lille OSC,521,3,3,0,1,0
+542406,2025-08-17,AJ Auxerre,519,FC Lorient,525,1,0,1,0,0
+542408,2025-08-17,FC Metz,545,RC Strasbourg Alsace,576,0,1,0,0,1
+542412,2025-08-17,Angers SCO,532,Paris FC,1045,1,0,1,0,0
+542409,2025-08-17,FC Nantes,543,Paris Saint-Germain FC,524,0,1,0,0,1
+542422,2025-08-22,Paris Saint-Germain FC,524,Angers SCO,532,1,0,1,0,0
+542420,2025-08-23,Olympique de Marseille,516,Paris FC,1045,5,2,1,0,0
+542418,2025-08-23,OGC Nice,522,AJ Auxerre,519,3,1,1,0,0
+542419,2025-08-23,Olympique Lyonnais,523,FC Metz,545,3,0,1,0,0
+542416,2025-08-24,FC Lorient,525,Stade Rennais FC 1901,529,4,0,1,0,0
+542415,2025-08-24,Le Havre AC,533,Racing Club de Lens,546,1,2,0,0,1
+542417,2025-08-24,Toulouse FC,511,Stade Brestois 29,512,2,0,1,0,0
+542423,2025-08-24,RC Strasbourg Alsace,576,FC Nantes,543,1,0,1,0,0
+542421,2025-08-24,Lille OSC,521,AS Monaco FC,548,1,0,1,0,0
+542431,2025-08-29,Racing Club de Lens,546,Stade Brestois 29,512,3,1,1,0,0
+542426,2025-08-30,FC Lorient,525,Lille OSC,521,1,7,0,0,1
+542427,2025-08-30,FC Nantes,543,AJ Auxerre,519,1,0,1,0,0
+542429,2025-08-30,Toulouse FC,511,Paris Saint-Germain FC,524,3,6,0,0,1
+542432,2025-08-31,Angers SCO,532,Stade Rennais FC 1901,529,1,1,0,1,0
+542424,2025-08-31,Le Havre AC,533,OGC Nice,522,3,1,1,0,0
+542425,2025-08-31,AS Monaco FC,548,RC Strasbourg Alsace,576,3,2,1,0,0
+542428,2025-08-31,Paris FC,1045,FC Metz,545,3,2,1,0,0
+542430,2025-08-31,Olympique Lyonnais,523,Olympique de Marseille,516,1,0,1,0,0
+542436,2025-09-12,Olympique de Marseille,516,FC Lorient,525,4,0,1,0,0
+542435,2025-09-13,OGC Nice,522,FC Nantes,543,1,0,1,0,0
+542433,2025-09-13,AJ Auxerre,519,AS Monaco FC,548,1,2,0,0,1
+542437,2025-09-14,Lille OSC,521,Toulouse FC,511,2,1,1,0,0
+542434,2025-09-14,FC Metz,545,Angers SCO,532,1,1,0,1,0
+542438,2025-09-14,Paris Saint-Germain FC,524,Racing Club de Lens,546,2,0,1,0,0
+542439,2025-09-14,RC Strasbourg Alsace,576,Le Havre AC,533,1,0,1,0,0
+542440,2025-09-14,Stade Brestois 29,512,Paris FC,1045,1,2,0,0,1
+542441,2025-09-14,Stade Rennais FC 1901,529,Olympique Lyonnais,523,3,1,1,0,0
+542448,2025-09-19,Olympique Lyonnais,523,Angers SCO,532,1,0,1,0,0
+542445,2025-09-20,FC Nantes,543,Stade Rennais FC 1901,529,2,2,0,1,0
+542450,2025-09-20,Stade Brestois 29,512,OGC Nice,522,4,1,1,0,0
+542449,2025-09-20,Racing Club de Lens,546,Lille OSC,521,3,0,1,0,0
+542446,2025-09-21,Paris FC,1045,RC Strasbourg Alsace,576,2,3,0,0,1
+542442,2025-09-21,Le Havre AC,533,FC Lorient,525,1,1,0,1,0
+542443,2025-09-21,AJ Auxerre,519,Toulouse FC,511,1,0,1,0,0
+542444,2025-09-21,AS Monaco FC,548,FC Metz,545,5,2,1,0,0
+542447,2025-09-22,Olympique de Marseille,516,Paris Saint-Germain FC,524,1,0,1,0,0
+542457,2025-09-26,RC Strasbourg Alsace,576,Olympique de Marseille,516,1,2,0,0,1
+542451,2025-09-27,FC Lorient,525,AS Monaco FC,548,3,1,1,0,0
+542453,2025-09-27,Toulouse FC,511,FC Nantes,543,2,2,0,1,0
+542456,2025-09-27,Paris Saint-Germain FC,524,AJ Auxerre,519,2,0,1,0,0
+542454,2025-09-28,OGC Nice,522,Paris FC,1045,1,1,0,1,0
+542452,2025-09-28,FC Metz,545,Le Havre AC,533,0,0,0,1,0
+542455,2025-09-28,Lille OSC,521,Olympique Lyonnais,523,0,1,0,0,1
+542458,2025-09-28,Angers SCO,532,Stade Brestois 29,512,0,2,0,0,1
+542459,2025-09-28,Stade Rennais FC 1901,529,Racing Club de Lens,546,0,0,0,1,0
+542464,2025-10-03,Paris FC,1045,FC Lorient,525,2,0,1,0,0
+542463,2025-10-04,FC Metz,545,Olympique de Marseille,516,0,3,0,0,1
+542468,2025-10-04,Stade Brestois 29,512,FC Nantes,543,0,0,0,1,0
+542461,2025-10-04,AJ Auxerre,519,Racing Club de Lens,546,1,2,0,0,1
+542465,2025-10-05,Olympique Lyonnais,523,Toulouse FC,511,1,2,0,0,1
+542467,2025-10-05,RC Strasbourg Alsace,576,Angers SCO,532,5,0,1,0,0
+542460,2025-10-05,Le Havre AC,533,Stade Rennais FC 1901,529,2,2,0,1,0
+542462,2025-10-05,AS Monaco FC,548,OGC Nice,522,2,2,0,1,0
+542466,2025-10-05,Lille OSC,521,Paris Saint-Germain FC,524,1,1,0,1,0
+542474,2025-10-17,Paris Saint-Germain FC,524,RC Strasbourg Alsace,576,3,3,0,1,0
+542472,2025-10-18,OGC Nice,522,Olympique Lyonnais,523,3,2,1,0,0
+542476,2025-10-18,Angers SCO,532,AS Monaco FC,548,1,1,0,1,0
+542473,2025-10-18,Olympique de Marseille,516,Le Havre AC,533,6,2,1,0,0
+542475,2025-10-19,Racing Club de Lens,546,Paris FC,1045,2,1,1,0,0
+542469,2025-10-19,FC Lorient,525,Stade Brestois 29,512,3,3,0,1,0
+542471,2025-10-19,Toulouse FC,511,FC Metz,545,4,0,1,0,0
+542477,2025-10-19,Stade Rennais FC 1901,529,AJ Auxerre,519,2,2,0,1,0
+542470,2025-10-19,FC Nantes,543,Lille OSC,521,0,2,0,0,1
+542480,2025-10-24,Paris FC,1045,FC Nantes,543,1,2,0,0,1
+542485,2025-10-25,Stade Brestois 29,512,Paris Saint-Germain FC,524,0,3,0,0,1
+542479,2025-10-25,AS Monaco FC,548,Toulouse FC,511,1,0,1,0,0
+542483,2025-10-25,Racing Club de Lens,546,Olympique de Marseille,516,2,1,1,0,0
+542482,2025-10-26,Lille OSC,521,FC Metz,545,6,1,1,0,0
+542478,2025-10-26,AJ Auxerre,519,Le Havre AC,533,0,1,0,0,1
+542484,2025-10-26,Angers SCO,532,FC Lorient,525,2,0,1,0,0
+542486,2025-10-26,Stade Rennais FC 1901,529,OGC Nice,522,1,2,0,0,1
+542481,2025-10-26,Olympique Lyonnais,523,RC Strasbourg Alsace,576,2,1,1,0,0
+542487,2025-10-29,Le Havre AC,533,Stade Brestois 29,512,1,0,1,0,0
+542488,2025-10-29,FC Lorient,525,Paris Saint-Germain FC,524,1,1,0,1,0
+542489,2025-10-29,FC Metz,545,Racing Club de Lens,546,2,0,1,0,0
+542493,2025-10-29,OGC Nice,522,Lille OSC,521,2,0,1,0,0
+542490,2025-10-29,FC Nantes,543,AS Monaco FC,548,3,5,0,0,1
+542491,2025-10-29,Paris FC,1045,Olympique Lyonnais,523,3,3,0,1,0
+542492,2025-10-29,Toulouse FC,511,Stade Rennais FC 1901,529,2,2,0,1,0
+542494,2025-10-29,Olympique de Marseille,516,Angers SCO,532,2,2,0,1,0
+542495,2025-10-29,RC Strasbourg Alsace,576,AJ Auxerre,519,3,0,1,0,0
+542501,2025-11-01,Paris Saint-Germain FC,524,OGC Nice,522,1,0,1,0,0
+542497,2025-11-01,AS Monaco FC,548,Paris FC,1045,0,1,0,0,1
+542496,2025-11-01,AJ Auxerre,519,Olympique de Marseille,516,0,1,0,0,1
+542504,2025-11-02,Stade Rennais FC 1901,529,RC Strasbourg Alsace,576,4,1,1,0,0
+542498,2025-11-02,FC Nantes,543,FC Metz,545,0,2,0,0,1
+542499,2025-11-02,Toulouse FC,511,Le Havre AC,533,0,0,0,1,0
+542500,2025-11-02,Lille OSC,521,Angers SCO,532,1,0,1,0,0
+542502,2025-11-02,Racing Club de Lens,546,FC Lorient,525,3,0,1,0,0
+542503,2025-11-02,Stade Brestois 29,512,Olympique Lyonnais,523,0,0,0,1,0
+542509,2025-11-07,Paris FC,1045,Stade Rennais FC 1901,529,0,1,0,0,1
+542511,2025-11-08,Olympique de Marseille,516,Stade Brestois 29,512,3,0,1,0,0
+542505,2025-11-08,Le Havre AC,533,FC Nantes,543,1,1,0,1,0
+542506,2025-11-08,AS Monaco FC,548,Racing Club de Lens,546,1,4,0,0,1
+542507,2025-11-09,FC Lorient,525,Toulouse FC,511,1,1,0,1,0
+542508,2025-11-09,FC Metz,545,OGC Nice,522,2,1,1,0,0
+542512,2025-11-09,RC Strasbourg Alsace,576,Lille OSC,521,2,0,1,0,0
+542513,2025-11-09,Angers SCO,532,AJ Auxerre,519,2,0,1,0,0
+542510,2025-11-09,Olympique Lyonnais,523,Paris Saint-Germain FC,524,2,3,0,0,1
+542517,2025-11-21,OGC Nice,522,Olympique de Marseille,516,1,5,0,0,1
+542520,2025-11-22,Racing Club de Lens,546,RC Strasbourg Alsace,576,1,0,1,0,0
+542522,2025-11-22,Stade Rennais FC 1901,529,AS Monaco FC,548,4,1,1,0,0
+542519,2025-11-22,Paris Saint-Germain FC,524,Le Havre AC,533,3,0,1,0,0
+542514,2025-11-23,AJ Auxerre,519,Olympique Lyonnais,523,0,0,0,1,0
+542515,2025-11-23,FC Nantes,543,FC Lorient,525,1,1,0,1,0
+542516,2025-11-23,Toulouse FC,511,Angers SCO,532,0,1,0,0,1
+542521,2025-11-23,Stade Brestois 29,512,FC Metz,545,3,2,1,0,0
+542518,2025-11-23,Lille OSC,521,Paris FC,1045,4,2,1,0,0
+542526,2025-11-28,FC Metz,545,Stade Rennais FC 1901,529,0,1,0,0,1
+542524,2025-11-29,AS Monaco FC,548,Paris Saint-Germain FC,524,1,0,1,0,0
+542527,2025-11-29,Paris FC,1045,AJ Auxerre,519,1,1,0,1,0
+542529,2025-11-29,Olympique de Marseille,516,Toulouse FC,511,2,2,0,1,0
+542530,2025-11-30,RC Strasbourg Alsace,576,Stade Brestois 29,512,1,2,0,0,1
+542523,2025-11-30,Le Havre AC,533,Lille OSC,521,0,1,0,0,1
+542525,2025-11-30,FC Lorient,525,OGC Nice,522,3,1,1,0,0
+542531,2025-11-30,Angers SCO,532,Racing Club de Lens,546,1,2,0,0,1
+542528,2025-11-30,Olympique Lyonnais,523,FC Nantes,543,3,0,1,0,0
+542540,2025-12-05,Stade Brestois 29,512,AS Monaco FC,548,1,0,1,0,0
+542538,2025-12-05,Lille OSC,521,Olympique de Marseille,516,1,0,1,0,0
+542535,2025-12-06,FC Nantes,543,Racing Club de Lens,546,1,2,0,0,1
+542536,2025-12-06,Toulouse FC,511,RC Strasbourg Alsace,576,1,0,1,0,0
+542539,2025-12-06,Paris Saint-Germain FC,524,Stade Rennais FC 1901,529,5,0,1,0,0
+542537,2025-12-07,OGC Nice,522,Angers SCO,532,0,1,0,0,1
+542532,2025-12-07,Le Havre AC,533,Paris FC,1045,0,0,0,1,0
+542533,2025-12-07,AJ Auxerre,519,FC Metz,545,3,1,1,0,0
+542534,2025-12-07,FC Lorient,525,Olympique Lyonnais,523,1,0,1,0,0
+542548,2025-12-12,Angers SCO,532,FC Nantes,543,4,1,1,0,0
+542549,2025-12-13,Stade Rennais FC 1901,529,Stade Brestois 29,512,3,1,1,0,0
+542542,2025-12-13,FC Metz,545,Paris Saint-Germain FC,524,2,3,0,0,1
+542543,2025-12-13,Paris FC,1045,Toulouse FC,511,0,3,0,0,1
+542544,2025-12-14,Olympique Lyonnais,523,Le Havre AC,533,1,0,1,0,0
+542541,2025-12-14,AJ Auxerre,519,Lille OSC,521,3,4,0,0,1
+542546,2025-12-14,RC Strasbourg Alsace,576,FC Lorient,525,0,0,0,1,0
+542547,2025-12-14,Racing Club de Lens,546,OGC Nice,522,2,0,1,0,0
+542545,2025-12-14,Olympique de Marseille,516,AS Monaco FC,548,1,0,1,0,0
+542553,2026-01-02,Toulouse FC,511,Racing Club de Lens,546,0,3,0,0,1
+542551,2026-01-03,AS Monaco FC,548,Olympique Lyonnais,523,1,3,0,0,1
+542554,2026-01-03,OGC Nice,522,RC Strasbourg Alsace,576,1,1,0,1,0
+542556,2026-01-03,Lille OSC,521,Stade Rennais FC 1901,529,0,2,0,0,1
+542555,2026-01-04,Olympique de Marseille,516,FC Nantes,543,0,2,0,0,1
+542550,2026-01-04,Le Havre AC,533,Angers SCO,532,2,1,1,0,0
+542552,2026-01-04,FC Lorient,525,FC Metz,545,1,1,0,1,0
+542558,2026-01-04,Stade Brestois 29,512,AJ Auxerre,519,2,0,1,0,0
+542557,2026-01-04,Paris Saint-Germain FC,524,Paris FC,1045,2,1,1,0,0
+542559,2026-01-16,AS Monaco FC,548,FC Lorient,525,1,3,0,0,1
+542563,2026-01-16,Paris Saint-Germain FC,524,Lille OSC,521,3,0,1,0,0
+542565,2026-01-17,Racing Club de Lens,546,AJ Auxerre,519,1,0,1,0,0
+542561,2026-01-17,Toulouse FC,511,OGC Nice,522,5,1,1,0,0
+542566,2026-01-17,Angers SCO,532,Olympique de Marseille,516,2,5,0,0,1
+542564,2026-01-18,RC Strasbourg Alsace,576,FC Metz,545,2,1,1,0,0
+542560,2026-01-18,FC Nantes,543,Paris FC,1045,1,2,0,0,1
+542567,2026-01-18,Stade Rennais FC 1901,529,Le Havre AC,533,1,1,0,1,0
+542562,2026-01-18,Olympique Lyonnais,523,Stade Brestois 29,512,2,1,1,0,0
+542569,2026-01-23,AJ Auxerre,519,Paris Saint-Germain FC,524,0,1,0,0,1
+542576,2026-01-24,Stade Rennais FC 1901,529,FC Lorient,525,0,2,0,0,1
+542568,2026-01-24,Le Havre AC,533,AS Monaco FC,548,0,0,0,1,0
+542573,2026-01-24,Olympique de Marseille,516,Racing Club de Lens,546,3,1,1,0,0
+542571,2026-01-25,FC Nantes,543,OGC Nice,522,1,4,0,0,1
+542570,2026-01-25,FC Metz,545,Olympique Lyonnais,523,2,5,0,0,1
+542572,2026-01-25,Paris FC,1045,Angers SCO,532,0,0,0,1,0
+542575,2026-01-25,Stade Brestois 29,512,Toulouse FC,511,0,2,0,0,1
+542574,2026-01-25,Lille OSC,521,RC Strasbourg Alsace,576,1,4,0,0,1
+542584,2026-01-30,Racing Club de Lens,546,Le Havre AC,533,1,0,1,0,0
+542579,2026-01-31,Paris FC,1045,Olympique de Marseille,516,2,2,0,1,0
+542578,2026-01-31,FC Lorient,525,FC Nantes,543,2,1,1,0,0
+542577,2026-01-31,AS Monaco FC,548,Stade Rennais FC 1901,529,4,0,1,0,0
+542582,2026-02-01,Olympique Lyonnais,523,Lille OSC,521,1,0,1,0,0
+542580,2026-02-01,Toulouse FC,511,AJ Auxerre,519,0,0,0,1,0
+542581,2026-02-01,OGC Nice,522,Stade Brestois 29,512,2,2,0,1,0
+542585,2026-02-01,Angers SCO,532,FC Metz,545,1,0,1,0,0
+542583,2026-02-01,RC Strasbourg Alsace,576,Paris Saint-Germain FC,524,1,2,0,0,1
+542588,2026-02-06,FC Metz,545,Lille OSC,521,0,0,0,1,0
+542592,2026-02-07,Racing Club de Lens,546,Stade Rennais FC 1901,529,3,1,1,0,0
+542594,2026-02-07,Stade Brestois 29,512,FC Lorient,525,2,0,1,0,0
+542589,2026-02-07,FC Nantes,543,Olympique Lyonnais,523,0,1,0,0,1
+542590,2026-02-08,OGC Nice,522,AS Monaco FC,548,0,0,0,1,0
+542586,2026-02-08,Le Havre AC,533,RC Strasbourg Alsace,576,2,1,1,0,0
+542587,2026-02-08,AJ Auxerre,519,Paris FC,1045,0,0,0,1,0
+542593,2026-02-08,Angers SCO,532,Toulouse FC,511,1,0,1,0,0
+542591,2026-02-08,Paris Saint-Germain FC,524,Olympique de Marseille,516,5,0,1,0,0
+542603,2026-02-13,Stade Rennais FC 1901,529,Paris Saint-Germain FC,524,3,1,1,0,0
+542596,2026-02-13,AS Monaco FC,548,FC Nantes,543,3,1,1,0,0
+542601,2026-02-14,Olympique de Marseille,516,RC Strasbourg Alsace,576,2,2,0,1,0
+542602,2026-02-14,Lille OSC,521,Stade Brestois 29,512,1,1,0,1,0
+542599,2026-02-14,Paris FC,1045,Racing Club de Lens,546,0,5,0,0,1
+542595,2026-02-15,Le Havre AC,533,Toulouse FC,511,2,1,1,0,0
+542597,2026-02-15,FC Lorient,525,Angers SCO,532,2,0,1,0,0
+542598,2026-02-15,FC Metz,545,AJ Auxerre,519,1,3,0,0,1
+542600,2026-02-15,Olympique Lyonnais,523,OGC Nice,522,2,0,1,0,0
+542612,2026-02-20,Stade Brestois 29,512,Olympique de Marseille,516,2,0,1,0,0
+542610,2026-02-21,Racing Club de Lens,546,AS Monaco FC,548,2,3,0,0,1
+542606,2026-02-21,Toulouse FC,511,Paris FC,1045,1,1,0,1,0
+542608,2026-02-21,Paris Saint-Germain FC,524,FC Metz,545,3,0,1,0,0
+542604,2026-02-22,AJ Auxerre,519,Stade Rennais FC 1901,529,0,3,0,0,1
+542605,2026-02-22,FC Nantes,543,Le Havre AC,533,2,0,1,0,0
+542607,2026-02-22,OGC Nice,522,FC Lorient,525,3,3,0,1,0
+542611,2026-02-22,Angers SCO,532,Lille OSC,521,0,1,0,0,1
+542609,2026-02-22,RC Strasbourg Alsace,576,Olympique Lyonnais,523,3,1,1,0,0
+542620,2026-02-27,RC Strasbourg Alsace,576,Racing Club de Lens,546,1,1,0,1,0
+542621,2026-02-28,Stade Rennais FC 1901,529,Toulouse FC,511,1,0,1,0,0
+542614,2026-02-28,AS Monaco FC,548,Angers SCO,532,2,0,1,0,0
+542613,2026-02-28,Le Havre AC,533,Paris Saint-Germain FC,524,0,1,0,0,1
+542617,2026-03-01,Paris FC,1045,OGC Nice,522,1,0,1,0,0
+542615,2026-03-01,FC Lorient,525,AJ Auxerre,519,2,2,0,1,0
+542616,2026-03-01,FC Metz,545,Stade Brestois 29,512,0,1,0,0,1
+542619,2026-03-01,Lille OSC,521,FC Nantes,543,1,0,1,0,0
+542618,2026-03-01,Olympique de Marseille,516,Olympique Lyonnais,523,3,2,1,0,0
+542628,2026-03-06,Paris Saint-Germain FC,524,AS Monaco FC,548,1,3,0,0,1
+542623,2026-03-07,FC Nantes,543,Angers SCO,532,0,1,0,0,1
+542622,2026-03-07,AJ Auxerre,519,RC Strasbourg Alsace,576,0,0,0,1,0
+542624,2026-03-07,Toulouse FC,511,Olympique de Marseille,516,0,1,0,0,1
+542629,2026-03-08,Racing Club de Lens,546,FC Metz,545,3,0,1,0,0
+542625,2026-03-08,OGC Nice,522,Stade Rennais FC 1901,529,0,4,0,0,1
+542627,2026-03-08,Lille OSC,521,FC Lorient,525,1,1,0,1,0
+542630,2026-03-08,Stade Brestois 29,512,Le Havre AC,533,2,0,1,0,0
+542626,2026-03-08,Olympique Lyonnais,523,Paris FC,1045,1,1,0,1,0
+542635,2026-03-13,Olympique de Marseille,516,AJ Auxerre,519,1,0,1,0,0
+542633,2026-03-14,FC Lorient,525,Racing Club de Lens,546,2,1,1,0,0
+542638,2026-03-14,Angers SCO,532,OGC Nice,522,0,2,0,0,1
+542632,2026-03-14,AS Monaco FC,548,Stade Brestois 29,512,2,0,1,0,0

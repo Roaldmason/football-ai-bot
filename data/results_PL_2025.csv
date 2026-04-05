@@ -1,0 +1,297 @@
+fixture_id,date,home_team,home_id,away_team,away_id,home_goals,away_goals,home_win,draw,away_win
+537785,2025-08-15,Liverpool FC,64,AFC Bournemouth,1044,4,2,1,0,0
+537786,2025-08-16,Aston Villa FC,58,Newcastle United FC,67,0,0,0,1,0
+537787,2025-08-16,Brighton & Hove Albion FC,397,Fulham FC,63,1,1,0,1,0
+537789,2025-08-16,Sunderland AFC,71,West Ham United FC,563,3,0,1,0,0
+537790,2025-08-16,Tottenham Hotspur FC,73,Burnley FC,328,3,0,1,0,0
+537791,2025-08-16,Wolverhampton Wanderers FC,76,Manchester City FC,65,0,4,0,0,1
+537788,2025-08-17,Nottingham Forest FC,351,Brentford FC,402,3,1,1,0,0
+537792,2025-08-17,Chelsea FC,61,Crystal Palace FC,354,0,0,0,1,0
+537793,2025-08-17,Manchester United FC,66,Arsenal FC,57,0,1,0,0,1
+537794,2025-08-18,Leeds United FC,341,Everton FC,62,1,0,1,0,0
+537804,2025-08-22,West Ham United FC,563,Chelsea FC,61,1,5,0,0,1
+537802,2025-08-23,Manchester City FC,65,Tottenham Hotspur FC,73,0,2,0,0,1
+537795,2025-08-23,AFC Bournemouth,1044,Wolverhampton Wanderers FC,76,1,0,1,0,0
+537798,2025-08-23,Brentford FC,402,Aston Villa FC,58,1,0,1,0,0
+537799,2025-08-23,Burnley FC,328,Sunderland AFC,71,2,0,1,0,0
+537797,2025-08-23,Arsenal FC,57,Leeds United FC,341,5,0,1,0,0
+537796,2025-08-24,Crystal Palace FC,354,Nottingham Forest FC,351,1,1,0,1,0
+537800,2025-08-24,Everton FC,62,Brighton & Hove Albion FC,397,2,0,1,0,0
+537801,2025-08-24,Fulham FC,63,Manchester United FC,66,1,1,0,1,0
+537803,2025-08-25,Newcastle United FC,67,Liverpool FC,64,2,3,0,0,1
+537808,2025-08-30,Chelsea FC,61,Fulham FC,63,2,0,1,0,0
+537805,2025-08-30,Sunderland AFC,71,Brentford FC,402,2,1,1,0,0
+537811,2025-08-30,Manchester United FC,66,Burnley FC,328,3,2,1,0,0
+537813,2025-08-30,Tottenham Hotspur FC,73,AFC Bournemouth,1044,0,1,0,0,1
+537814,2025-08-30,Wolverhampton Wanderers FC,76,Everton FC,62,2,3,0,0,1
+537810,2025-08-30,Leeds United FC,341,Newcastle United FC,67,0,0,0,1,0
+537807,2025-08-31,Brighton & Hove Albion FC,397,Manchester City FC,65,2,1,1,0,0
+537812,2025-08-31,Nottingham Forest FC,351,West Ham United FC,563,0,3,0,0,1
+537809,2025-08-31,Liverpool FC,64,Arsenal FC,57,1,0,1,0,0
+537806,2025-08-31,Aston Villa FC,58,Crystal Palace FC,354,0,3,0,0,1
+537817,2025-09-13,Arsenal FC,57,Nottingham Forest FC,351,3,0,1,0,0
+537815,2025-09-13,AFC Bournemouth,1044,Brighton & Hove Albion FC,397,2,1,1,0,0
+537816,2025-09-13,Crystal Palace FC,354,Sunderland AFC,71,0,0,0,1,0
+537820,2025-09-13,Everton FC,62,Aston Villa FC,58,0,0,0,1,0
+537821,2025-09-13,Fulham FC,63,Leeds United FC,341,1,0,1,0,0
+537823,2025-09-13,Newcastle United FC,67,Wolverhampton Wanderers FC,76,1,0,1,0,0
+537824,2025-09-13,West Ham United FC,563,Tottenham Hotspur FC,73,0,3,0,0,1
+537818,2025-09-13,Brentford FC,402,Chelsea FC,61,2,2,0,1,0
+537819,2025-09-14,Burnley FC,328,Liverpool FC,64,0,1,0,0,1
+537822,2025-09-14,Manchester City FC,65,Manchester United FC,66,3,0,1,0,0
+537831,2025-09-20,Liverpool FC,64,Everton FC,62,2,1,1,0,0
+537827,2025-09-20,Brighton & Hove Albion FC,397,Tottenham Hotspur FC,73,2,2,0,1,0
+537829,2025-09-20,Burnley FC,328,Nottingham Forest FC,351,1,1,0,1,0
+537833,2025-09-20,West Ham United FC,563,Crystal Palace FC,354,1,2,0,0,1
+537834,2025-09-20,Wolverhampton Wanderers FC,76,Leeds United FC,341,1,3,0,0,1
+537832,2025-09-20,Manchester United FC,66,Chelsea FC,61,2,1,1,0,0
+537830,2025-09-20,Fulham FC,63,Brentford FC,402,3,1,1,0,0
+537825,2025-09-21,AFC Bournemouth,1044,Newcastle United FC,67,0,0,0,1,0
+537826,2025-09-21,Sunderland AFC,71,Aston Villa FC,58,1,1,0,1,0
+537828,2025-09-21,Arsenal FC,57,Manchester City FC,65,1,1,0,1,0
+537837,2025-09-27,Brentford FC,402,Manchester United FC,66,3,1,1,0,0
+537836,2025-09-27,Crystal Palace FC,354,Liverpool FC,64,2,1,1,0,0
+537838,2025-09-27,Chelsea FC,61,Brighton & Hove Albion FC,397,1,3,0,0,1
+537840,2025-09-27,Leeds United FC,341,AFC Bournemouth,1044,2,2,0,1,0
+537841,2025-09-27,Manchester City FC,65,Burnley FC,328,5,1,1,0,0
+537843,2025-09-27,Nottingham Forest FC,351,Sunderland AFC,71,0,1,0,0,1
+537844,2025-09-27,Tottenham Hotspur FC,73,Wolverhampton Wanderers FC,76,1,1,0,1,0
+537835,2025-09-28,Aston Villa FC,58,Fulham FC,63,3,1,1,0,0
+537842,2025-09-28,Newcastle United FC,67,Arsenal FC,57,1,2,0,0,1
+537839,2025-09-29,Everton FC,62,West Ham United FC,563,1,1,0,1,0
+537845,2025-10-03,AFC Bournemouth,1044,Fulham FC,63,3,1,1,0,0
+537851,2025-10-04,Leeds United FC,341,Tottenham Hotspur FC,73,1,2,0,0,1
+537847,2025-10-04,Arsenal FC,57,West Ham United FC,563,2,0,1,0,0
+537852,2025-10-04,Manchester United FC,66,Sunderland AFC,71,2,0,1,0,0
+537849,2025-10-04,Chelsea FC,61,Liverpool FC,64,2,1,1,0,0
+537846,2025-10-05,Aston Villa FC,58,Burnley FC,328,2,1,1,0,0
+537850,2025-10-05,Everton FC,62,Crystal Palace FC,354,2,1,1,0,0
+537853,2025-10-05,Newcastle United FC,67,Nottingham Forest FC,351,2,0,1,0,0
+537854,2025-10-05,Wolverhampton Wanderers FC,76,Brighton & Hove Albion FC,397,1,1,0,1,0
+537848,2025-10-05,Brentford FC,402,Manchester City FC,65,0,1,0,0,1
+537862,2025-10-18,Nottingham Forest FC,351,Chelsea FC,61,0,3,0,0,1
+537856,2025-10-18,Brighton & Hove Albion FC,397,Newcastle United FC,67,2,1,1,0,0
+537857,2025-10-18,Crystal Palace FC,354,AFC Bournemouth,1044,3,3,0,1,0
+537858,2025-10-18,Burnley FC,328,Leeds United FC,341,2,0,1,0,0
+537861,2025-10-18,Manchester City FC,65,Everton FC,62,2,0,1,0,0
+537855,2025-10-18,Sunderland AFC,71,Wolverhampton Wanderers FC,76,2,0,1,0,0
+537859,2025-10-18,Fulham FC,63,Arsenal FC,57,0,1,0,0,1
+537863,2025-10-19,Tottenham Hotspur FC,73,Aston Villa FC,58,1,2,0,0,1
+537860,2025-10-19,Liverpool FC,64,Manchester United FC,66,1,2,0,0,1
+537864,2025-10-20,West Ham United FC,563,Brentford FC,402,0,2,0,0,1
+537871,2025-10-24,Leeds United FC,341,West Ham United FC,563,2,1,1,0,0
+537869,2025-10-25,Chelsea FC,61,Sunderland AFC,71,1,2,0,0,1
+537873,2025-10-25,Newcastle United FC,67,Fulham FC,63,2,1,1,0,0
+537872,2025-10-25,Manchester United FC,66,Brighton & Hove Albion FC,397,4,2,1,0,0
+537868,2025-10-25,Brentford FC,402,Liverpool FC,64,3,2,1,0,0
+537865,2025-10-26,AFC Bournemouth,1044,Nottingham Forest FC,351,2,0,1,0,0
+537866,2025-10-26,Aston Villa FC,58,Manchester City FC,65,1,0,1,0,0
+537867,2025-10-26,Arsenal FC,57,Crystal Palace FC,354,1,0,1,0,0
+537874,2025-10-26,Wolverhampton Wanderers FC,76,Burnley FC,328,2,3,0,0,1
+537870,2025-10-26,Everton FC,62,Tottenham Hotspur FC,73,0,3,0,0,1
+537876,2025-11-01,Brighton & Hove Albion FC,397,Leeds United FC,341,3,0,1,0,0
+537877,2025-11-01,Crystal Palace FC,354,Brentford FC,402,2,0,1,0,0
+537878,2025-11-01,Burnley FC,328,Arsenal FC,57,0,2,0,0,1
+537879,2025-11-01,Fulham FC,63,Wolverhampton Wanderers FC,76,3,0,1,0,0
+537882,2025-11-01,Nottingham Forest FC,351,Manchester United FC,66,2,2,0,1,0
+537883,2025-11-01,Tottenham Hotspur FC,73,Chelsea FC,61,0,1,0,0,1
+537880,2025-11-01,Liverpool FC,64,Aston Villa FC,58,2,0,1,0,0
+537884,2025-11-02,West Ham United FC,563,Newcastle United FC,67,3,1,1,0,0
+537881,2025-11-02,Manchester City FC,65,AFC Bournemouth,1044,3,1,1,0,0
+537875,2025-11-03,Sunderland AFC,71,Everton FC,62,1,1,0,1,0
+537893,2025-11-08,Tottenham Hotspur FC,73,Manchester United FC,66,2,2,0,1,0
+537890,2025-11-08,Everton FC,62,Fulham FC,63,2,0,1,0,0
+537894,2025-11-08,West Ham United FC,563,Burnley FC,328,3,2,1,0,0
+537885,2025-11-08,Sunderland AFC,71,Arsenal FC,57,2,2,0,1,0
+537889,2025-11-08,Chelsea FC,61,Wolverhampton Wanderers FC,76,3,0,1,0,0
+537886,2025-11-09,Aston Villa FC,58,AFC Bournemouth,1044,4,0,1,0,0
+537887,2025-11-09,Crystal Palace FC,354,Brighton & Hove Albion FC,397,0,0,0,1,0
+537888,2025-11-09,Brentford FC,402,Newcastle United FC,67,3,1,1,0,0
+537892,2025-11-09,Nottingham Forest FC,351,Leeds United FC,341,3,1,1,0,0
+537891,2025-11-09,Manchester City FC,65,Liverpool FC,64,3,0,1,0,0
+537898,2025-11-22,Burnley FC,328,Chelsea FC,61,0,2,0,0,1
+537895,2025-11-22,AFC Bournemouth,1044,West Ham United FC,563,2,2,0,1,0
+537896,2025-11-22,Brighton & Hove Albion FC,397,Brentford FC,402,2,1,1,0,0
+537899,2025-11-22,Fulham FC,63,Sunderland AFC,71,1,0,1,0,0
+537900,2025-11-22,Liverpool FC,64,Nottingham Forest FC,351,0,3,0,0,1
+537904,2025-11-22,Wolverhampton Wanderers FC,76,Crystal Palace FC,354,0,2,0,0,1
+537903,2025-11-22,Newcastle United FC,67,Manchester City FC,65,2,1,1,0,0
+537901,2025-11-23,Leeds United FC,341,Aston Villa FC,58,1,2,0,0,1
+537897,2025-11-23,Arsenal FC,57,Tottenham Hotspur FC,73,4,1,1,0,0
+537902,2025-11-24,Manchester United FC,66,Everton FC,62,0,1,0,0,1
+537905,2025-11-29,Sunderland AFC,71,AFC Bournemouth,1044,3,2,1,0,0
+537908,2025-11-29,Brentford FC,402,Burnley FC,328,3,1,1,0,0
+537911,2025-11-29,Manchester City FC,65,Leeds United FC,341,3,2,1,0,0
+537910,2025-11-29,Everton FC,62,Newcastle United FC,67,1,4,0,0,1
+537913,2025-11-29,Tottenham Hotspur FC,73,Fulham FC,63,1,2,0,0,1
+537907,2025-11-30,Crystal Palace FC,354,Manchester United FC,66,1,2,0,0,1
+537906,2025-11-30,Aston Villa FC,58,Wolverhampton Wanderers FC,76,1,0,1,0,0
+537912,2025-11-30,Nottingham Forest FC,351,Brighton & Hove Albion FC,397,0,2,0,0,1
+537914,2025-11-30,West Ham United FC,563,Liverpool FC,64,0,2,0,0,1
+537909,2025-11-30,Chelsea FC,61,Arsenal FC,57,1,1,0,1,0
+537915,2025-12-02,AFC Bournemouth,1044,Everton FC,62,0,1,0,0,1
+537919,2025-12-02,Fulham FC,63,Manchester City FC,65,4,5,0,0,1
+537923,2025-12-02,Newcastle United FC,67,Tottenham Hotspur FC,73,2,2,0,1,0
+537916,2025-12-03,Brighton & Hove Albion FC,397,Aston Villa FC,58,3,4,0,0,1
+537917,2025-12-03,Arsenal FC,57,Brentford FC,402,2,0,1,0,0
+537918,2025-12-03,Burnley FC,328,Crystal Palace FC,354,0,1,0,0,1
+537924,2025-12-03,Wolverhampton Wanderers FC,76,Nottingham Forest FC,351,0,1,0,0,1
+537920,2025-12-03,Liverpool FC,64,Sunderland AFC,71,1,1,0,1,0
+537921,2025-12-03,Leeds United FC,341,Chelsea FC,61,3,1,1,0,0
+537922,2025-12-04,Manchester United FC,66,West Ham United FC,563,1,1,0,1,0
+537926,2025-12-06,Aston Villa FC,58,Arsenal FC,57,2,1,1,0,0
+537925,2025-12-06,AFC Bournemouth,1044,Chelsea FC,61,0,0,0,1,0
+537928,2025-12-06,Everton FC,62,Nottingham Forest FC,351,3,0,1,0,0
+537931,2025-12-06,Manchester City FC,65,Sunderland AFC,71,3,0,1,0,0
+537932,2025-12-06,Newcastle United FC,67,Burnley FC,328,2,1,1,0,0
+537933,2025-12-06,Tottenham Hotspur FC,73,Brentford FC,402,2,0,1,0,0
+537930,2025-12-06,Leeds United FC,341,Liverpool FC,64,3,3,0,1,0
+537927,2025-12-07,Brighton & Hove Albion FC,397,West Ham United FC,563,1,1,0,1,0
+537929,2025-12-07,Fulham FC,63,Crystal Palace FC,354,1,2,0,0,1
+537934,2025-12-08,Wolverhampton Wanderers FC,76,Manchester United FC,66,1,4,0,0,1
+537940,2025-12-13,Chelsea FC,61,Everton FC,62,2,0,1,0,0
+537941,2025-12-13,Liverpool FC,64,Brighton & Hove Albion FC,397,2,0,1,0,0
+537939,2025-12-13,Burnley FC,328,Fulham FC,63,2,3,0,0,1
+537937,2025-12-13,Arsenal FC,57,Wolverhampton Wanderers FC,76,2,1,1,0,0
+537935,2025-12-14,Sunderland AFC,71,Newcastle United FC,67,1,0,1,0,0
+537936,2025-12-14,Crystal Palace FC,354,Manchester City FC,65,0,3,0,0,1
+537943,2025-12-14,Nottingham Forest FC,351,Tottenham Hotspur FC,73,3,0,1,0,0
+537944,2025-12-14,West Ham United FC,563,Aston Villa FC,58,2,3,0,0,1
+537938,2025-12-14,Brentford FC,402,Leeds United FC,341,1,1,0,1,0
+537942,2025-12-15,Manchester United FC,66,AFC Bournemouth,1044,4,4,0,1,0
+537952,2025-12-20,Newcastle United FC,67,Chelsea FC,61,2,2,0,1,0
+537945,2025-12-20,AFC Bournemouth,1044,Burnley FC,328,1,1,0,1,0
+537947,2025-12-20,Brighton & Hove Albion FC,397,Sunderland AFC,71,0,0,0,1,0
+537951,2025-12-20,Manchester City FC,65,West Ham United FC,563,3,0,1,0,0
+537954,2025-12-20,Wolverhampton Wanderers FC,76,Brentford FC,402,0,2,0,0,1
+537953,2025-12-20,Tottenham Hotspur FC,73,Liverpool FC,64,1,2,0,0,1
+537948,2025-12-20,Everton FC,62,Arsenal FC,57,0,1,0,0,1
+537950,2025-12-20,Leeds United FC,341,Crystal Palace FC,354,4,1,1,0,0
+537946,2025-12-21,Aston Villa FC,58,Manchester United FC,66,2,1,1,0,0
+537949,2025-12-22,Fulham FC,63,Nottingham Forest FC,351,1,0,1,0,0
+537962,2025-12-26,Manchester United FC,66,Newcastle United FC,67,1,0,1,0,0
+537963,2025-12-27,Nottingham Forest FC,351,Manchester City FC,65,1,2,0,0,1
+537957,2025-12-27,Arsenal FC,57,Brighton & Hove Albion FC,397,2,1,1,0,0
+537958,2025-12-27,Brentford FC,402,AFC Bournemouth,1044,4,1,1,0,0
+537959,2025-12-27,Burnley FC,328,Everton FC,62,0,0,0,1,0
+537961,2025-12-27,Liverpool FC,64,Wolverhampton Wanderers FC,76,2,1,1,0,0
+537964,2025-12-27,West Ham United FC,563,Fulham FC,63,0,1,0,0,1
+537960,2025-12-27,Chelsea FC,61,Aston Villa FC,58,1,2,0,0,1
+537955,2025-12-28,Sunderland AFC,71,Leeds United FC,341,1,1,0,1,0
+537956,2025-12-28,Crystal Palace FC,354,Tottenham Hotspur FC,73,0,1,0,0,1
+537969,2025-12-30,Burnley FC,328,Newcastle United FC,67,1,3,0,0,1
+537970,2025-12-30,Chelsea FC,61,AFC Bournemouth,1044,2,2,0,1,0
+537973,2025-12-30,Nottingham Forest FC,351,Everton FC,62,0,2,0,0,1
+537974,2025-12-30,West Ham United FC,563,Brighton & Hove Albion FC,397,2,2,0,1,0
+537967,2025-12-30,Arsenal FC,57,Aston Villa FC,58,4,1,1,0,0
+537972,2025-12-30,Manchester United FC,66,Wolverhampton Wanderers FC,76,1,1,0,1,0
+537966,2026-01-01,Crystal Palace FC,354,Fulham FC,63,1,1,0,1,0
+537971,2026-01-01,Liverpool FC,64,Leeds United FC,341,0,0,0,1,0
+537965,2026-01-01,Sunderland AFC,71,Manchester City FC,65,0,0,0,1,0
+537968,2026-01-01,Brentford FC,402,Tottenham Hotspur FC,73,0,0,0,1,0
+537976,2026-01-03,Aston Villa FC,58,Nottingham Forest FC,351,3,1,1,0,0
+537977,2026-01-03,Brighton & Hove Albion FC,397,Burnley FC,328,2,0,1,0,0
+537984,2026-01-03,Wolverhampton Wanderers FC,76,West Ham United FC,563,3,0,1,0,0
+537975,2026-01-03,AFC Bournemouth,1044,Arsenal FC,57,2,3,0,0,1
+537980,2026-01-04,Leeds United FC,341,Manchester United FC,66,1,1,0,1,0
+537978,2026-01-04,Everton FC,62,Brentford FC,402,2,4,0,0,1
+537982,2026-01-04,Newcastle United FC,67,Crystal Palace FC,354,2,0,1,0,0
+537983,2026-01-04,Tottenham Hotspur FC,73,Sunderland AFC,71,1,1,0,1,0
+537979,2026-01-04,Fulham FC,63,Liverpool FC,64,2,2,0,1,0
+537981,2026-01-04,Manchester City FC,65,Chelsea FC,61,1,1,0,1,0
+537994,2026-01-06,West Ham United FC,563,Nottingham Forest FC,351,1,2,0,0,1
+537985,2026-01-07,AFC Bournemouth,1044,Tottenham Hotspur FC,73,3,2,1,0,0
+537986,2026-01-07,Crystal Palace FC,354,Aston Villa FC,58,0,0,0,1,0
+537988,2026-01-07,Brentford FC,402,Sunderland AFC,71,3,0,1,0,0
+537990,2026-01-07,Everton FC,62,Wolverhampton Wanderers FC,76,1,1,0,1,0
+537991,2026-01-07,Fulham FC,63,Chelsea FC,61,2,1,1,0,0
+537992,2026-01-07,Manchester City FC,65,Brighton & Hove Albion FC,397,1,1,0,1,0
+537989,2026-01-07,Burnley FC,328,Manchester United FC,66,2,2,0,1,0
+537993,2026-01-07,Newcastle United FC,67,Leeds United FC,341,4,3,1,0,0
+537987,2026-01-08,Arsenal FC,57,Liverpool FC,64,0,0,0,1,0
+538001,2026-01-17,Manchester United FC,66,Manchester City FC,65,2,0,1,0,0
+537995,2026-01-17,Sunderland AFC,71,Crystal Palace FC,354,2,1,1,0,0
+537998,2026-01-17,Chelsea FC,61,Brentford FC,402,2,0,1,0,0
+537999,2026-01-17,Liverpool FC,64,Burnley FC,328,1,1,0,1,0
+538000,2026-01-17,Leeds United FC,341,Fulham FC,63,1,0,1,0,0
+538003,2026-01-17,Tottenham Hotspur FC,73,West Ham United FC,563,1,2,0,0,1
+538002,2026-01-17,Nottingham Forest FC,351,Arsenal FC,57,0,0,0,1,0
+538004,2026-01-18,Wolverhampton Wanderers FC,76,Newcastle United FC,67,0,0,0,1,0
+537996,2026-01-18,Aston Villa FC,58,Everton FC,62,0,1,0,0,1
+537997,2026-01-19,Brighton & Hove Albion FC,397,AFC Bournemouth,1044,1,1,0,1,0
+538014,2026-01-24,West Ham United FC,563,Sunderland AFC,71,3,1,1,0,0
+538009,2026-01-24,Burnley FC,328,Tottenham Hotspur FC,73,2,2,0,1,0
+538011,2026-01-24,Fulham FC,63,Brighton & Hove Albion FC,397,2,1,1,0,0
+538012,2026-01-24,Manchester City FC,65,Wolverhampton Wanderers FC,76,2,0,1,0,0
+538005,2026-01-24,AFC Bournemouth,1044,Liverpool FC,64,3,2,1,0,0
+538006,2026-01-25,Crystal Palace FC,354,Chelsea FC,61,1,3,0,0,1
+538008,2026-01-25,Brentford FC,402,Nottingham Forest FC,351,0,2,0,0,1
+538013,2026-01-25,Newcastle United FC,67,Aston Villa FC,58,0,2,0,0,1
+538007,2026-01-25,Arsenal FC,57,Manchester United FC,66,2,3,0,0,1
+538010,2026-01-26,Everton FC,62,Leeds United FC,341,1,1,0,1,0
+538017,2026-01-31,Brighton & Hove Albion FC,397,Everton FC,62,1,1,0,1,0
+538020,2026-01-31,Leeds United FC,341,Arsenal FC,57,0,4,0,0,1
+538024,2026-01-31,Wolverhampton Wanderers FC,76,AFC Bournemouth,1044,0,2,0,0,1
+538018,2026-01-31,Chelsea FC,61,West Ham United FC,563,3,2,1,0,0
+538019,2026-01-31,Liverpool FC,64,Newcastle United FC,67,4,1,1,0,0
+538016,2026-02-01,Aston Villa FC,58,Brentford FC,402,0,1,0,0,1
+538021,2026-02-01,Manchester United FC,66,Fulham FC,63,3,2,1,0,0
+538022,2026-02-01,Nottingham Forest FC,351,Crystal Palace FC,354,1,1,0,1,0
+538023,2026-02-01,Tottenham Hotspur FC,73,Manchester City FC,65,2,2,0,1,0
+538015,2026-02-02,Sunderland AFC,71,Burnley FC,328,3,0,1,0,0
+538031,2026-02-06,Leeds United FC,341,Nottingham Forest FC,351,3,1,1,0,0
+538032,2026-02-07,Manchester United FC,66,Tottenham Hotspur FC,73,2,0,1,0,0
+538025,2026-02-07,AFC Bournemouth,1044,Aston Villa FC,58,1,1,0,1,0
+538027,2026-02-07,Arsenal FC,57,Sunderland AFC,71,3,0,1,0,0
+538028,2026-02-07,Burnley FC,328,West Ham United FC,563,0,2,0,0,1
+538029,2026-02-07,Fulham FC,63,Everton FC,62,1,2,0,0,1
+538034,2026-02-07,Wolverhampton Wanderers FC,76,Chelsea FC,61,1,3,0,0,1
+538033,2026-02-07,Newcastle United FC,67,Brentford FC,402,2,3,0,0,1
+538026,2026-02-08,Brighton & Hove Albion FC,397,Crystal Palace FC,354,0,1,0,0,1
+538030,2026-02-08,Liverpool FC,64,Manchester City FC,65,1,2,0,0,1
+538039,2026-02-10,Chelsea FC,61,Leeds United FC,341,2,2,0,1,0
+538040,2026-02-10,Everton FC,62,AFC Bournemouth,1044,1,2,0,0,1
+538043,2026-02-10,Tottenham Hotspur FC,73,Newcastle United FC,67,1,2,0,0,1
+538044,2026-02-10,West Ham United FC,563,Manchester United FC,66,1,1,0,1,0
+538036,2026-02-11,Aston Villa FC,58,Brighton & Hove Albion FC,397,1,0,1,0,0
+538041,2026-02-11,Manchester City FC,65,Fulham FC,63,3,0,1,0,0
+538042,2026-02-11,Nottingham Forest FC,351,Wolverhampton Wanderers FC,76,0,0,0,1,0
+538037,2026-02-11,Crystal Palace FC,354,Burnley FC,328,2,3,0,0,1
+538035,2026-02-11,Sunderland AFC,71,Liverpool FC,64,0,1,0,0,1
+538038,2026-02-12,Brentford FC,402,Arsenal FC,57,1,1,0,1,0
+538094,2026-02-18,Wolverhampton Wanderers FC,76,Arsenal FC,57,2,2,0,1,0
+538046,2026-02-21,Aston Villa FC,58,Leeds United FC,341,1,1,0,1,0
+538048,2026-02-21,Brentford FC,402,Brighton & Hove Albion FC,397,0,2,0,0,1
+538049,2026-02-21,Chelsea FC,61,Burnley FC,328,1,1,0,1,0
+538054,2026-02-21,West Ham United FC,563,AFC Bournemouth,1044,0,0,0,1,0
+538051,2026-02-21,Manchester City FC,65,Newcastle United FC,67,2,1,1,0,0
+538045,2026-02-22,Sunderland AFC,71,Fulham FC,63,1,3,0,0,1
+538047,2026-02-22,Crystal Palace FC,354,Wolverhampton Wanderers FC,76,1,0,1,0,0
+538052,2026-02-22,Nottingham Forest FC,351,Liverpool FC,64,0,1,0,0,1
+538053,2026-02-22,Tottenham Hotspur FC,73,Arsenal FC,57,1,4,0,0,1
+538050,2026-02-23,Everton FC,62,Manchester United FC,66,0,1,0,0,1
+538064,2026-02-27,Wolverhampton Wanderers FC,76,Aston Villa FC,58,2,0,1,0,0
+538055,2026-02-28,AFC Bournemouth,1044,Sunderland AFC,71,1,1,0,1,0
+538058,2026-02-28,Burnley FC,328,Brentford FC,402,3,4,0,0,1
+538060,2026-02-28,Liverpool FC,64,West Ham United FC,563,5,2,1,0,0
+538063,2026-02-28,Newcastle United FC,67,Everton FC,62,2,3,0,0,1
+538061,2026-02-28,Leeds United FC,341,Manchester City FC,65,0,1,0,0,1
+538056,2026-03-01,Brighton & Hove Albion FC,397,Nottingham Forest FC,351,2,1,1,0,0
+538059,2026-03-01,Fulham FC,63,Tottenham Hotspur FC,73,2,1,1,0,0
+538062,2026-03-01,Manchester United FC,66,Crystal Palace FC,354,2,1,1,0,0
+538057,2026-03-01,Arsenal FC,57,Chelsea FC,61,2,1,1,0,0
+538065,2026-03-03,AFC Bournemouth,1044,Brentford FC,402,0,0,0,1,0
+538068,2026-03-03,Everton FC,62,Burnley FC,328,2,0,1,0,0
+538070,2026-03-03,Leeds United FC,341,Sunderland AFC,71,0,1,0,0,1
+538074,2026-03-03,Wolverhampton Wanderers FC,76,Liverpool FC,64,2,1,1,0,0
+538066,2026-03-04,Aston Villa FC,58,Chelsea FC,61,1,4,0,0,1
+538067,2026-03-04,Brighton & Hove Albion FC,397,Arsenal FC,57,0,1,0,0,1
+538069,2026-03-04,Fulham FC,63,West Ham United FC,563,0,1,0,0,1
+538071,2026-03-04,Manchester City FC,65,Nottingham Forest FC,351,2,2,0,1,0
+538072,2026-03-04,Newcastle United FC,67,Manchester United FC,66,2,1,1,0,0
+538073,2026-03-05,Tottenham Hotspur FC,73,Crystal Palace FC,354,1,3,0,0,1
+538075,2026-03-14,Sunderland AFC,71,Brighton & Hove Albion FC,397,0,1,0,0,1
+538079,2026-03-14,Burnley FC,328,AFC Bournemouth,1044,0,0,0,1,0
+538077,2026-03-14,Arsenal FC,57,Everton FC,62,2,0,1,0,0
+538080,2026-03-14,Chelsea FC,61,Newcastle United FC,67,0,1,0,0,1
+538084,2026-03-14,West Ham United FC,563,Manchester City FC,65,1,1,0,1,0

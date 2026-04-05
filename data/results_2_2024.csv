@@ -1,0 +1,270 @@
+fixture_id,date,home_team,home_id,away_team,away_id,home_goals,away_goals,home_win,draw,away_win
+1208418,2024-07-09,Panevėžys,3874,HJK Helsinki,649,3,0,1,0,0
+1208410,2024-07-09,Hamrun Spartans,4626,Lincoln Red Imps FC,667,0,1,0,0,1
+1208406,2024-07-09,The New Saints,354,Dečić,3745,3,0,1,0,0
+1208412,2024-07-09,UE Santa Coloma,703,Ballkani,12733,1,2,0,0,1
+1208422,2024-07-09,Vikingur Reykjavik,278,Shamrock Rovers,652,0,0,0,1,0
+1208424,2024-07-09,Virtus,5308,FCSB,559,1,7,0,0,1
+1208428,2024-07-10,Ordabasy,692,Petrocub,2271,0,0,0,1,0
+1208414,2024-07-10,Flora Tallinn,687,Celje,4360,0,5,0,0,1
+1208404,2024-07-10,Slovan Bratislava,656,Struga,4346,4,2,1,0,0
+1208420,2024-07-10,Rīgas FS,4160,Larne,5354,3,0,1,0,0
+1208426,2024-07-10,Ludogorets,566,Dinamo Batumi,705,3,1,1,0,0
+1208416,2024-07-10,KI Klaksvik,701,FC Differdange 03,684,2,0,1,0,0
+1208430,2024-07-10,Dinamo Minsk,394,Pyunik Yerevan,709,0,0,0,1,0
+1208408,2024-07-10,Borac Banja Luka,3364,Egnatia Rrogozhinë,3327,1,0,1,0,0
+1208419,2024-07-16,HJK Helsinki,649,Panevėžys,3874,1,1,0,1,0
+1208431,2024-07-16,Pyunik Yerevan,709,Dinamo Minsk,394,0,1,0,0,1
+1208415,2024-07-16,Celje,4360,Flora Tallinn,687,2,1,1,0,0
+1208425,2024-07-16,FCSB,559,Virtus,5308,4,0,1,0,0
+1208423,2024-07-16,Shamrock Rovers,652,Vikingur Reykjavik,278,2,1,1,0,0
+1208407,2024-07-16,Dečić,3745,The New Saints,354,1,1,0,1,0
+1208405,2024-07-17,Struga,4346,Slovan Bratislava,656,1,2,0,0,1
+1208417,2024-07-17,FC Differdange 03,684,KI Klaksvik,701,0,0,0,1,0
+1208427,2024-07-17,Dinamo Batumi,705,Ludogorets,566,1,0,1,0,0
+1208429,2024-07-17,Petrocub,2271,Ordabasy,692,1,0,1,0,0
+1208421,2024-07-17,Larne,5354,Rīgas FS,4160,0,4,0,0,1
+1250485,2024-07-23,Bodo/Glimt,327,Rīgas FS,4160,4,0,1,0,0
+1245606,2024-07-23,Panevėžys,3874,Jagiellonia,336,0,4,0,0,1
+1245598,2024-07-23,Lincoln Red Imps FC,667,Qarabag,556,0,2,0,0,1
+1250489,2024-07-23,Malmo FF,375,KI Klaksvik,701,4,1,1,0,0
+1250487,2024-07-23,Apoel Nicosia,2247,Petrocub,2271,1,0,1,0,0
+1245604,2024-07-23,FCSB,559,Maccabi Tel Aviv,604,1,1,0,1,0
+1209237,2024-07-23,Dynamo Kyiv,572,FK Partizan,573,6,2,1,0,0
+1245608,2024-07-23,Ferencvarosi TC,651,The New Saints,354,5,0,1,0,0
+1245602,2024-07-23,UE Santa Coloma,703,FC Midtjylland,397,0,3,0,0,1
+1209235,2024-07-23,FC Lugano,606,Fenerbahçe,611,3,4,0,0,1
+1245600,2024-07-23,Shamrock Rovers,652,Sparta Praha,628,0,2,0,0,1
+1250491,2024-07-24,PAOK,619,Borac Banja Luka,3364,3,2,1,0,0
+1250481,2024-07-24,Ludogorets,566,Dinamo Minsk,394,2,0,1,0,0
+1250483,2024-07-24,Celje,4360,Slovan Bratislava,656,1,1,0,1,0
+1245599,2024-07-30,Qarabag,556,Lincoln Red Imps FC,667,5,0,1,0,0
+1209236,2024-07-30,Fenerbahçe,611,FC Lugano,606,2,1,1,0,0
+1245601,2024-07-30,Sparta Praha,628,Shamrock Rovers,652,4,2,1,0,0
+1250488,2024-07-30,Petrocub,2271,Apoel Nicosia,2247,1,1,0,1,0
+1245609,2024-07-30,The New Saints,354,Ferencvarosi TC,651,1,2,0,0,1
+1250484,2024-07-30,Slovan Bratislava,656,Celje,4360,5,0,1,0,0
+1250490,2024-07-30,KI Klaksvik,701,Malmo FF,375,3,2,1,0,0
+1250486,2024-07-31,Rīgas FS,4160,Bodo/Glimt,327,1,3,0,0,1
+1245603,2024-07-31,FC Midtjylland,397,UE Santa Coloma,703,1,0,1,0,0
+1209238,2024-07-31,FK Partizan,573,Dynamo Kyiv,572,0,3,0,0,1
+1245605,2024-07-31,Maccabi Tel Aviv,604,FCSB,559,0,1,0,0,1
+1245607,2024-07-31,Jagiellonia,336,Panevėžys,3874,3,1,1,0,0
+1250482,2024-07-31,Dinamo Minsk,394,Ludogorets,566,1,0,1,0,0
+1250492,2024-07-31,Borac Banja Luka,3364,PAOK,619,0,1,0,0,1
+1273677,2024-08-06,Qarabag,556,Ludogorets,566,1,2,0,0,1
+1273681,2024-08-06,Malmo FF,375,PAOK,619,2,2,0,1,0
+1273683,2024-08-06,FC Midtjylland,397,Ferencvarosi TC,651,2,0,1,0,0
+1273687,2024-08-06,Dynamo Kyiv,572,Rangers,257,1,1,0,1,0
+1273679,2024-08-06,Sparta Praha,628,FCSB,559,1,1,0,1,0
+1271720,2024-08-06,Lille,79,Fenerbahçe,611,2,1,1,0,0
+1253319,2024-08-06,Red Bull Salzburg,571,Twente,415,2,1,1,0,0
+1253317,2024-08-07,Slavia Praha,560,Union St. Gilloise,1393,3,1,1,0,0
+1271718,2024-08-07,Slovan Bratislava,656,Apoel Nicosia,2247,2,0,1,0,0
+1273685,2024-08-07,Jagiellonia,336,Bodo/Glimt,327,0,1,0,0,1
+1273686,2024-08-13,Bodo/Glimt,327,Jagiellonia,336,4,1,1,0,0
+1253320,2024-08-13,Twente,415,Red Bull Salzburg,571,3,3,0,1,0
+1271719,2024-08-13,Apoel Nicosia,2247,Slovan Bratislava,656,0,0,0,1,0
+1273684,2024-08-13,Ferencvarosi TC,651,FC Midtjylland,397,1,1,0,1,0
+1273680,2024-08-13,FCSB,559,Sparta Praha,628,2,3,0,0,1
+1253318,2024-08-13,Union St. Gilloise,1393,Slavia Praha,560,0,1,0,0,1
+1273688,2024-08-13,Rangers,257,Dynamo Kyiv,572,0,2,0,0,1
+1286255,2024-08-20,Lille,79,Slavia Praha,560,2,0,1,0,0
+1286251,2024-08-20,Bodo/Glimt,327,FK Crvena Zvezda,598,2,1,1,0,0
+1286247,2024-08-20,Dinamo Zagreb,620,Qarabag,556,3,0,1,0,0
+1286253,2024-08-21,Malmo FF,375,Sparta Praha,628,0,2,0,0,1
+1286249,2024-08-21,FC Midtjylland,397,Slovan Bratislava,656,1,1,0,1,0
+1280666,2024-08-21,BSC Young Boys,565,Galatasaray,645,3,2,1,0,0
+1286257,2024-08-21,Dynamo Kyiv,572,Red Bull Salzburg,571,0,2,0,0,1
+1286258,2024-08-27,Red Bull Salzburg,571,Dynamo Kyiv,572,1,1,0,1,0
+1286254,2024-08-27,Sparta Praha,628,Malmo FF,375,2,0,1,0,0
+1280667,2024-08-27,Galatasaray,645,BSC Young Boys,565,0,1,0,0,1
+1286248,2024-08-28,Qarabag,556,Dinamo Zagreb,620,0,2,0,0,1
+1286256,2024-08-28,Slavia Praha,560,Lille,79,2,1,1,0,0
+1286252,2024-08-28,FK Crvena Zvezda,598,Bodo/Glimt,327,2,0,1,0,0
+1286250,2024-08-28,Slovan Bratislava,656,FC Midtjylland,397,3,2,1,0,0
+1298984,2024-09-17,Juventus,496,PSV Eindhoven,197,3,1,1,0,0
+1298985,2024-09-17,BSC Young Boys,565,Aston Villa,66,0,3,0,0,1
+1298986,2024-09-17,Bayern München,157,Dinamo Zagreb,620,9,2,1,0,0
+1298988,2024-09-17,Sporting CP,228,Lille,79,2,0,1,0,0
+1298987,2024-09-17,AC Milan,489,Liverpool,40,1,3,0,0,1
+1298989,2024-09-17,Real Madrid,541,VfB Stuttgart,172,3,1,1,0,0
+1298990,2024-09-18,Bologna,500,Shakhtar Donetsk,550,0,0,0,1,0
+1298991,2024-09-18,Sparta Praha,628,Red Bull Salzburg,571,3,0,1,0,0
+1298994,2024-09-18,Manchester City,50,Inter,505,0,0,0,1,0
+1298995,2024-09-18,Paris Saint Germain,85,Girona,547,1,0,1,0,0
+1298992,2024-09-18,Celtic,247,Slovan Bratislava,656,5,1,1,0,0
+1298993,2024-09-18,Club Brugge KV,569,Borussia Dortmund,165,0,3,0,0,1
+1298997,2024-09-19,Feyenoord,209,Bayer Leverkusen,168,0,4,0,0,1
+1298996,2024-09-19,FK Crvena Zvezda,598,Benfica,211,1,2,0,0,1
+1299001,2024-09-19,Monaco,91,Barcelona,529,2,1,1,0,0
+1299000,2024-09-19,Stade Brestois 29,106,Sturm Graz,637,2,1,1,0,0
+1298998,2024-09-19,Atalanta,499,Arsenal,42,0,0,0,1,0
+1298999,2024-09-19,Atletico Madrid,530,RB Leipzig,173,2,1,1,0,0
+1299003,2024-10-01,VfB Stuttgart,172,Sparta Praha,628,1,1,0,1,0
+1299002,2024-10-01,Red Bull Salzburg,571,Stade Brestois 29,106,0,4,0,0,1
+1299010,2024-10-01,Arsenal,42,Paris Saint Germain,85,2,0,1,0,0
+1299006,2024-10-01,Borussia Dortmund,165,Celtic,247,7,1,1,0,0
+1299005,2024-10-01,Bayer Leverkusen,168,AC Milan,489,1,0,1,0,0
+1299008,2024-10-01,PSV Eindhoven,197,Sporting CP,228,1,1,0,1,0
+1299007,2024-10-01,Inter,505,FK Crvena Zvezda,598,4,0,1,0,0
+1299004,2024-10-01,Barcelona,529,BSC Young Boys,565,5,0,1,0,0
+1299009,2024-10-01,Slovan Bratislava,656,Manchester City,50,0,4,0,0,1
+1299011,2024-10-02,Girona,547,Feyenoord,209,2,3,0,0,1
+1299012,2024-10-02,Shakhtar Donetsk,550,Atalanta,499,0,3,0,0,1
+1299017,2024-10-02,Liverpool,40,Bologna,500,2,0,1,0,0
+1299013,2024-10-02,Aston Villa,66,Bayern München,157,1,0,1,0,0
+1299016,2024-10-02,Lille,79,Real Madrid,541,1,0,1,0,0
+1299018,2024-10-02,RB Leipzig,173,Juventus,496,2,3,0,0,1
+1299014,2024-10-02,Benfica,211,Atletico Madrid,530,4,0,1,0,0
+1299015,2024-10-02,Dinamo Zagreb,620,Monaco,91,2,2,0,1,0
+1299019,2024-10-02,Sturm Graz,637,Club Brugge KV,569,0,1,0,0,1
+1299021,2024-10-22,Monaco,91,FK Crvena Zvezda,598,5,1,1,0,0
+1299020,2024-10-22,AC Milan,489,Club Brugge KV,569,3,1,1,0,0
+1299027,2024-10-22,Arsenal,42,Shakhtar Donetsk,550,1,0,1,0,0
+1299022,2024-10-22,Aston Villa,66,Bologna,500,2,0,1,0,0
+1299025,2024-10-22,Paris Saint Germain,85,PSV Eindhoven,197,1,1,0,1,0
+1299024,2024-10-22,Juventus,496,VfB Stuttgart,172,0,1,0,0,1
+1299028,2024-10-22,Real Madrid,541,Borussia Dortmund,165,5,2,1,0,0
+1299023,2024-10-22,Girona,547,Slovan Bratislava,656,2,0,1,0,0
+1299026,2024-10-22,Sturm Graz,637,Sporting CP,228,0,2,0,0,1
+1299030,2024-10-23,Stade Brestois 29,106,Bayer Leverkusen,168,1,1,0,1,0
+1299029,2024-10-23,Atalanta,499,Celtic,247,0,0,0,1,0
+1299035,2024-10-23,Manchester City,50,Sparta Praha,628,5,0,1,0,0
+1299036,2024-10-23,RB Leipzig,173,Liverpool,40,0,1,0,0,1
+1299033,2024-10-23,Benfica,211,Feyenoord,209,1,3,0,0,1
+1299032,2024-10-23,Barcelona,529,Bayern München,157,4,1,1,0,0
+1299031,2024-10-23,Atletico Madrid,530,Lille,79,1,3,0,0,1
+1299037,2024-10-23,BSC Young Boys,565,Inter,505,0,1,0,0,1
+1299034,2024-10-23,Red Bull Salzburg,571,Dinamo Zagreb,620,0,2,0,0,1
+1299038,2024-11-05,PSV Eindhoven,197,Girona,547,4,0,1,0,0
+1299039,2024-11-05,Slovan Bratislava,656,Dinamo Zagreb,620,1,4,0,0,1
+1299044,2024-11-05,Liverpool,40,Bayer Leverkusen,168,4,0,1,0,0
+1299043,2024-11-05,Lille,79,Juventus,496,1,1,0,1,0
+1299041,2024-11-05,Borussia Dortmund,165,Sturm Graz,637,1,0,1,0,0
+1299045,2024-11-05,Sporting CP,228,Manchester City,50,4,1,1,0,0
+1299042,2024-11-05,Celtic,247,RB Leipzig,173,3,1,1,0,0
+1299040,2024-11-05,Bologna,500,Monaco,91,0,1,0,0,1
+1299046,2024-11-05,Real Madrid,541,AC Milan,489,1,3,0,0,1
+1299048,2024-11-06,Shakhtar Donetsk,550,BSC Young Boys,565,2,1,1,0,0
+1299047,2024-11-06,Club Brugge KV,569,Aston Villa,66,1,0,1,0,0
+1299053,2024-11-06,Paris Saint Germain,85,Atletico Madrid,530,1,2,0,0,1
+1299050,2024-11-06,Bayern München,157,Benfica,211,1,0,1,0,0
+1299055,2024-11-06,VfB Stuttgart,172,Atalanta,499,0,2,0,0,1
+1299051,2024-11-06,Feyenoord,209,Red Bull Salzburg,571,1,3,0,0,1
+1299052,2024-11-06,Inter,505,Arsenal,42,1,0,1,0,0
+1299049,2024-11-06,FK Crvena Zvezda,598,Barcelona,529,2,5,0,0,1
+1299054,2024-11-06,Sparta Praha,628,Stade Brestois 29,106,1,2,0,0,1
+1299057,2024-11-26,Sparta Praha,628,Atletico Madrid,530,0,6,0,0,1
+1299056,2024-11-26,Slovan Bratislava,656,AC Milan,489,2,3,0,0,1
+1299062,2024-11-26,Manchester City,50,Feyenoord,209,3,3,0,1,0
+1299060,2024-11-26,Bayern München,157,Paris Saint Germain,85,1,0,1,0,0
+1299059,2024-11-26,Bayer Leverkusen,168,Red Bull Salzburg,571,5,0,1,0,0
+1299063,2024-11-26,Sporting CP,228,Arsenal,42,1,5,0,0,1
+1299061,2024-11-26,Inter,505,RB Leipzig,173,1,0,1,0,0
+1299058,2024-11-26,Barcelona,529,Stade Brestois 29,106,3,0,1,0,0
+1299064,2024-11-26,BSC Young Boys,565,Atalanta,499,1,6,0,0,1
+1299065,2024-11-27,FK Crvena Zvezda,598,VfB Stuttgart,172,5,1,1,0,0
+1299066,2024-11-27,Sturm Graz,637,Girona,547,1,0,1,0,0
+1299071,2024-11-27,Liverpool,40,Real Madrid,541,2,0,1,0,0
+1299067,2024-11-27,Aston Villa,66,Juventus,496,0,0,0,1,0
+1299072,2024-11-27,Monaco,91,Benfica,211,2,3,0,0,1
+1299073,2024-11-27,PSV Eindhoven,197,Shakhtar Donetsk,550,3,2,1,0,0
+1299069,2024-11-27,Celtic,247,Club Brugge KV,569,1,1,0,1,0
+1299068,2024-11-27,Bologna,500,Lille,79,1,2,0,0,1
+1299070,2024-11-27,Dinamo Zagreb,620,Borussia Dortmund,165,0,3,0,0,1
+1299075,2024-12-10,Girona,547,Liverpool,40,0,1,0,0,1
+1299074,2024-12-10,Dinamo Zagreb,620,Celtic,247,0,0,0,1,0
+1299078,2024-12-10,Stade Brestois 29,106,PSV Eindhoven,197,1,0,1,0,0
+1299077,2024-12-10,Bayer Leverkusen,168,Inter,505,1,0,1,0,0
+1299081,2024-12-10,RB Leipzig,173,Aston Villa,66,2,3,0,0,1
+1299076,2024-12-10,Atalanta,499,Real Madrid,541,2,3,0,0,1
+1299082,2024-12-10,Shakhtar Donetsk,550,Bayern München,157,1,5,0,0,1
+1299079,2024-12-10,Club Brugge KV,569,Sporting CP,228,2,1,1,0,0
+1299080,2024-12-10,Red Bull Salzburg,571,Paris Saint Germain,85,0,3,0,0,1
+1299084,2024-12-11,Lille,79,Sturm Graz,637,3,2,1,0,0
+1299083,2024-12-11,Atletico Madrid,530,Slovan Bratislava,656,3,1,1,0,0
+1299091,2024-12-11,Arsenal,42,Monaco,91,3,0,1,0,0
+1299086,2024-12-11,Borussia Dortmund,165,Barcelona,529,2,3,0,0,1
+1299090,2024-12-11,VfB Stuttgart,172,BSC Young Boys,565,5,1,1,0,0
+1299087,2024-12-11,Feyenoord,209,Sparta Praha,628,4,2,1,0,0
+1299085,2024-12-11,Benfica,211,Bologna,500,0,0,0,1,0
+1299089,2024-12-11,AC Milan,489,FK Crvena Zvezda,598,2,1,1,0,0
+1299088,2024-12-11,Juventus,496,Manchester City,50,2,0,1,0,0
+1299093,2025-01-21,Monaco,91,Aston Villa,66,1,0,1,0,0
+1299092,2025-01-21,Atalanta,499,Sturm Graz,637,5,0,1,0,0
+1299099,2025-01-21,Liverpool,40,Lille,79,2,1,1,0,0
+1299095,2025-01-21,Benfica,211,Barcelona,529,4,5,0,0,1
+1299096,2025-01-21,Bologna,500,Borussia Dortmund,165,2,1,1,0,0
+1299094,2025-01-21,Atletico Madrid,530,Bayer Leverkusen,168,2,1,1,0,0
+1299097,2025-01-21,Club Brugge KV,569,Juventus,496,0,0,0,1,0
+1299098,2025-01-21,FK Crvena Zvezda,598,PSV Eindhoven,197,2,3,0,0,1
+1299100,2025-01-21,Slovan Bratislava,656,VfB Stuttgart,172,1,3,0,0,1
+1299101,2025-01-22,RB Leipzig,173,Sporting CP,228,2,1,1,0,0
+1299102,2025-01-22,Shakhtar Donetsk,550,Stade Brestois 29,106,2,0,1,0,0
+1299108,2025-01-22,Arsenal,42,Dinamo Zagreb,620,3,0,1,0,0
+1299106,2025-01-22,Paris Saint Germain,85,Manchester City,50,4,2,1,0,0
+1299104,2025-01-22,Feyenoord,209,Bayern München,157,3,0,1,0,0
+1299103,2025-01-22,Celtic,247,BSC Young Boys,565,1,0,1,0,0
+1299105,2025-01-22,AC Milan,489,Girona,547,1,0,1,0,0
+1299109,2025-01-22,Real Madrid,541,Red Bull Salzburg,571,5,1,1,0,0
+1299107,2025-01-22,Sparta Praha,628,Inter,505,0,1,0,0,1
+1299122,2025-01-29,Manchester City,50,Club Brugge KV,569,3,1,1,0,0
+1299110,2025-01-29,Aston Villa,66,Celtic,247,4,2,1,0,0
+1299121,2025-01-29,Lille,79,Feyenoord,209,6,1,1,0,0
+1299114,2025-01-29,Stade Brestois 29,106,Real Madrid,541,0,3,0,0,1
+1299116,2025-01-29,Bayern München,157,Slovan Bratislava,656,3,1,1,0,0
+1299113,2025-01-29,Borussia Dortmund,165,Shakhtar Donetsk,550,3,1,1,0,0
+1299112,2025-01-29,Bayer Leverkusen,168,Sparta Praha,628,2,0,1,0,0
+1299126,2025-01-29,VfB Stuttgart,172,Paris Saint Germain,85,1,4,0,0,1
+1299123,2025-01-29,PSV Eindhoven,197,Liverpool,40,3,2,1,0,0
+1299125,2025-01-29,Sporting CP,228,Bologna,500,1,1,0,1,0
+1299120,2025-01-29,Juventus,496,Benfica,211,0,2,0,0,1
+1299119,2025-01-29,Inter,505,Monaco,91,3,0,1,0,0
+1299111,2025-01-29,Barcelona,529,Atalanta,499,2,2,0,1,0
+1299118,2025-01-29,Girona,547,Arsenal,42,1,2,0,0,1
+1299127,2025-01-29,BSC Young Boys,565,FK Crvena Zvezda,598,0,1,0,0,1
+1299117,2025-01-29,Red Bull Salzburg,571,Atletico Madrid,530,1,4,0,0,1
+1299115,2025-01-29,Dinamo Zagreb,620,AC Milan,489,2,1,1,0,0
+1299124,2025-01-29,Sturm Graz,637,RB Leipzig,173,1,0,1,0,0
+1345737,2025-02-11,Stade Brestois 29,106,Paris Saint Germain,85,0,3,0,0,1
+1345743,2025-02-11,Manchester City,50,Real Madrid,541,2,3,0,0,1
+1345739,2025-02-11,Sporting CP,228,Borussia Dortmund,165,0,3,0,0,1
+1345741,2025-02-11,Juventus,496,PSV Eindhoven,197,2,1,1,0,0
+1345745,2025-02-12,Club Brugge KV,569,Atalanta,499,2,1,1,0,0
+1345749,2025-02-12,Monaco,91,Benfica,211,0,1,0,0,1
+1345747,2025-02-12,Feyenoord,209,AC Milan,489,1,0,1,0,0
+1345751,2025-02-12,Celtic,247,Bayern München,157,1,2,0,0,1
+1345748,2025-02-18,AC Milan,489,Feyenoord,209,1,1,0,1,0
+1345752,2025-02-18,Bayern München,157,Celtic,247,1,1,0,1,0
+1345750,2025-02-18,Benfica,211,Monaco,91,3,3,0,1,0
+1345746,2025-02-18,Atalanta,499,Club Brugge KV,569,1,3,0,0,1
+1345740,2025-02-19,Borussia Dortmund,165,Sporting CP,228,0,0,0,1,0
+1345738,2025-02-19,Paris Saint Germain,85,Stade Brestois 29,106,7,0,1,0,0
+1345744,2025-02-19,Real Madrid,541,Manchester City,50,3,1,1,0,0
+1353166,2025-03-04,Club Brugge KV,569,Aston Villa,66,1,3,0,0,1
+1353168,2025-03-04,Borussia Dortmund,165,Lille,79,1,1,0,1,0
+1353172,2025-03-04,PSV Eindhoven,197,Arsenal,42,1,7,0,0,1
+1353170,2025-03-04,Real Madrid,541,Atletico Madrid,530,2,1,1,0,0
+1353174,2025-03-05,Feyenoord,209,Inter,505,0,2,0,0,1
+1353178,2025-03-05,Paris Saint Germain,85,Liverpool,40,0,1,0,0,1
+1353180,2025-03-05,Bayern München,157,Bayer Leverkusen,168,3,0,1,0,0
+1353176,2025-03-05,Benfica,211,Barcelona,529,0,1,0,0,1
+1353177,2025-03-11,Barcelona,529,Benfica,211,3,1,1,0,0
+1353181,2025-03-11,Bayer Leverkusen,168,Bayern München,157,0,2,0,0,1
+1353175,2025-03-11,Inter,505,Feyenoord,209,2,1,1,0,0
+1353169,2025-03-12,Lille,79,Borussia Dortmund,165,1,2,0,0,1
+1353173,2025-03-12,Arsenal,42,PSV Eindhoven,197,2,2,0,1,0
+1353167,2025-03-12,Aston Villa,66,Club Brugge KV,569,3,0,1,0,0
+1360764,2025-04-08,Arsenal,42,Real Madrid,541,3,0,1,0,0
+1360333,2025-04-08,Bayern München,157,Inter,505,1,2,0,0,1
+1360762,2025-04-09,Paris Saint Germain,85,Aston Villa,66,3,1,1,0,0
+1360766,2025-04-09,Barcelona,529,Borussia Dortmund,165,4,0,1,0,0
+1360763,2025-04-15,Aston Villa,66,Paris Saint Germain,85,3,2,1,0,0
+1360767,2025-04-15,Borussia Dortmund,165,Barcelona,529,3,1,1,0,0
+1360334,2025-04-16,Inter,505,Bayern München,157,2,2,0,1,0
+1360765,2025-04-16,Real Madrid,541,Arsenal,42,1,2,0,0,1
+1371730,2025-04-29,Arsenal,42,Paris Saint Germain,85,0,1,0,0,1
+1371732,2025-04-30,Barcelona,529,Inter,505,3,3,0,1,0
+1371731,2025-05-07,Paris Saint Germain,85,Arsenal,42,2,1,1,0,0
+1374812,2025-05-31,Paris Saint Germain,85,Inter,505,5,0,1,0,0

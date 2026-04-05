@@ -1,0 +1,257 @@
+fixture_id,date,home_team,home_id,away_team,away_id,home_goals,away_goals,home_win,draw,away_win
+1208484,2024-07-11,IF Elfsborg,372,Pafos,3403,3,0,1,0,0
+1208488,2024-07-11,Sheriff Tiraspol,568,Zira,648,0,1,0,0,1
+1208486,2024-07-11,Paks,2390,Corvinul Hunedoara,20034,0,4,0,0,1
+1208492,2024-07-11,Ružomberok,3549,FK Tobol Kostanay,2259,5,2,1,0,0
+1208482,2024-07-11,Botev Plovdiv,634,Maribor,552,2,1,1,0,0
+1208490,2024-07-11,Wisla Krakow,338,Llapi,14395,2,0,1,0,0
+1208491,2024-07-18,Llapi,14395,Wisla Krakow,338,1,2,0,0,1
+1208493,2024-07-18,FK Tobol Kostanay,2259,Ružomberok,3549,1,0,1,0,0
+1208485,2024-07-18,Pafos,3403,IF Elfsborg,372,2,5,0,0,1
+1208487,2024-07-18,Corvinul Hunedoara,20034,Paks,2390,0,2,0,0,1
+1208483,2024-07-18,Maribor,552,Botev Plovdiv,634,2,2,0,1,0
+1251000,2024-07-25,Wisla Krakow,338,Rapid Vienna,781,1,2,0,0,1
+1250996,2024-07-25,Ružomberok,3549,Trabzonspor,998,0,2,0,0,1
+1209243,2024-07-25,Molde,329,Silkeborg,2073,3,1,1,0,0
+1250994,2024-07-25,Sheriff Tiraspol,568,IF Elfsborg,372,0,1,0,0,1
+1250998,2024-07-25,Corvinul Hunedoara,20034,HNK Rijeka,561,0,0,0,1,0
+1251002,2024-07-25,Panathinaikos,617,Botev Plovdiv,634,2,1,1,0,0
+1209239,2024-07-25,Ajax,194,Vojvodina,702,1,0,1,0,0
+1209241,2024-07-25,Kilmarnock,250,Cercle Brugge,741,1,1,0,1,0
+1209245,2024-07-25,SC Braga,217,Maccabi Petah Tikva,4495,2,0,1,0,0
+1250995,2024-08-01,IF Elfsborg,372,Sheriff Tiraspol,568,2,0,1,0,0
+1209244,2024-08-01,Silkeborg,2073,Molde,329,3,2,1,0,0
+1250997,2024-08-01,Trabzonspor,998,Ružomberok,3549,1,0,1,0,0
+1209246,2024-08-01,Maccabi Petah Tikva,4495,SC Braga,217,0,5,0,0,1
+1250999,2024-08-01,HNK Rijeka,561,Corvinul Hunedoara,20034,1,0,1,0,0
+1251003,2024-08-01,Botev Plovdiv,634,Panathinaikos,617,0,4,0,0,1
+1209240,2024-08-01,Vojvodina,702,Ajax,194,1,3,0,0,1
+1209242,2024-08-01,Cercle Brugge,741,Kilmarnock,250,1,0,1,0,0
+1251001,2024-08-01,Rapid Vienna,781,Wisla Krakow,338,6,1,1,0,0
+1274773,2024-08-06,Panevėžys,3874,Maccabi Tel Aviv,604,1,2,0,0,1
+1273694,2024-08-06,Petrocub,2271,The New Saints,354,1,0,1,0,0
+1274779,2024-08-08,Molde,329,Cercle Brugge,741,3,0,1,0,0
+1274785,2024-08-08,KI Klaksvik,701,Borac Banja Luka,3364,2,1,1,0,0
+1274777,2024-08-08,Trabzonspor,998,Rapid Vienna,781,0,1,0,0,1
+1274775,2024-08-08,HNK Rijeka,561,IF Elfsborg,372,1,1,0,1,0
+1274789,2024-08-08,FK Partizan,573,FC Lugano,606,0,1,0,0,1
+1274781,2024-08-08,Panathinaikos,617,Ajax,194,0,1,0,0,1
+1274787,2024-08-08,UE Santa Coloma,703,Rīgas FS,4160,0,2,0,0,1
+1253321,2024-08-08,Kryvbas KR,6489,Plzen,567,1,2,0,0,1
+1273692,2024-08-08,Celje,4360,Shamrock Rovers,652,1,0,1,0,0
+1274791,2024-08-08,Dinamo Minsk,394,Lincoln Red Imps FC,667,2,0,1,0,0
+1274783,2024-08-08,SC Braga,217,Servette FC,2184,0,0,0,1,0
+1273695,2024-08-13,The New Saints,354,Petrocub,2271,0,0,0,1,0
+1274788,2024-08-14,Rīgas FS,4160,UE Santa Coloma,703,7,0,1,0,0
+1274792,2024-08-15,Lincoln Red Imps FC,667,Dinamo Minsk,394,2,1,1,0,0
+1274778,2024-08-15,Rapid Vienna,781,Trabzonspor,998,2,0,1,0,0
+1274776,2024-08-15,IF Elfsborg,372,HNK Rijeka,561,2,0,1,0,0
+1253322,2024-08-15,Plzen,567,Kryvbas KR,6489,1,0,1,0,0
+1274780,2024-08-15,Cercle Brugge,741,Molde,329,1,0,1,0,0
+1274774,2024-08-15,Maccabi Tel Aviv,604,Panevėžys,3874,3,0,1,0,0
+1274784,2024-08-15,Servette FC,2184,SC Braga,217,1,2,0,0,1
+1287610,2024-08-22,Molde,329,IF Elfsborg,372,0,1,0,0,1
+1287614,2024-08-22,Plzen,567,Heart Of Midlothian,254,1,0,1,0,0
+1286917,2024-08-22,Lask Linz,1026,FCSB,559,1,1,0,1,0
+1286919,2024-08-22,Rīgas FS,4160,Apoel Nicosia,2247,2,1,1,0,0
+1287618,2024-08-22,PAOK,619,Shamrock Rovers,652,4,0,1,0,0
+1286915,2024-08-22,Ludogorets,566,Petrocub,2271,4,0,1,0,0
+1287608,2024-08-22,Maccabi Tel Aviv,604,TSC Backa Topola,2646,3,0,1,0,0
+1287606,2024-08-22,FC Lugano,606,Beşiktaş,549,3,3,0,1,0
+1287616,2024-08-22,Jagiellonia,336,Ajax,194,1,4,0,0,1
+1287604,2024-08-22,Dinamo Minsk,394,Anderlecht,554,0,1,0,0,1
+1287620,2024-08-22,Ferencvarosi TC,651,Borac Banja Luka,3364,0,0,0,1,0
+1287612,2024-08-22,SC Braga,217,Rapid Vienna,781,2,1,1,0,0
+1286916,2024-08-29,Petrocub,2271,Ludogorets,566,1,2,0,0,1
+1287617,2024-08-29,Ajax,194,Jagiellonia,336,3,0,1,0,0
+1287607,2024-08-29,Beşiktaş,549,FC Lugano,606,5,1,1,0,0
+1287605,2024-08-29,Anderlecht,554,Dinamo Minsk,394,1,0,1,0,0
+1286918,2024-08-29,FCSB,559,Lask Linz,1026,1,0,1,0,0
+1287615,2024-08-29,Heart Of Midlothian,254,Plzen,567,0,1,0,0,1
+1287619,2024-08-29,Shamrock Rovers,652,PAOK,619,0,2,0,0,1
+1287613,2024-08-29,Rapid Vienna,781,SC Braga,217,2,2,0,1,0
+1287609,2024-08-29,TSC Backa Topola,2646,Maccabi Tel Aviv,604,1,5,0,0,1
+1299128,2024-09-25,AZ Alkmaar,201,IF Elfsborg,372,3,2,1,0,0
+1299129,2024-09-25,Bodo/Glimt,327,FC Porto,212,3,2,1,0,0
+1299134,2024-09-25,Manchester United,33,Twente,415,1,1,0,1,0
+1299135,2024-09-25,Nice,84,Real Sociedad,548,1,1,0,1,0
+1299131,2024-09-25,FC Midtjylland,397,1899 Hoffenheim,167,1,1,0,1,0
+1299136,2024-09-25,Anderlecht,554,Ferencvarosi TC,651,2,1,1,0,0
+1299133,2024-09-25,Ludogorets,566,Slavia Praha,560,0,2,0,0,1
+1299130,2024-09-25,Dynamo Kyiv,572,Lazio,487,0,3,0,0,1
+1299132,2024-09-25,Galatasaray,645,PAOK,619,3,1,1,0,0
+1299138,2024-09-26,Malmo FF,375,Rangers,257,0,2,0,0,1
+1299137,2024-09-26,Fenerbahçe,611,Union St. Gilloise,1393,2,1,1,0,0
+1299145,2024-09-26,Tottenham,47,Qarabag,556,3,0,1,0,0
+1299142,2024-09-26,Lyon,80,Olympiakos Piraeus,553,2,0,1,0,0
+1299140,2024-09-26,Eintracht Frankfurt,169,Plzen,567,3,3,0,1,0
+1299139,2024-09-26,Ajax,194,Beşiktaş,549,4,0,1,0,0
+1299144,2024-09-26,SC Braga,217,Maccabi Tel Aviv,604,2,1,1,0,0
+1299143,2024-09-26,AS Roma,497,Athletic Club,531,1,1,0,1,0
+1299141,2024-09-26,FCSB,559,Rīgas FS,4160,4,1,1,0,0
+1299154,2024-10-03,1899 Hoffenheim,167,Dynamo Kyiv,572,2,0,1,0,0
+1299147,2024-10-03,Lazio,487,Nice,84,4,1,1,0,0
+1299151,2024-10-03,Real Sociedad,548,Anderlecht,554,1,2,0,0,1
+1299149,2024-10-03,Olympiakos Piraeus,553,SC Braga,217,3,0,1,0,0
+1299150,2024-10-03,Qarabag,556,Malmo FF,375,1,2,0,0,1
+1299153,2024-10-03,Slavia Praha,560,Ajax,194,1,1,0,1,0
+1299148,2024-10-03,Maccabi Tel Aviv,604,FC Midtjylland,397,0,2,0,0,1
+1299146,2024-10-03,Ferencvarosi TC,651,Tottenham,47,1,2,0,0,1
+1299152,2024-10-03,Rīgas FS,4160,Galatasaray,645,2,2,0,1,0
+1299158,2024-10-03,FC Porto,212,Manchester United,33,3,3,0,1,0
+1299161,2024-10-03,Rangers,257,Lyon,80,1,4,0,0,1
+1299157,2024-10-03,IF Elfsborg,372,AS Roma,497,1,0,1,0,0
+1299159,2024-10-03,Twente,415,Fenerbahçe,611,1,1,0,1,0
+1299155,2024-10-03,Athletic Club,531,AZ Alkmaar,201,2,0,1,0,0
+1299156,2024-10-03,Beşiktaş,549,Eintracht Frankfurt,169,1,3,0,0,1
+1299163,2024-10-03,Plzen,567,Ludogorets,566,0,0,0,1,0
+1299160,2024-10-03,PAOK,619,FCSB,559,0,1,0,0,1
+1299162,2024-10-03,Union St. Gilloise,1393,Bodo/Glimt,327,0,0,0,1,0
+1299165,2024-10-23,SC Braga,217,Bodo/Glimt,327,1,2,0,0,1
+1299164,2024-10-23,Galatasaray,645,IF Elfsborg,372,4,3,1,0,0
+1299166,2024-10-24,Eintracht Frankfurt,169,Rīgas FS,4160,1,0,1,0,0
+1299167,2024-10-24,FC Midtjylland,397,Union St. Gilloise,1393,1,0,1,0,0
+1299172,2024-10-24,AS Roma,497,Dynamo Kyiv,572,1,0,1,0,0
+1299171,2024-10-24,Qarabag,556,Ajax,194,0,3,0,0,1
+1299169,2024-10-24,Maccabi Tel Aviv,604,Real Sociedad,548,1,2,0,0,1
+1299170,2024-10-24,PAOK,619,Plzen,567,2,2,0,1,0
+1299168,2024-10-24,Ferencvarosi TC,651,Nice,84,1,0,1,0,0
+1299181,2024-10-24,Tottenham,47,AZ Alkmaar,201,1,0,1,0,0
+1299177,2024-10-24,Lyon,80,Beşiktaş,549,0,1,0,0,1
+1299174,2024-10-24,FC Porto,212,1899 Hoffenheim,167,2,0,1,0,0
+1299179,2024-10-24,Rangers,257,FCSB,559,4,0,1,0,0
+1299178,2024-10-24,Malmo FF,375,Olympiakos Piraeus,553,0,1,0,0,1
+1299175,2024-10-24,Twente,415,Lazio,487,0,2,0,0,1
+1299173,2024-10-24,Athletic Club,531,Slavia Praha,560,1,0,1,0,0
+1299180,2024-10-24,Anderlecht,554,Ludogorets,566,2,0,1,0,0
+1299176,2024-10-24,Fenerbahçe,611,Manchester United,33,1,1,0,1,0
+1299182,2024-11-06,Beşiktaş,549,Malmo FF,375,2,1,1,0,0
+1299189,2024-11-07,Nice,84,Twente,415,2,2,0,1,0
+1299184,2024-11-07,Eintracht Frankfurt,169,Slavia Praha,560,1,0,1,0,0
+1299183,2024-11-07,Bodo/Glimt,327,Qarabag,556,1,2,0,0,1
+1299185,2024-11-07,IF Elfsborg,372,SC Braga,217,1,1,0,1,0
+1299190,2024-11-07,Olympiakos Piraeus,553,Rangers,257,1,1,0,1,0
+1299186,2024-11-07,FCSB,559,FC Midtjylland,397,2,0,1,0,0
+1299188,2024-11-07,Ludogorets,566,Athletic Club,531,1,2,0,0,1
+1299187,2024-11-07,Galatasaray,645,Tottenham,47,3,2,1,0,0
+1299191,2024-11-07,Union St. Gilloise,1393,AS Roma,497,1,1,0,1,0
+1299196,2024-11-07,Manchester United,33,PAOK,619,2,0,1,0,0
+1299198,2024-11-07,1899 Hoffenheim,167,Lyon,80,2,2,0,1,0
+1299192,2024-11-07,Ajax,194,Maccabi Tel Aviv,604,5,0,1,0,0
+1299193,2024-11-07,AZ Alkmaar,201,Fenerbahçe,611,3,1,1,0,0
+1299195,2024-11-07,Lazio,487,FC Porto,212,2,1,1,0,0
+1299199,2024-11-07,Plzen,567,Real Sociedad,548,2,1,1,0,0
+1299194,2024-11-07,Dynamo Kyiv,572,Ferencvarosi TC,651,0,4,0,0,1
+1299197,2024-11-07,Rīgas FS,4160,Anderlecht,554,1,1,0,1,0
+1299201,2024-11-28,AZ Alkmaar,201,Galatasaray,645,1,1,0,1,0
+1299204,2024-11-28,Lazio,487,Ludogorets,566,0,0,0,1,0
+1299200,2024-11-28,Athletic Club,531,IF Elfsborg,372,3,0,1,0,0
+1299202,2024-11-28,Beşiktaş,549,Maccabi Tel Aviv,604,1,3,0,0,1
+1299207,2024-11-28,Anderlecht,554,FC Porto,212,2,2,0,1,0
+1299205,2024-11-28,Qarabag,556,Lyon,80,1,4,0,0,1
+1299203,2024-11-28,Dynamo Kyiv,572,Plzen,567,1,2,0,0,1
+1299206,2024-11-28,Rīgas FS,4160,PAOK,619,0,2,0,0,1
+1299212,2024-11-28,Manchester United,33,Bodo/Glimt,327,3,2,1,0,0
+1299217,2024-11-28,Tottenham,47,AS Roma,497,2,2,0,1,0
+1299213,2024-11-28,Nice,84,Rangers,257,1,4,0,0,1
+1299216,2024-11-28,SC Braga,217,1899 Hoffenheim,167,3,0,1,0,0
+1299208,2024-11-28,FC Midtjylland,397,Eintracht Frankfurt,169,1,2,0,0,1
+1299209,2024-11-28,Twente,415,Union St. Gilloise,1393,0,1,0,0,1
+1299214,2024-11-28,Real Sociedad,548,Ajax,194,2,0,1,0,0
+1299210,2024-11-28,FCSB,559,Olympiakos Piraeus,553,0,0,0,1,0
+1299215,2024-11-28,Slavia Praha,560,Fenerbahçe,611,1,2,0,0,1
+1299211,2024-11-28,Ferencvarosi TC,651,Malmo FF,375,4,1,1,0,0
+1299218,2024-12-11,Fenerbahçe,611,Athletic Club,531,0,2,0,0,1
+1299224,2024-12-12,1899 Hoffenheim,167,FCSB,559,0,0,0,1,0
+1299220,2024-12-12,Malmo FF,375,Galatasaray,645,2,2,0,1,0
+1299223,2024-12-12,AS Roma,497,SC Braga,217,3,0,1,0,0
+1299221,2024-12-12,Olympiakos Piraeus,553,Twente,415,0,0,0,1,0
+1299219,2024-12-12,Ludogorets,566,AZ Alkmaar,201,2,2,0,1,0
+1299226,2024-12-12,Plzen,567,Manchester United,33,1,2,0,0,1
+1299222,2024-12-12,PAOK,619,Ferencvarosi TC,651,5,0,1,0,0
+1299225,2024-12-12,Union St. Gilloise,1393,Nice,84,2,1,1,0,0
+1299231,2024-12-12,Lyon,80,Eintracht Frankfurt,169,3,2,1,0,0
+1299227,2024-12-12,Ajax,194,Lazio,487,1,3,0,0,1
+1299230,2024-12-12,FC Porto,212,FC Midtjylland,397,2,0,1,0,0
+1299233,2024-12-12,Rangers,257,Tottenham,47,1,1,0,1,0
+1299228,2024-12-12,Bodo/Glimt,327,Beşiktaş,549,2,1,1,0,0
+1299229,2024-12-12,IF Elfsborg,372,Qarabag,556,1,0,1,0,0
+1299234,2024-12-12,Real Sociedad,548,Dynamo Kyiv,572,3,0,1,0,0
+1299235,2024-12-12,Slavia Praha,560,Anderlecht,554,1,2,0,0,1
+1299232,2024-12-12,Maccabi Tel Aviv,604,Rīgas FS,4160,2,1,1,0,0
+1299236,2025-01-21,Galatasaray,645,Dynamo Kyiv,572,3,3,0,1,0
+1299237,2025-01-22,Beşiktaş,549,Athletic Club,531,4,1,1,0,0
+1299244,2025-01-23,1899 Hoffenheim,167,Tottenham,47,2,3,0,0,1
+1299238,2025-01-23,AZ Alkmaar,201,AS Roma,497,1,0,1,0,0
+1299240,2025-01-23,FC Porto,212,Olympiakos Piraeus,553,0,1,0,0,1
+1299239,2025-01-23,Bodo/Glimt,327,Maccabi Tel Aviv,604,3,1,1,0,0
+1299242,2025-01-23,Malmo FF,375,Twente,415,2,3,0,0,1
+1299243,2025-01-23,Qarabag,556,FCSB,559,2,3,0,0,1
+1299245,2025-01-23,Plzen,567,Anderlecht,554,2,0,1,0,0
+1299241,2025-01-23,Fenerbahçe,611,Lyon,80,0,0,0,1,0
+1299250,2025-01-23,Manchester United,33,Rangers,257,2,1,1,0,0
+1299246,2025-01-23,Eintracht Frankfurt,169,Ferencvarosi TC,651,2,0,1,0,0
+1299247,2025-01-23,IF Elfsborg,372,Nice,84,1,0,1,0,0
+1299248,2025-01-23,Lazio,487,Real Sociedad,548,3,1,1,0,0
+1299249,2025-01-23,Ludogorets,566,FC Midtjylland,397,0,2,0,0,1
+1299251,2025-01-23,PAOK,619,Slavia Praha,560,2,0,1,0,0
+1299253,2025-01-23,Union St. Gilloise,1393,SC Braga,217,2,1,1,0,0
+1299252,2025-01-23,Rīgas FS,4160,Ajax,194,1,0,1,0,0
+1299271,2025-01-30,Tottenham,47,IF Elfsborg,372,3,0,1,0,0
+1299261,2025-01-30,Lyon,80,Ludogorets,566,1,1,0,1,0
+1299263,2025-01-30,Nice,84,Bodo/Glimt,327,1,1,0,1,0
+1299254,2025-01-30,Ajax,194,Galatasaray,645,2,1,1,0,0
+1299270,2025-01-30,SC Braga,217,Lazio,487,1,0,1,0,0
+1299265,2025-01-30,Rangers,257,Union St. Gilloise,1393,2,1,1,0,0
+1299257,2025-01-30,FC Midtjylland,397,Fenerbahçe,611,2,2,0,1,0
+1299258,2025-01-30,Twente,415,Beşiktaş,549,1,0,1,0,0
+1299267,2025-01-30,AS Roma,497,Eintracht Frankfurt,169,2,0,1,0,0
+1299255,2025-01-30,Athletic Club,531,Plzen,567,3,1,1,0,0
+1299266,2025-01-30,Real Sociedad,548,PAOK,619,2,0,1,0,0
+1299264,2025-01-30,Olympiakos Piraeus,553,Qarabag,556,3,0,1,0,0
+1299268,2025-01-30,Anderlecht,554,1899 Hoffenheim,167,3,4,0,0,1
+1299259,2025-01-30,FCSB,559,Manchester United,33,0,2,0,0,1
+1299269,2025-01-30,Slavia Praha,560,Malmo FF,375,2,2,0,1,0
+1299256,2025-01-30,Dynamo Kyiv,572,Rīgas FS,4160,1,0,1,0,0
+1299262,2025-01-30,Maccabi Tel Aviv,604,FC Porto,212,0,1,0,0,1
+1299260,2025-01-30,Ferencvarosi TC,651,AZ Alkmaar,201,4,3,1,0,0
+1345755,2025-02-13,FC Midtjylland,397,Real Sociedad,548,1,2,0,0,1
+1345759,2025-02-13,Fenerbahçe,611,Anderlecht,554,3,0,1,0,0
+1345753,2025-02-13,Ferencvarosi TC,651,Plzen,567,1,0,1,0,0
+1345757,2025-02-13,Union St. Gilloise,1393,Ajax,194,0,2,0,0,1
+1345763,2025-02-13,AZ Alkmaar,201,Galatasaray,645,4,1,1,0,0
+1345761,2025-02-13,FC Porto,212,AS Roma,497,1,1,0,1,0
+1345767,2025-02-13,Twente,415,Bodo/Glimt,327,2,1,1,0,0
+1345765,2025-02-13,PAOK,619,FCSB,559,1,2,0,0,1
+1345762,2025-02-20,AS Roma,497,FC Porto,212,3,2,1,0,0
+1345766,2025-02-20,FCSB,559,PAOK,619,2,0,1,0,0
+1345764,2025-02-20,Galatasaray,645,AZ Alkmaar,201,2,2,0,1,0
+1345756,2025-02-20,Real Sociedad,548,FC Midtjylland,397,5,2,1,0,0
+1345760,2025-02-20,Anderlecht,554,Fenerbahçe,611,2,2,0,1,0
+1345754,2025-02-20,Plzen,567,Ferencvarosi TC,651,3,0,1,0,0
+1353186,2025-03-06,AZ Alkmaar,201,Tottenham,47,1,0,1,0,0
+1353192,2025-03-06,Real Sociedad,548,Manchester United,33,1,1,0,1,0
+1353190,2025-03-06,FCSB,559,Lyon,80,1,3,0,0,1
+1353188,2025-03-06,Fenerbahçe,611,Rangers,257,1,3,0,0,1
+1353198,2025-03-06,Ajax,194,Eintracht Frankfurt,169,1,2,0,0,1
+1353196,2025-03-06,Bodo/Glimt,327,Olympiakos Piraeus,553,3,0,1,0,0
+1353200,2025-03-06,AS Roma,497,Athletic Club,531,2,1,1,0,0
+1353194,2025-03-06,Plzen,567,Lazio,487,1,2,0,0,1
+1353199,2025-03-13,Eintracht Frankfurt,169,Ajax,194,4,1,1,0,0
+1353195,2025-03-13,Lazio,487,Plzen,567,1,1,0,1,0
+1353201,2025-03-13,Athletic Club,531,AS Roma,497,3,1,1,0,0
+1353197,2025-03-13,Olympiakos Piraeus,553,Bodo/Glimt,327,2,1,1,0,0
+1353193,2025-03-13,Manchester United,33,Real Sociedad,548,4,1,1,0,0
+1353187,2025-03-13,Tottenham,47,AZ Alkmaar,201,3,1,1,0,0
+1353191,2025-03-13,Lyon,80,FCSB,559,4,0,1,0,0
+1361276,2025-04-10,Bodo/Glimt,327,Lazio,487,2,0,1,0,0
+1361278,2025-04-10,Tottenham,47,Eintracht Frankfurt,169,1,1,0,1,0
+1361282,2025-04-10,Lyon,80,Manchester United,33,2,2,0,1,0
+1361280,2025-04-10,Rangers,257,Athletic Club,531,0,0,0,1,0
+1361279,2025-04-17,Eintracht Frankfurt,169,Tottenham,47,0,1,0,0,1
+1361281,2025-04-17,Athletic Club,531,Rangers,257,2,0,1,0,0
+1371990,2025-05-01,Tottenham,47,Bodo/Glimt,327,3,1,1,0,0
+1371992,2025-05-01,Athletic Club,531,Manchester United,33,0,3,0,0,1
+1371993,2025-05-08,Manchester United,33,Athletic Club,531,4,1,1,0,0
+1371991,2025-05-08,Bodo/Glimt,327,Tottenham,47,0,2,0,0,1
+1374897,2025-05-21,Tottenham,47,Manchester United,33,1,0,1,0,0

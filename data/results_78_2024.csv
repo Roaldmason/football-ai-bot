@@ -1,0 +1,309 @@
+fixture_id,date,home_team,home_id,away_team,away_id,home_goals,away_goals,home_win,draw,away_win
+1223975,2024-08-23,Borussia Mönchengladbach,163,Bayer Leverkusen,168,2,3,0,0,1
+1223979,2024-08-24,SC Freiburg,160,VfB Stuttgart,172,3,1,1,0,0
+1223982,2024-08-24,FSV Mainz 05,164,Union Berlin,182,1,1,0,1,0
+1223978,2024-08-24,1899 Hoffenheim,167,Holstein Kiel,191,3,2,1,0,0
+1223980,2024-08-24,FC Augsburg,170,Werder Bremen,162,2,2,0,1,0
+1223976,2024-08-24,RB Leipzig,173,VfL Bochum,176,1,0,1,0,0
+1223977,2024-08-24,Borussia Dortmund,165,Eintracht Frankfurt,169,2,0,1,0,0
+1223981,2024-08-25,VfL Wolfsburg,161,Bayern München,157,2,3,0,0,1
+1223983,2024-08-25,FC St. Pauli,186,1. FC Heidenheim,180,0,2,0,0,1
+1223990,2024-08-30,Union Berlin,182,FC St. Pauli,186,1,0,1,0,0
+1223989,2024-08-31,Werder Bremen,162,Borussia Dortmund,165,0,0,0,1,0
+1223987,2024-08-31,Eintracht Frankfurt,169,1899 Hoffenheim,167,3,1,1,0,0
+1223985,2024-08-31,VfB Stuttgart,172,FSV Mainz 05,164,3,3,0,1,0
+1223991,2024-08-31,VfL Bochum,176,Borussia Mönchengladbach,163,0,2,0,0,1
+1223992,2024-08-31,Holstein Kiel,191,VfL Wolfsburg,161,0,2,0,0,1
+1223984,2024-08-31,Bayer Leverkusen,168,RB Leipzig,173,2,3,0,0,1
+1223988,2024-09-01,1. FC Heidenheim,180,FC Augsburg,170,4,0,1,0,0
+1223986,2024-09-01,Bayern München,157,SC Freiburg,160,2,0,1,0,0
+1223994,2024-09-13,Borussia Dortmund,165,1. FC Heidenheim,180,4,2,1,0,0
+1223996,2024-09-14,SC Freiburg,160,VfL Bochum,176,2,1,1,0,0
+1223998,2024-09-14,VfL Wolfsburg,161,Eintracht Frankfurt,169,1,2,0,0,1
+1224000,2024-09-14,Borussia Mönchengladbach,163,VfB Stuttgart,172,1,3,0,0,1
+1223995,2024-09-14,1899 Hoffenheim,167,Bayer Leverkusen,168,1,4,0,0,1
+1223993,2024-09-14,RB Leipzig,173,Union Berlin,182,0,0,0,1,0
+1224001,2024-09-14,Holstein Kiel,191,Bayern München,157,1,6,0,0,1
+1223997,2024-09-15,FC Augsburg,170,FC St. Pauli,186,3,1,1,0,0
+1223999,2024-09-15,FSV Mainz 05,164,Werder Bremen,162,1,2,0,0,1
+1224007,2024-09-20,FC Augsburg,170,FSV Mainz 05,164,2,3,0,0,1
+1224006,2024-09-21,Werder Bremen,162,Bayern München,157,0,5,0,0,1
+1224009,2024-09-21,VfL Bochum,176,Holstein Kiel,191,2,2,0,1,0
+1224005,2024-09-21,1. FC Heidenheim,180,SC Freiburg,160,0,3,0,0,1
+1224008,2024-09-21,Union Berlin,182,1899 Hoffenheim,167,2,1,1,0,0
+1224004,2024-09-21,Eintracht Frankfurt,169,Borussia Mönchengladbach,163,2,0,1,0,0
+1224002,2024-09-22,Bayer Leverkusen,168,VfL Wolfsburg,161,4,3,1,0,0
+1224003,2024-09-22,VfB Stuttgart,172,Borussia Dortmund,165,5,1,1,0,0
+1224010,2024-09-22,FC St. Pauli,186,RB Leipzig,173,0,0,0,1,0
+1224013,2024-09-27,Borussia Dortmund,165,VfL Bochum,176,4,2,1,0,0
+1224015,2024-09-28,SC Freiburg,160,FC St. Pauli,186,0,3,0,0,1
+1224016,2024-09-28,VfL Wolfsburg,161,VfB Stuttgart,172,2,2,0,1,0
+1224018,2024-09-28,Borussia Mönchengladbach,163,Union Berlin,182,1,0,1,0,0
+1224017,2024-09-28,FSV Mainz 05,164,1. FC Heidenheim,180,0,2,0,0,1
+1224012,2024-09-28,RB Leipzig,173,FC Augsburg,170,4,0,1,0,0
+1224011,2024-09-28,Bayern München,157,Bayer Leverkusen,168,1,1,0,1,0
+1224019,2024-09-29,Holstein Kiel,191,Eintracht Frankfurt,169,2,4,0,0,1
+1224014,2024-09-29,1899 Hoffenheim,167,Werder Bremen,162,3,4,0,0,1
+1224025,2024-10-04,FC Augsburg,170,Borussia Mönchengladbach,163,2,1,1,0,0
+1224024,2024-10-05,Werder Bremen,162,SC Freiburg,160,0,1,0,0,1
+1224020,2024-10-05,Bayer Leverkusen,168,Holstein Kiel,191,2,2,0,1,0
+1224027,2024-10-05,VfL Bochum,176,VfL Wolfsburg,161,1,3,0,0,1
+1224026,2024-10-05,Union Berlin,182,Borussia Dortmund,165,2,1,1,0,0
+1224028,2024-10-05,FC St. Pauli,186,FSV Mainz 05,164,0,3,0,0,1
+1224023,2024-10-06,1. FC Heidenheim,180,RB Leipzig,173,0,1,0,0,1
+1224022,2024-10-06,Eintracht Frankfurt,169,Bayern München,157,3,3,0,1,0
+1224021,2024-10-06,VfB Stuttgart,172,1899 Hoffenheim,167,1,1,0,1,0
+1224031,2024-10-18,Borussia Dortmund,165,FC St. Pauli,186,2,1,1,0,0
+1224033,2024-10-19,SC Freiburg,160,FC Augsburg,170,3,1,1,0,0
+1224036,2024-10-19,Borussia Mönchengladbach,163,1. FC Heidenheim,180,3,2,1,0,0
+1224035,2024-10-19,FSV Mainz 05,164,RB Leipzig,173,0,2,0,0,1
+1224032,2024-10-19,1899 Hoffenheim,167,VfL Bochum,176,3,1,1,0,0
+1224029,2024-10-19,Bayer Leverkusen,168,Eintracht Frankfurt,169,2,1,1,0,0
+1224030,2024-10-19,Bayern München,157,VfB Stuttgart,172,4,0,1,0,0
+1224037,2024-10-20,Holstein Kiel,191,Union Berlin,182,0,2,0,0,1
+1224034,2024-10-20,VfL Wolfsburg,161,Werder Bremen,162,2,4,0,0,1
+1224043,2024-10-25,FSV Mainz 05,164,Borussia Mönchengladbach,163,1,1,0,1,0
+1224042,2024-10-26,FC Augsburg,170,Borussia Dortmund,165,2,1,1,0,0
+1224038,2024-10-26,VfB Stuttgart,172,Holstein Kiel,191,2,1,1,0,0
+1224039,2024-10-26,RB Leipzig,173,SC Freiburg,160,3,1,1,0,0
+1224046,2024-10-26,FC St. Pauli,186,VfL Wolfsburg,161,0,0,0,1,0
+1224041,2024-10-26,Werder Bremen,162,Bayer Leverkusen,168,2,2,0,1,0
+1224045,2024-10-27,VfL Bochum,176,Bayern München,157,0,5,0,0,1
+1224044,2024-10-27,Union Berlin,182,Eintracht Frankfurt,169,1,1,0,1,0
+1224040,2024-10-27,1. FC Heidenheim,180,1899 Hoffenheim,167,0,0,0,1,0
+1224047,2024-11-01,Bayer Leverkusen,168,VfB Stuttgart,172,0,0,0,1,0
+1224048,2024-11-02,Bayern München,157,Union Berlin,182,3,0,1,0,0
+1224053,2024-11-02,VfL Wolfsburg,161,FC Augsburg,170,1,1,0,1,0
+1224051,2024-11-02,1899 Hoffenheim,167,FC St. Pauli,186,0,2,0,0,1
+1224050,2024-11-02,Eintracht Frankfurt,169,VfL Bochum,176,7,2,1,0,0
+1224055,2024-11-02,Holstein Kiel,191,1. FC Heidenheim,180,1,0,1,0,0
+1224049,2024-11-02,Borussia Dortmund,165,RB Leipzig,173,2,1,1,0,0
+1224052,2024-11-03,SC Freiburg,160,FSV Mainz 05,164,0,0,0,1,0
+1224054,2024-11-03,Borussia Mönchengladbach,163,Werder Bremen,162,4,1,1,0,0
+1224062,2024-11-08,Union Berlin,182,SC Freiburg,160,0,0,0,1,0
+1224059,2024-11-09,Werder Bremen,162,Holstein Kiel,191,2,1,1,0,0
+1224061,2024-11-09,FSV Mainz 05,164,Borussia Dortmund,165,3,1,1,0,0
+1224063,2024-11-09,VfL Bochum,176,Bayer Leverkusen,168,1,1,0,1,0
+1224064,2024-11-09,FC St. Pauli,186,Bayern München,157,0,1,0,0,1
+1224057,2024-11-09,RB Leipzig,173,Borussia Mönchengladbach,163,0,0,0,1,0
+1224060,2024-11-10,FC Augsburg,170,1899 Hoffenheim,167,0,0,0,1,0
+1224056,2024-11-10,VfB Stuttgart,172,Eintracht Frankfurt,169,2,3,0,0,1
+1224058,2024-11-10,1. FC Heidenheim,180,VfL Wolfsburg,161,1,3,0,0,1
+1224067,2024-11-22,Bayern München,157,FC Augsburg,170,3,0,1,0,0
+1224071,2024-11-23,VfL Wolfsburg,161,Union Berlin,182,1,0,1,0,0
+1224068,2024-11-23,Borussia Dortmund,165,SC Freiburg,160,4,0,1,0,0
+1224070,2024-11-23,1899 Hoffenheim,167,RB Leipzig,173,4,3,1,0,0
+1224065,2024-11-23,Bayer Leverkusen,168,1. FC Heidenheim,180,5,2,1,0,0
+1224066,2024-11-23,VfB Stuttgart,172,VfL Bochum,176,2,0,1,0,0
+1224069,2024-11-23,Eintracht Frankfurt,169,Werder Bremen,162,1,0,1,0,0
+1224073,2024-11-24,Holstein Kiel,191,FSV Mainz 05,164,0,3,0,0,1
+1224072,2024-11-24,Borussia Mönchengladbach,163,FC St. Pauli,186,2,0,1,0,0
+1224082,2024-11-29,FC St. Pauli,186,Holstein Kiel,191,3,1,1,0,0
+1224078,2024-11-30,SC Freiburg,160,Borussia Mönchengladbach,163,3,1,1,0,0
+1224077,2024-11-30,Werder Bremen,162,VfB Stuttgart,172,2,2,0,1,0
+1224079,2024-11-30,FC Augsburg,170,VfL Bochum,176,1,0,1,0,0
+1224074,2024-11-30,RB Leipzig,173,VfL Wolfsburg,161,1,5,0,0,1
+1224081,2024-11-30,Union Berlin,182,Bayer Leverkusen,168,1,2,0,0,1
+1224075,2024-11-30,Borussia Dortmund,165,Bayern München,157,1,1,0,1,0
+1224080,2024-12-01,FSV Mainz 05,164,1899 Hoffenheim,167,2,0,1,0,0
+1224076,2024-12-01,1. FC Heidenheim,180,Eintracht Frankfurt,169,0,4,0,0,1
+1224084,2024-12-06,VfB Stuttgart,172,Union Berlin,182,3,2,1,0,0
+1224085,2024-12-07,Bayern München,157,1. FC Heidenheim,180,4,2,1,0,0
+1224083,2024-12-07,Bayer Leverkusen,168,FC St. Pauli,186,2,1,1,0,0
+1224086,2024-12-07,Eintracht Frankfurt,169,FC Augsburg,170,2,2,0,1,0
+1224090,2024-12-07,VfL Bochum,176,Werder Bremen,162,0,1,0,0,1
+1224091,2024-12-07,Holstein Kiel,191,RB Leipzig,173,0,2,0,0,1
+1224089,2024-12-07,Borussia Mönchengladbach,163,Borussia Dortmund,165,1,1,0,1,0
+1224088,2024-12-08,VfL Wolfsburg,161,FSV Mainz 05,164,4,3,1,0,0
+1224087,2024-12-08,1899 Hoffenheim,167,SC Freiburg,160,1,1,0,1,0
+1224095,2024-12-13,SC Freiburg,160,VfL Wolfsburg,161,3,2,1,0,0
+1224098,2024-12-14,Borussia Mönchengladbach,163,Holstein Kiel,191,4,1,1,0,0
+1224097,2024-12-14,FSV Mainz 05,164,Bayern München,157,2,1,1,0,0
+1224096,2024-12-14,FC Augsburg,170,Bayer Leverkusen,168,0,2,0,0,1
+1224099,2024-12-14,Union Berlin,182,VfL Bochum,176,1,1,0,1,0
+1224100,2024-12-14,FC St. Pauli,186,Werder Bremen,162,0,2,0,0,1
+1224094,2024-12-15,1. FC Heidenheim,180,VfB Stuttgart,172,1,3,0,0,1
+1224093,2024-12-15,Borussia Dortmund,165,1899 Hoffenheim,167,1,1,0,1,0
+1224092,2024-12-15,RB Leipzig,173,Eintracht Frankfurt,169,2,1,1,0,0
+1224103,2024-12-20,Bayern München,157,RB Leipzig,173,5,1,1,0,0
+1224106,2024-12-21,Werder Bremen,162,Union Berlin,182,4,1,1,0,0
+1224105,2024-12-21,1899 Hoffenheim,167,Borussia Mönchengladbach,163,1,2,0,0,1
+1224104,2024-12-21,Eintracht Frankfurt,169,FSV Mainz 05,164,1,3,0,0,1
+1224102,2024-12-21,VfB Stuttgart,172,FC St. Pauli,186,0,1,0,0,1
+1224109,2024-12-21,Holstein Kiel,191,FC Augsburg,170,5,1,1,0,0
+1224101,2024-12-21,Bayer Leverkusen,168,SC Freiburg,160,5,1,1,0,0
+1224108,2024-12-22,VfL Bochum,176,1. FC Heidenheim,180,2,0,1,0,0
+1224107,2024-12-22,VfL Wolfsburg,161,Borussia Dortmund,165,1,3,0,0,1
+1224111,2025-01-10,Borussia Dortmund,165,Bayer Leverkusen,168,2,3,0,0,1
+1224114,2025-01-11,SC Freiburg,160,Holstein Kiel,191,3,2,1,0,0
+1224116,2025-01-11,FSV Mainz 05,164,VfL Bochum,176,2,0,1,0,0
+1224112,2025-01-11,1899 Hoffenheim,167,VfL Wolfsburg,161,0,1,0,0,1
+1224113,2025-01-11,1. FC Heidenheim,180,Union Berlin,182,2,0,1,0,0
+1224118,2025-01-11,FC St. Pauli,186,Eintracht Frankfurt,169,0,1,0,0,1
+1224117,2025-01-11,Borussia Mönchengladbach,163,Bayern München,157,0,1,0,0,1
+1224110,2025-01-12,RB Leipzig,173,Werder Bremen,162,4,2,1,0,0
+1224115,2025-01-12,FC Augsburg,170,VfB Stuttgart,172,0,1,0,0,1
+1224127,2025-01-14,Holstein Kiel,191,Borussia Dortmund,165,4,2,1,0,0
+1224124,2025-01-14,VfL Wolfsburg,161,Borussia Mönchengladbach,163,5,1,1,0,0
+1224119,2025-01-14,Bayer Leverkusen,168,FSV Mainz 05,164,1,0,1,0,0
+1224122,2025-01-14,Eintracht Frankfurt,169,SC Freiburg,160,4,1,1,0,0
+1224126,2025-01-15,VfL Bochum,176,FC St. Pauli,186,1,0,1,0,0
+1224121,2025-01-15,Bayern München,157,1899 Hoffenheim,167,5,0,1,0,0
+1224123,2025-01-15,Werder Bremen,162,1. FC Heidenheim,180,3,3,0,1,0
+1224120,2025-01-15,VfB Stuttgart,172,RB Leipzig,173,2,1,1,0,0
+1224125,2025-01-15,Union Berlin,182,FC Augsburg,170,0,2,0,0,1
+1224131,2025-01-17,Eintracht Frankfurt,169,Borussia Dortmund,165,2,0,1,0,0
+1224130,2025-01-18,Bayern München,157,VfL Wolfsburg,161,3,2,1,0,0
+1224129,2025-01-18,VfB Stuttgart,172,SC Freiburg,160,4,0,1,0,0
+1224135,2025-01-18,VfL Bochum,176,RB Leipzig,173,3,3,0,1,0
+1224132,2025-01-18,1. FC Heidenheim,180,FC St. Pauli,186,0,2,0,0,1
+1224136,2025-01-18,Holstein Kiel,191,1899 Hoffenheim,167,1,3,0,0,1
+1224128,2025-01-18,Bayer Leverkusen,168,Borussia Mönchengladbach,163,3,1,1,0,0
+1224134,2025-01-19,Union Berlin,182,FSV Mainz 05,164,2,1,1,0,0
+1224133,2025-01-19,Werder Bremen,162,FC Augsburg,170,0,2,0,0,1
+1224142,2025-01-24,VfL Wolfsburg,161,Holstein Kiel,191,2,2,0,1,0
+1224140,2025-01-25,SC Freiburg,160,Bayern München,157,1,2,0,0,1
+1224143,2025-01-25,FSV Mainz 05,164,VfB Stuttgart,172,2,0,1,0,0
+1224138,2025-01-25,Borussia Dortmund,165,Werder Bremen,162,2,2,0,1,0
+1224141,2025-01-25,FC Augsburg,170,1. FC Heidenheim,180,2,1,1,0,0
+1224137,2025-01-25,RB Leipzig,173,Bayer Leverkusen,168,2,2,0,1,0
+1224144,2025-01-25,Borussia Mönchengladbach,163,VfL Bochum,176,3,0,1,0,0
+1224139,2025-01-26,1899 Hoffenheim,167,Eintracht Frankfurt,169,2,2,0,1,0
+1224145,2025-01-26,FC St. Pauli,186,Union Berlin,182,3,0,1,0,0
+1224151,2025-01-31,Werder Bremen,162,FSV Mainz 05,164,1,0,1,0,0
+1224148,2025-02-01,Bayern München,157,Holstein Kiel,191,4,3,1,0,0
+1224147,2025-02-01,VfB Stuttgart,172,Borussia Mönchengladbach,163,1,2,0,0,1
+1224153,2025-02-01,VfL Bochum,176,SC Freiburg,160,0,1,0,0,1
+1224150,2025-02-01,1. FC Heidenheim,180,Borussia Dortmund,165,1,2,0,0,1
+1224154,2025-02-01,FC St. Pauli,186,FC Augsburg,170,1,1,0,1,0
+1224152,2025-02-01,Union Berlin,182,RB Leipzig,173,0,0,0,1,0
+1224149,2025-02-02,Eintracht Frankfurt,169,VfL Wolfsburg,161,1,1,0,1,0
+1224146,2025-02-02,Bayer Leverkusen,168,1899 Hoffenheim,167,3,1,1,0,0
+1224155,2025-02-07,Bayern München,157,Werder Bremen,162,3,0,1,0,0
+1224159,2025-02-08,SC Freiburg,160,1. FC Heidenheim,180,1,0,1,0,0
+1224160,2025-02-08,VfL Wolfsburg,161,Bayer Leverkusen,168,0,0,0,1,0
+1224161,2025-02-08,FSV Mainz 05,164,FC Augsburg,170,0,0,0,1,0
+1224157,2025-02-08,Borussia Dortmund,165,VfB Stuttgart,172,1,2,0,0,1
+1224158,2025-02-08,1899 Hoffenheim,167,Union Berlin,182,0,4,0,0,1
+1224162,2025-02-08,Borussia Mönchengladbach,163,Eintracht Frankfurt,169,1,1,0,1,0
+1224163,2025-02-09,Holstein Kiel,191,VfL Bochum,176,2,2,0,1,0
+1224156,2025-02-09,RB Leipzig,173,FC St. Pauli,186,2,0,1,0,0
+1224169,2025-02-14,FC Augsburg,170,RB Leipzig,173,0,0,0,1,0
+1224165,2025-02-15,VfB Stuttgart,172,VfL Wolfsburg,161,1,2,0,0,1
+1224171,2025-02-15,VfL Bochum,176,Borussia Dortmund,165,2,0,1,0,0
+1224170,2025-02-15,Union Berlin,182,Borussia Mönchengladbach,163,1,2,0,0,1
+1224172,2025-02-15,FC St. Pauli,186,SC Freiburg,160,0,1,0,0,1
+1224164,2025-02-15,Bayer Leverkusen,168,Bayern München,157,0,0,0,1,0
+1224168,2025-02-16,Werder Bremen,162,1899 Hoffenheim,167,1,3,0,0,1
+1224166,2025-02-16,Eintracht Frankfurt,169,Holstein Kiel,191,3,1,1,0,0
+1224167,2025-02-16,1. FC Heidenheim,180,FSV Mainz 05,164,0,2,0,0,1
+1224177,2025-02-21,SC Freiburg,160,Werder Bremen,162,5,0,1,0,0
+1224178,2025-02-22,VfL Wolfsburg,161,VfL Bochum,176,1,1,0,1,0
+1224180,2025-02-22,Borussia Mönchengladbach,163,FC Augsburg,170,0,3,0,0,1
+1224179,2025-02-22,FSV Mainz 05,164,FC St. Pauli,186,2,0,1,0,0
+1224181,2025-02-22,Holstein Kiel,191,Bayer Leverkusen,168,0,2,0,0,1
+1224175,2025-02-22,Borussia Dortmund,165,Union Berlin,182,6,0,1,0,0
+1224174,2025-02-23,RB Leipzig,173,1. FC Heidenheim,180,2,2,0,1,0
+1224173,2025-02-23,Bayern München,157,Eintracht Frankfurt,169,4,0,1,0,0
+1224176,2025-02-23,1899 Hoffenheim,167,VfB Stuttgart,172,1,1,0,1,0
+1224182,2025-02-28,VfB Stuttgart,172,Bayern München,157,1,3,0,0,1
+1224186,2025-03-01,Werder Bremen,162,VfL Wolfsburg,161,1,2,0,0,1
+1224183,2025-03-01,RB Leipzig,173,FSV Mainz 05,164,1,2,0,0,1
+1224189,2025-03-01,VfL Bochum,176,1899 Hoffenheim,167,0,1,0,0,1
+1224185,2025-03-01,1. FC Heidenheim,180,Borussia Mönchengladbach,163,0,3,0,0,1
+1224190,2025-03-01,FC St. Pauli,186,Borussia Dortmund,165,0,2,0,0,1
+1224184,2025-03-01,Eintracht Frankfurt,169,Bayer Leverkusen,168,1,4,0,0,1
+1224188,2025-03-02,Union Berlin,182,Holstein Kiel,191,0,1,0,0,1
+1224187,2025-03-02,FC Augsburg,170,SC Freiburg,160,0,0,0,1,0
+1224198,2025-03-07,Borussia Mönchengladbach,163,FSV Mainz 05,164,1,3,0,0,1
+1224192,2025-03-08,Bayern München,157,VfL Bochum,176,2,3,0,0,1
+1224197,2025-03-08,VfL Wolfsburg,161,FC St. Pauli,186,1,1,0,1,0
+1224193,2025-03-08,Borussia Dortmund,165,FC Augsburg,170,0,1,0,0,1
+1224191,2025-03-08,Bayer Leverkusen,168,Werder Bremen,162,0,2,0,0,1
+1224199,2025-03-08,Holstein Kiel,191,VfB Stuttgart,172,2,2,0,1,0
+1224196,2025-03-08,SC Freiburg,160,RB Leipzig,173,0,0,0,1,0
+1224194,2025-03-09,Eintracht Frankfurt,169,Union Berlin,182,1,2,0,0,1
+1224195,2025-03-09,1899 Hoffenheim,167,1. FC Heidenheim,180,1,1,0,1,0
+1224208,2025-03-14,FC St. Pauli,186,1899 Hoffenheim,167,1,0,1,0,0
+1224203,2025-03-15,Werder Bremen,162,Borussia Mönchengladbach,163,2,4,0,0,1
+1224205,2025-03-15,FSV Mainz 05,164,SC Freiburg,160,2,2,0,1,0
+1224204,2025-03-15,FC Augsburg,170,VfL Wolfsburg,161,1,0,1,0,0
+1224206,2025-03-15,Union Berlin,182,Bayern München,157,1,1,0,1,0
+1224201,2025-03-15,RB Leipzig,173,Borussia Dortmund,165,2,0,1,0,0
+1224207,2025-03-16,VfL Bochum,176,Eintracht Frankfurt,169,1,3,0,0,1
+1224202,2025-03-16,1. FC Heidenheim,180,Holstein Kiel,191,3,1,1,0,0
+1224200,2025-03-16,VfB Stuttgart,172,Bayer Leverkusen,168,3,4,0,0,1
+1224209,2025-03-28,Bayer Leverkusen,168,VfL Bochum,176,3,1,1,0,0
+1224210,2025-03-29,Bayern München,157,FC St. Pauli,186,3,2,1,0,0
+1224215,2025-03-29,VfL Wolfsburg,161,1. FC Heidenheim,180,0,1,0,0,1
+1224216,2025-03-29,Borussia Mönchengladbach,163,RB Leipzig,173,1,0,1,0,0
+1224213,2025-03-29,1899 Hoffenheim,167,FC Augsburg,170,1,1,0,1,0
+1224217,2025-03-29,Holstein Kiel,191,Werder Bremen,162,0,3,0,0,1
+1224212,2025-03-29,Eintracht Frankfurt,169,VfB Stuttgart,172,1,0,1,0,0
+1224214,2025-03-30,SC Freiburg,160,Union Berlin,182,1,2,0,0,1
+1224211,2025-03-30,Borussia Dortmund,165,FSV Mainz 05,164,3,1,1,0,0
+1224222,2025-04-04,FC Augsburg,170,Bayern München,157,1,3,0,0,1
+1224221,2025-04-05,SC Freiburg,160,Borussia Dortmund,165,1,4,0,0,1
+1224223,2025-04-05,FSV Mainz 05,164,Holstein Kiel,191,1,1,0,1,0
+1224218,2025-04-05,RB Leipzig,173,1899 Hoffenheim,167,3,1,1,0,0
+1224225,2025-04-05,VfL Bochum,176,VfB Stuttgart,172,0,4,0,0,1
+1224219,2025-04-05,1. FC Heidenheim,180,Bayer Leverkusen,168,0,1,0,0,1
+1224220,2025-04-05,Werder Bremen,162,Eintracht Frankfurt,169,2,0,1,0,0
+1224226,2025-04-06,FC St. Pauli,186,Borussia Mönchengladbach,163,1,1,0,1,0
+1224224,2025-04-06,Union Berlin,182,VfL Wolfsburg,161,1,0,1,0,0
+1224232,2025-04-11,VfL Wolfsburg,161,RB Leipzig,173,2,3,0,0,1
+1224233,2025-04-12,Borussia Mönchengladbach,163,SC Freiburg,160,1,2,0,0,1
+1224231,2025-04-12,1899 Hoffenheim,167,FSV Mainz 05,164,2,0,1,0,0
+1224227,2025-04-12,Bayer Leverkusen,168,Union Berlin,182,0,0,0,1,0
+1224234,2025-04-12,VfL Bochum,176,FC Augsburg,170,1,2,0,0,1
+1224235,2025-04-12,Holstein Kiel,191,FC St. Pauli,186,1,2,0,0,1
+1224229,2025-04-12,Bayern München,157,Borussia Dortmund,165,2,2,0,1,0
+1224228,2025-04-13,VfB Stuttgart,172,Werder Bremen,162,1,2,0,0,1
+1224230,2025-04-13,Eintracht Frankfurt,169,1. FC Heidenheim,180,3,0,1,0,0
+1224240,2025-04-19,SC Freiburg,160,1899 Hoffenheim,167,3,2,1,0,0
+1224239,2025-04-19,Werder Bremen,162,VfL Bochum,176,1,0,1,0,0
+1224242,2025-04-19,FSV Mainz 05,164,VfL Wolfsburg,161,2,2,0,1,0
+1224236,2025-04-19,RB Leipzig,173,Holstein Kiel,191,1,1,0,1,0
+1224238,2025-04-19,1. FC Heidenheim,180,Bayern München,157,0,4,0,0,1
+1224243,2025-04-19,Union Berlin,182,VfB Stuttgart,172,4,4,0,1,0
+1224241,2025-04-20,FC Augsburg,170,Eintracht Frankfurt,169,0,0,0,1,0
+1224237,2025-04-20,Borussia Dortmund,165,Borussia Mönchengladbach,163,3,2,1,0,0
+1224244,2025-04-20,FC St. Pauli,186,Bayer Leverkusen,168,1,1,0,1,0
+1224246,2025-04-25,VfB Stuttgart,172,1. FC Heidenheim,180,0,1,0,0,1
+1224247,2025-04-26,Bayern München,157,FSV Mainz 05,164,3,0,1,0,0
+1224251,2025-04-26,VfL Wolfsburg,161,SC Freiburg,160,0,1,0,0,1
+1224249,2025-04-26,1899 Hoffenheim,167,Borussia Dortmund,165,2,3,0,0,1
+1224245,2025-04-26,Bayer Leverkusen,168,FC Augsburg,170,2,0,1,0,0
+1224253,2025-04-26,Holstein Kiel,191,Borussia Mönchengladbach,163,4,3,1,0,0
+1224248,2025-04-26,Eintracht Frankfurt,169,RB Leipzig,173,4,0,1,0,0
+1224252,2025-04-27,VfL Bochum,176,Union Berlin,182,1,1,0,1,0
+1224250,2025-04-27,Werder Bremen,162,FC St. Pauli,186,0,0,0,1,0
+1224256,2025-05-02,1. FC Heidenheim,180,VfL Bochum,176,0,0,0,1,0
+1224260,2025-05-03,Borussia Mönchengladbach,163,1899 Hoffenheim,167,4,4,0,1,0
+1224254,2025-05-03,RB Leipzig,173,Bayern München,157,3,3,0,1,0
+1224261,2025-05-03,Union Berlin,182,Werder Bremen,162,2,2,0,1,0
+1224262,2025-05-03,FC St. Pauli,186,VfB Stuttgart,172,0,1,0,0,1
+1224255,2025-05-03,Borussia Dortmund,165,VfL Wolfsburg,161,4,0,1,0,0
+1224258,2025-05-04,FC Augsburg,170,Holstein Kiel,191,1,3,0,0,1
+1224257,2025-05-04,SC Freiburg,160,Bayer Leverkusen,168,2,2,0,1,0
+1224259,2025-05-04,FSV Mainz 05,164,Eintracht Frankfurt,169,1,1,0,1,0
+1224268,2025-05-09,VfL Wolfsburg,161,1899 Hoffenheim,167,2,2,0,1,0
+1224267,2025-05-10,Werder Bremen,162,RB Leipzig,173,0,0,0,1,0
+1224270,2025-05-10,VfL Bochum,176,FSV Mainz 05,164,1,4,0,0,1
+1224269,2025-05-10,Union Berlin,182,1. FC Heidenheim,180,0,3,0,0,1
+1224271,2025-05-10,Holstein Kiel,191,SC Freiburg,160,1,2,0,0,1
+1224265,2025-05-10,Bayern München,157,Borussia Mönchengladbach,163,2,0,1,0,0
+1224263,2025-05-11,Bayer Leverkusen,168,Borussia Dortmund,165,2,4,0,0,1
+1224266,2025-05-11,Eintracht Frankfurt,169,FC St. Pauli,186,2,2,0,1,0
+1224264,2025-05-11,VfB Stuttgart,172,FC Augsburg,170,4,0,1,0,0
+1224276,2025-05-17,SC Freiburg,160,Eintracht Frankfurt,169,1,3,0,0,1
+1224279,2025-05-17,Borussia Mönchengladbach,163,VfL Wolfsburg,161,0,1,0,0,1
+1224278,2025-05-17,FSV Mainz 05,164,Bayer Leverkusen,168,2,2,0,1,0
+1224273,2025-05-17,Borussia Dortmund,165,Holstein Kiel,191,3,0,1,0,0
+1224274,2025-05-17,1899 Hoffenheim,167,Bayern München,157,0,4,0,0,1
+1224277,2025-05-17,FC Augsburg,170,Union Berlin,182,1,2,0,0,1
+1224272,2025-05-17,RB Leipzig,173,VfB Stuttgart,172,2,3,0,0,1
+1224275,2025-05-17,1. FC Heidenheim,180,Werder Bremen,162,1,4,0,0,1
+1224280,2025-05-17,FC St. Pauli,186,VfL Bochum,176,0,2,0,0,1
+1375862,2025-05-22,1. FC Heidenheim,180,SV Elversberg,1660,2,2,0,1,0
+1375863,2025-05-26,SV Elversberg,1660,1. FC Heidenheim,180,1,2,0,0,1

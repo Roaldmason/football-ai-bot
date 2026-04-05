@@ -1,0 +1,9 @@
+pandas>=2.0
+requests>=2.31
+scikit-learn>=1.4
+xgboost>=2.0
+python-telegram-bot>=21.0
+schedule>=1.2
+numpy>=1.26
+ccxt
+python-dotenv
