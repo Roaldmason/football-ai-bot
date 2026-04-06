@@ -1,10 +1,12 @@
 import os
+ import os
+
+TELEGRAM_BOT_TOKEN  = os.getenv("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHANNEL_ID = os.getenv("TELEGRAM_CHANNEL_ID", "")
-TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
-TELEGRAM_CHANNEL_ID = os.getenv("TELEGRAM_CHANNEL_ID", "")
-TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
-API_KEY = os.getenv("API_KEY")
-# football-data.org competition codes
+API_KEY             = os.getenv("API_KEY")
+API_FOOTBALL_KEY    = os.getenv("API_FOOTBALL_KEY", "")
+API_FOOTBALL_BASE   = os.getenv("API_FOOTBALL_BASE", "https://api-football-v3.p.rapidapi.com")
+API_FOOTBALL_SEASON = os.getenv("API_FOOTBALL_SEASON", "2024")
 LEAGUES = {
     "Premier League":    {"id": "PL",   "flag": "PL"},
     "La Liga":           {"id": "PD",   "flag": "LL"},
