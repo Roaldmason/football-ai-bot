@@ -1,5 +1,4 @@
 import os
- import os
 
 TELEGRAM_BOT_TOKEN  = os.getenv("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHANNEL_ID = os.getenv("TELEGRAM_CHANNEL_ID", "")
@@ -7,6 +6,7 @@ API_KEY             = os.getenv("API_KEY")
 API_FOOTBALL_KEY    = os.getenv("API_FOOTBALL_KEY", "")
 API_FOOTBALL_BASE   = os.getenv("API_FOOTBALL_BASE", "https://api-football-v3.p.rapidapi.com")
 API_FOOTBALL_SEASON = os.getenv("API_FOOTBALL_SEASON", "2024")
+
 LEAGUES = {
     "Premier League":    {"id": "PL",   "flag": "PL"},
     "La Liga":           {"id": "PD",   "flag": "LL"},
@@ -17,7 +17,7 @@ LEAGUES = {
     "Champions League":  {"id": "CL",   "flag": "UCL"},
     "Europa League":     {"id": "EL",   "flag": "UEL"},
     "Conference League": {"id": "UECL", "flag": "UECL"},
-    "Saudi Pro League":  {"id": "SPL",   "flag": "SPL"},
+    "Saudi Pro League":  {"id": "SPL",  "flag": "SPL"},
 }
 
 ACCA_TARGET_ODDS = 5.00
